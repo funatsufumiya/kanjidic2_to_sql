@@ -161,7 +161,7 @@ for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00094.txt; 
 time ./to_ja_parallel.js -f 10100 -t 10199
 for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00095.txt; done
 time ./to_ja_parallel.js -f 10009600 -t 10299
-for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_02.txt; done
+for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00096.txt; done
 time ./to_ja_parallel.js -f 10300 -t 10399
 for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00097.txt; done
 time ./to_ja_parallel.js -f 10400 -t 10499
