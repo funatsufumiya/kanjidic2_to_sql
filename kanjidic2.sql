@@ -1305,7 +1305,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7D14', '純', 10, 6, 'genuine,purity,innocence,net (profit)', 'ジュン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5DE1', '巡', 5, 8, 'patrol,go around,circumference', 'ジュン', 'めぐ.る,めぐ.り');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9075', '遵', 14, 8, 'abide by,follow,obey,learn', 'ジュン', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9187', '醇', 15, 9, 'pure sake\',purity,affection', 'ジュン,シュン', 'もっぱら,こい,あつい');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9187', '醇', 15, 9, 'pure sake,purity,affection', 'ジュン,シュン', 'もっぱら,こい,あつい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9806', '順', 12, 4, 'obey,order,turn,right,docility,occasion', 'ジュン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('51E6', '処', 5, 6, 'dispose,manage,deal with,sentence,condemn,act,behave,place', 'ショ', 'ところ,-こ,お.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('521D', '初', 7, 4, 'first time,beginning', 'ショ', 'はじ.め,はじ.めて,はつ,はつ-,うい-,-そ.める,-ぞ.め');
