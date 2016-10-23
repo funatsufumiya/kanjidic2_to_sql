@@ -1,0 +1,100 @@
+6C54 (汔):  | 
+6C59 (汙): 不潔な,汚れた,不純な,汚染されました | filthy,dirty,impure,polluted
+6C5B (汛): 最高水位,洪水潮 | high water,flood tides
+6C5C (汜): その後リターンをメインブランチを残しストリーム | stream which leaves the main branch then later returns
+6C6B (汫):  | 
+6C6D (汭): 二つの流れの合流,ベンド | confluence of two streams,bend
+6C6F (汯):  | 
+6C74 (汴): 河南省の川の名前,河南省 | name of a river in Henan,Henan
+6C76 (汶): 山東省の川 | river in Shandong province
+6C78 (汸):  | 
+6C79 (汹): 荒れ狂います,うるさい,落ち着きのありません | turbulent,noisy,restless
+6C7B (汻):  | 
+6C85 (沅): 洞庭湖に流入西部の湖南省の川の名前 | name of a river in western Hunan that flows into Dongting lake
+6C86 (沆): フェリー,霧,流れます | ferry,fog,flowing
+6C87 (沇): 流れると飲み込みます,あふれんばかりの | flowing and engulfing,brimming
+6C89 (沉): シンク,水没,中毒 | sink,submerge,addicted to
+6C94 (沔): 洪水,あふれます | flood,overflowing
+6C95 (沕): 深い | deep
+6C97 (沗):  | 
+6C98 (沘): 川の名前 | name of a river
+6C9C (沜):  | 
+6C9F (沟): 溝,ドレイン,狭い水路 | ditch,drain,narrow waterway
+6CB0 (沰): ドロップを聞かせします | to let drop
+6CB2 (沲): 浮く | float
+6CB4 (沴): 混乱の中でファウルと有毒,相容れないです | foul and poisonous in confusion,out of harmony
+6CC2 (泂): （水の）明確かつ深いです,ワイド | clear and deep (of water),wide
+6CC6 (泆): 勝手気ままな,放蕩者,消散させます | licentious,libertine,dissipate
+6CCD (泍):  | 
+6CCF (泏):  | 
+6CD0 (泐): 書くために,起訴します | to write,to indite
+6CD1 (泑): 中国でのガラス質の釉薬,磁器,等 | the vitreous glaze on china, porcelain, etc.
+6CD2 (泒): 湖北省の川 | river in Hubei province
+6CD4 (泔): 洗米からの水,厚い沸騰します,粥など,すすぎ＆; 髪をとかす | water from washing rice,to boil thick, as gruel,rinse &amp; comb hair
+6CD6 (泖): まだ水をやります,江蘇省の川 | still waters,river in Jiangsu
+6CDA (泚): クリア,明るく鮮やかな,汗 | clear,bright and brilliant,sweat
+6CDC (泜): 河北省の川 | river in Hebei province
+6CE0 (泠): とても涼しいです,マイルドで快適 | nice and cool,mild and comfortable
+6CE7 (泧):  | 
+6CE9 (泩):  | 
+6CEB (泫): 泣きます,泣く,輝き,輝きます | weep,cry,shine,glisten
+6CEC (泬):  | 
+6CEE (泮): 周王朝の学校,分散させます,バラバラになります | Zhou dynasty school,disperse,fall apart
+6CF2 (泲): 白ワインの種類 | kind of white wine
+6CF4 (泴):  | 
+6D04 (洄): バック水,渦,渦,流水 | back-water,eddy,whirlpool,flowing water
+6D07 (洇):  | 
+6D0A (洊): 流水 | flowing water
+6D0E (洎): まで,迄,スープ,ソークします | until,till,soup,to soak
+6D0F (洏): 涙,涙ぐみました | tears,tearful
+6D11 (洑): 渦,底流 | whirlpool,undercurrent
+6D13 (洓):  | 
+6D1A (洚):  | 
+6D26 (洦):  | 
+6D27 (洧): Honanの川の名前 | name of a river in Honan
+6D28 (洨): 河北省の川 | river in Hebei province
+6C67 (汧): 山東省にある川の名前,湿地,浮く | name of a river in Shandong,marsh,float
+6D2E (洮): 清めます,甘粛省の川 | cleanse,river in Gansu province
+6D2F (洯):  | 
+6D31 (洱): 雲南省の湖 | lake in Yunnan
+6D39 (洹): 河南省の川 | river in Henan province
+6D3C (洼): ホロー,ピット,うつ病,沼地 | hollow,pit,depression,swamp
+6D3F (洿): 停滞水,不純な,不潔な | stagnant water,impure,filthy
+6D57 (浗):  | 
+6D5E (浞):  | 
+6D5F (浟):  | 
+6D61 (浡): 飛び出します,上昇,活発な | burst forth,rise,vigorous
+6D65 (浥): 湿りました,ぬれました,湿らせます | moist,wet,dampen
+6D67 (浧):  | 
+6D6F (浯):  | 
+6D70 (浰):  | 
+6D7C (浼): 要求へ,の好意を依頼します | to request,to ask a favour of
+6D82 (涂): 姓,特定の川の名前 | surname,name of certain rivers
+6D87 (涇): 川の名前 | name of a river
+6D91 (涑): 山西省の川 | river in Shansi province
+6D92 (涒): 蛇行 | meander
+6D94 (涔): 陝西省の川,暗い急流 | river in Shaanxi,murky torrent
+6D96 (涖): 河北省の川,クリーク | river in Hebei province,creek
+6D97 (涗):  | 
+6D98 (涘): 河岸,水際 | river bank,water\'s edge
+6DAA (涪): 四川省の川 | river in Sichuan province
+6DAC (涬): 水っぽい広がり | watery expanse
+6DB4 (涴): 塗り付けます | daub
+6DB7 (涷): 暴風雨 | rainstorm
+6DB9 (涹):  | 
+6DBD (涽):  | 
+6DBF (涿): 滴下,ドリブル,トリクル | drip,dribble,trickle
+6DC4 (淄): 山東省の川 | river in Shandong province
+6DC8 (淈):  | 
+6DCA (淊):  | 
+6DCE (淎):  | 
+6DCF (淏):  | 
+6DD6 (淖): スラッシュ,泥 | slush,mud
+6DDB (淛):  | 
+6DDD (淝): 鄱陽湖の豊かなの名前 | name of an affluent of the Poyang Lake
+6DDF (淟): 濁りました,泥だらけの | turbid,muddy
+6DE0 (淠):  | 
+6DE2 (淢): 溝 | ditch
+6DE5 (淥): 歪み | strain
+6DE9 (淩): 過越の祭り,クロス,トラバース | pass over,cross,traverse
+6DEF (淯):  | 

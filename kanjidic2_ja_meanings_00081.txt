@@ -1,0 +1,100 @@
+6F90 (澐): 大波 | billows
+6F92 (澒): 広大な | vast
+6F93 (澓):  | 
+6F94 (澔): 宝石の輝き | radiance of gems
+6F96 (澖):  | 
+6F9A (澚):  | 
+6F9F (澟):  | 
+6FA0 (澠): 山東省にある川の名前 | name of a river in Shandong
+6FA5 (澥): ブロックされたストリーム,湾 | blocked stream,gulf
+6FA6 (澦): 四川省の場所 | place in Sichuan
+6FA7 (澧): 北部湖南省の川 | river in northern Hunan province
+6FA8 (澨): 海岸,湖北省の川 | shore,river in Hubei
+6FAE (澮): 灌漑溝,溝,川 | irrigation ditch,trench,river
+6FAF (澯):  | 
+6FB0 (澰): あふれます | overflowing
+6FB5 (澵):  | 
+6FB6 (澶): たまり水,穏やかな,静かな | still water,placid,tranquil
+6FBC (澼): 漂白,ウォッシュ,クリーン | bleach,wash,clean
+6FC5 (濅):  | 
+6FC7 (濇): 渋いです,厳しいです,ラフ,平らでありません | astringent,harsh,rough,uneven
+6FC8 (濈): たくさんの | many
+6FCA (濊): 広大な,広大な,深い,汚れた | vast,expansive,deep,dirty
+6FDA (濚):  | 
+6FDE (濞):  | 
+6FE8 (濨):  | 
+6FE9 (濩): 降り注ぎます,カスケードダウン,見ます | pour down,cascade down,look
+6FF0 (濰): 山東省の郡 | county in Shandong province
+6FF5 (濵): バンク,瀬戸際,海岸,ビーチ | bank,brink,shore,beach
+6FF9 (濹):  | 
+6FFC (濼): 山東省の川 | river in Shandong province
+6FFD (濽):  | 
+7000 (瀀):  | 
+7005 (瀅): クリア,純水,明快な,光沢のあります | clear,pure water,lucid,glossy
+7006 (瀆): 溝,水門,ガター,ドレイン,冒とくします,汚染します | ditch,sluice,gutter,drain,blaspheme,pollute
+7007 (瀇):  | 
+700D (瀍): 河南省の川 | river in Henan province
+7017 (瀗):  | 
+7020 (瀠): 小川,周りの渦,渦 | tiny stream,swirl around,eddy
+7023 (瀣): 海霧,蒸気 | sea mist,vapor
+702F (瀯):  | 
+7034 (瀴):  | 
+7037 (瀷):  | 
+7039 (瀹): 沸騰へ,洗う,クレンジングします,ソークします | to boil,to wash,to cleanse,to soak
+703C (瀼): 河南省の川,流れます | river in Henan province,flowing
+7043 (灃): 陝西省の川 | river in Shaanxi province
+7044 (灄): 湖北省の川 | river in Hubei province
+7048 (灈):  | 
+7049 (灉): 山東省の川 | river in Shandong province
+704A (灊):  | 
+704B (灋): 法律 | law
+7054 (灔): 波浪,大波 | waves,billows
+7055 (灕): 広西チワン族自治区の短い名前 | short name for Guangxi province
+705D (灝): 広大な,大,壮大な,広大な | vast,large,grand,expansive
+705E (灞): 陝西省の川 | river in Shaanxi province
+704E (灎): 水の動き,あふれます,渦巻きます,波状の | movement of water,overflowing,billowing,wavy
+7064 (灤): 河北省の川や郡 | river and county in Hebei province
+7065 (灥):  | 
+706C (灬): 火災,発射ラジカル（NO。86） | fire,fire radical (no. 86)
+706E (灮):  | 
+7075 (灵): 精神,魂,霊界 | spirit,soul,spiritual world
+7076 (灶): かまど,調理用コンロ | kitchen range,cooking stove
+707E (灾): 災害,災害,大惨事 | calamity,disaster,catastrophe
+7081 (炁): 息,空気,蒸気,ガス,天気,道教の魅力で使用 | breath,air,steam,gas,weather,used in Taoist charms
+7085 (炅): ブリリアンス | brilliance
+7086 (炆):  | 
+7094 (炔): アセチレン | acetylene
+7095 (炕): 中国北部のレンガベッド | the brick-bed in northern China
+7096 (炖):  | 
+7097 (炗):  | 
+7098 (炘): ブリリアント,シャイニング,鮮やか | brilliant,shining,bright
+709B (炛):  | 
+70A4 (炤): 明るくします,点灯します,反映します | illumine,light up,reflect
+70AB (炫): 輝き,グリッター,見せびらかす,誇示します | shine,glitter,show off,flaunt
+70B0 (炰): ロースト,焼きます,焼く | roast,broil,bake
+70B1 (炱): すす | soot
+70B4 (炴):  | 
+70B7 (炷): キャンドルウィック,ランプの芯,のスティック | candle wick,lamp wick,stick of
+70CA (烊): ワカサギへ,溶融する | to smelt,to melt
+70D1 (烑):  | 
+70D3 (烓): レンジ | stove
+70D4 (烔): 熱 | heat
+70D5 (烕): 破壊する,根絶します,消します | to destroy,to exterminate,to extinguish
+70D6 (烖): 天国からの災難,洪水のように,飢饉,疫病,等,悲惨 | calamities from Heaven, as floods, famines, pestilence, etc.,misery
+70D8 (烘): 焼く,ロースト,グリル,火災によるドライ | bake,roast,grill,dry by fire
+70DC (烜): 太陽の光,太陽の下で乾燥させます | light of the sun,to dry in the sun
+70E4 (烤): 焼く,ロースト,トースト,クック | bake,roast,toast,cook
+70FA (烺): （火の言った）明るいです | (said of fire) bright
+7103 (焃):  | 
+7104 (焄): 上昇炎,上昇煙,香り | rising flames,rising fumes,aroma
+7105 (焅):  | 
+7106 (焆):  | 
+7107 (焇):  | 
+710B (焋):  | 
+710C (焌): 光へ | to light
+710F (焏):  | 
+711E (焞): 薄暗いです | dim
+7120 (焠): 焼きなまし,気性,燃やす | anneal,temper,burn
+712B (焫):  | 
+712D (焭):  | 
+712F (焯):  | 

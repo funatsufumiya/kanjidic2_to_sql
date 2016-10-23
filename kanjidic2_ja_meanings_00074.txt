@@ -1,0 +1,100 @@
+651B (攛): 急ぎます,投げるために,促します | hurry,to throw,to urge
+651E (攞): 分割します,賃借する,選択します,こする,ふく | to split,to rend,to choose,to rub,to wipe
+651F (攟):  | 
+6522 (攢): セーブ,買いだめ | save,hoard
+6526 (攦):  | 
+6529 (攩): 妨害します,妨げます,やめる,抵抗します | obstruct,impede,stop,resist
+652E (攮): かわすします,刺すへ | to fend off,to stab
+6531 (攱):  | 
+653A (攺):  | 
+653C (攼):  | 
+653D (攽):  | 
+6543 (敃): 強い,堅牢な,活発な | strong,robust,vigorous
+6547 (敇):  | 
+6549 (敉): なだめます,落ち着かせます,安定させます | pacify,soothe,stabilize
+6550 (敐):  | 
+6552 (敒):  | 
+6554 (敔): 小槌 | gavel
+655F (敟):  | 
+6560 (敠): 計量します,カット,招待されずに来て | to weigh,cut,come without being invited
+6567 (敧): 箸やペンチでものをピックアップします | to pick up a thing with chop-sticks or pincers
+656B (敫): 古代の楽器 | ancient musical instrument
+657A (敺): 追い出します,追い払います,ビート,暴行 | expel,drive away,beat,assault
+657D (敽): バインド | bind
+6581 (斁): 嫌い,厭います,説明します | dislike,be weary of,explain
+6585 (斅): 教える,指示します,興奮します,起きている,インテリジェント | teach,instruct,be aroused,awake,intelligent
+658A (斊):  | 
+6592 (斒): 多彩,縞模様の,大理石模様の | variegated,striped,marbled
+6595 (斕): 色とりどりの | multicolored
+6598 (斘):  | 
+659D (斝): 小さなヒスイのワインカップ | small jade wine cup
+65A0 (斠): 測定 | measure
+65A3 (斣):  | 
+65A6 (斦):  | 
+65AE (斮): 断つ | cut off
+65B2 (斲): カット,チョップ,ハック | cut,chop,hack
+65B3 (斳):  | 
+65B4 (斴): 岩の間を流れる水の音 | the sound of water flowing among rocks
+65BF (斿): 泳ぎます,自由に移動します,ローブへ | to swim,to move freely,to rove
+65C2 (旂): フラグ | flag
+65C8 (旈): 冠上の真珠の縞,ペナント | fringes of pearls on crowns,pennant
+65C9 (旉): の状態に,発表する | to state to,to announce
+65CE (旎): 旗のなびきます,ロマンチック | fluttering of flag,romantic
+65D0 (旐): 刺繍ペナント | an embroidered pennant
+65D4 (旔):  | 
+65D6 (旖): ロマンチック,入札,魅力的な | romantic,tender,charming
+65D8 (旘): 槍旗,フラグ,固定します | pennon,flag,to fasten
+65DF (旟): 軍事フラグ,標準 | military flag,standard
+65F0 (旰): 日没,夕暮れ,イブニング | sunset,dusk,evening
+65F2 (旲):  | 
+65F4 (旴): 夜明け | dawn
+65F5 (旵):  | 
+65F9 (旹): 時間,シーズン,時代,年齢,期間 | time,season,era,age,period
+65FE (旾):  | 
+65FF (旿):  | 
+6600 (昀): 日光,個人名で使用されます | sunlight,used in personal name
+6604 (昄): 大きい | big
+6608 (昈):  | 
+6609 (昉): 明るい夜明け,夜明け,現れる | bright dawn,daybreak,appear
+660D (昍):  | 
+6611 (昑): 鮮やか | bright
+6612 (昒):  | 
+6615 (昕): 夜明け,早朝,日 | dawn,early morning,day
+6616 (昖):  | 
+661D (昝): デュアル代名詞,私,あなたと私,私たち2 | dual pronoun,I,you and me,we two
+661E (昞): 鮮やか,明るいです,輝かしいです,クリア | bright,luminous,glorious,clear
+6621 (昡): 長い一日,拡張,リラックスしました | long day,extended,relaxed
+6622 (昢):  | 
+6623 (昣):  | 
+6624 (昤): 日光 | sunshine
+6626 (昦):  | 
+6629 (昩):  | 
+662A (昪): 喜んで,喜んで | delighted,pleased
+662B (昫): 暖かいです | warm
+662C (昬): 夕暮れ,混乱暗いです,愚か | dusk,dark confused,stupid
+662E (昮):  | 
+6630 (昰): へのVARあります,夏,名 | var of "to be","summer",name
+6631 (昱): 明るい光,日光,眩しい | bright light,sunlight,dazzling
+6633 (昳): 西に減少日 | the declining sun in the west
+6639 (昹):  | 
+6637 (昷): 囚人を養うために | to feed a prisoner
+6640 (晀):  | 
+6645 (晅): 太陽の光,太陽の下で乾燥させます | light of the sun,to dry in the sun
+6646 (晆):  | 
+664A (晊):  | 
+664C (晌): 正午,正午,瞬間,土地対策 | noon,midday,moment,land measure
+6651 (晑):  | 
+664E (晎):  | 
+6657 (晗): 夜明け前 | pre-dawn
+6658 (晘):  | 
+6659 (晙):  | 
+665B (晛): 日光 | sunlight
+665C (晜): 昆虫 | insect
+6660 (晠):  | 
+6661 (晡): 午後遅く | late afternoon
+66FB (曻):  | 
+666A (晪):  | 
+666B (晫):  | 
+666C (晬): 子供の最初の誕生日 | first birthday of a child
+667E (晾): 空気乾燥,日乾燥 | air dry,sun dry
+6673 (晳): フェア,白,クリア,区別する | fair,white,clear,discriminate

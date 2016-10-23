@@ -1,0 +1,100 @@
+6675 (晵):  | 
+667F (晿):  | 
+6677 (晷): 太陽の影,時間,日時計 | shadows of sun,time,sundial
+6678 (晸):  | 
+6679 (晹):  | 
+667B (晻):  | 
+6680 (暀):  | 
+667C (晼):  | 
+668B (暋): 強い,堅牢な,タフ | strong,robust,tough
+668C (暌): 野党で,から離れました,分離しました | in opposition,distant from,separated
+668D (暍): 日射病 | sun-stroke
+6690 (暐): 太陽の明るい輝き | the bright shining of the sun
+6692 (暒):  | 
+6699 (暙):  | 
+669A (暚):  | 
+669B (暛):  | 
+669C (暜):  | 
+669F (暟):  | 
+66A0 (暠): 夜明け,明るく鮮やかな | daybreak,bright and brilliant
+66A4 (暤):  | 
+66AD (暭):  | 
+66B1 (暱): 親密な,閉じる,アプローチ | intimate,close,approach
+66B2 (暲):  | 
+66B5 (暵): 日を露光することにより、乾燥 | dry by exposing sun
+66BB (暻): 鮮やか | bright
+66BF (暿):  | 
+66C0 (曀): 嵐の,曇りました,霧の,薄暗いです | stormy,cloudy,misty,dim
+66C2 (曂):  | 
+66C3 (曃):  | 
+66C8 (曈): ちょうど日の出前の夕暮れ | twilight just before sunrise
+66CC (曌):  | 
+66CE (曎):  | 
+66CF (曏): 昔々,期間 | once upon time,period of time
+66D4 (曔):  | 
+66DB (曛): トワイライト,日没 | twilight,sunset
+66DF (曟):  | 
+66E8 (曨): 漠然としました,薄暗いです,トワイライト | vague,dim,twilight
+66EB (曫):  | 
+66EC (曬): 日中の乾燥,日に公開 | dry in sun,expose to sun
+66EE (曮):  | 
+66FA (曺):  | 
+6705 (朅): 勇敢な | brave
+6707 (朇):  | 
+670E (朎):  | 
+6713 (朓): 犠牲 | sacrifice
+6719 (朙): 鮮やか,クリア,インテリジェント,光,ブリリアント,理解します,説明する | bright,clear,intelligent,light,brilliant,to understand,to illustrate
+671C (朜):  | 
+6720 (朠): 月の色 | color of the moon
+6722 (朢): 見る,眺めます,希望,期待します | look at,gaze at,hope,expect
+6733 (朳): 木 | tree
+673E (朾): バンプします | to bump
+6745 (杅): バスタブ | tub
+6747 (杇): ビワ | loquat
+6748 (杈): 木のフォーク,熊手 | fork of a tree,pitchfork
+674C (杌): 無精ひげ,木の切り株（それゆえ：無菌性）,正方形のスツール | stubble,stump of a tree (hence: sterility),square stool
+6754 (杔):  | 
+6755 (杕): 一人で | alone
+675D (杝): 木 | tree
+6766 (杦):  | 
+676C (杬):  | 
+676E (杮): 鉋屑 | wood shavings
+6774 (杴): シャベル,水を運ぶために使用されるトラフ | shovel,trough used to carry water
+6776 (杶): ワニス | varnish
+677B (杻): リグストルムのsinense,木 | ligustrum sinenese,tree
+6781 (极): 極端な,最大限,遠いです,最後の | extreme,utmost,furthest,final
+6784 (构): フレーム,建物,構造 | frame,building,structure
+678E (枎):  | 
+678F (枏): 常緑の木の様々な,ヒマラヤスギ | variety of evergreen tree,cedar
+6791 (枑):  | 
+6793 (枓): 資本 | capital
+6796 (枖):  | 
+6798 (枘): ツールのハンドル,ほぞ,歯 | the handle of tools,tenon,cog
+6799 (枙):  | 
+679B (枛):  | 
+67B0 (枰): スムーズなボード,チェスボード,チェス | smooth board,chess-board,chess
+67B1 (枱):  | 
+67B2 (枲): 男性イラクサ、麻 | male nettle-hemp
+67B5 (枵): 木の中空切り株,空の,薄いです | hollow stump of a tree,empty,thin
+67BB (枻): 長い櫓,スイープ | long oar,sweep
+67BC (枼): 表,木の平らなピース,スリップ,葉 | table,flat pieces of wood,slip,leaf
+67BD (枽):  | 
+67F9 (柹): 柿 | persimmon
+67C0 (柀):  | 
+67C2 (柂): 舵 | helm
+67C3 (柃):  | 
+67C5 (柅): 栄えます | flourish
+67C8 (柈): コンテナ | container
+67C9 (柉):  | 
+67D2 (柒): 数7 | number seven
+67D7 (柗):  | 
+67D9 (柙): ケージ,野生動物のためのペン | cage,pen for wild animals
+67DC (柜): キャビネット,食器棚,店のカウンター | cabinet,cupboard,shop counter
+67E1 (柡):  | 
+67E6 (柦):  | 
+67F0 (柰): カニリンゴの木,耐える,くま | crab-apple tree,endure,bear
+67F2 (柲): ハンドル | handle
+67F6 (柶): ひしゃく | ladle
+67F7 (柷): 楽器 | instrument
+6852 (桒):  | 
+6814 (栔): 彫ります,刻みます | carve,engrave

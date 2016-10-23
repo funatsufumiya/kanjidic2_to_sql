@@ -1,0 +1,100 @@
+6AEC (櫬): 棺,アブラギリ | coffin,tung tree
+6AF0 (櫰):  | 
+6AF1 (櫱): 酵母,リキュールを作るためにパン種 | yeast,leaven for making liquors
+6AF2 (櫲):  | 
+6AFC (櫼):  | 
+6AFD (櫽): 熱の使用により木材を形作ります,曲げ木を成形するためのツール | shape wood by use of heat,tool for shaping bent wood
+6B02 (欂):  | 
+6B03 (欃): 白檀材,彗星 | sandlewood,comet
+6B06 (欆):  | 
+6B07 (欇):  | 
+6B09 (欉):  | 
+6B0F (欏): 馬の栗の木 | horse-chestnut tree
+6B10 (欐): ビーム | beam
+6B11 (欑): ギャザー | gather
+6B17 (欗):  | 
+6B1B (欛): ナイフの柄,柄 | knife handle,hilt
+6B1E (欞): 窓の格子敷居,まぐさ | the lattice of a window a sill,lintel
+6B24 (欤): 最終粒子は、エクスプレス質問を使用します | final particle used express question
+6B28 (欨): 時のブローします,際に呼吸します,笑顔に | to blow upon,to breathe upon,to smile
+6B2B (欫):  | 
+6B2C (欬): 咳,笑いの音 | cough,sound of laughter
+6B2F (欯):  | 
+6B35 (欵): よく治療します,拘留します,記事,友情 | to treat well,to detain,article,friendship
+6B36 (欶):  | 
+6B3B (欻): 突然,突然の,クイック | sudden,abrupt,quick
+6B3F (欿): 面白くありません,悲しい,憂鬱な | discontented,sad,gloomy
+6B46 (歆): 以下のような,感心します,快く,喜んで,速くするには | like,admire,willingly,gladly,to quicken
+6B4A (歊): ため息 | sigh
+6B4D (歍):  | 
+6B52 (歒):  | 
+6B56 (歖):  | 
+6B58 (歘):  | 
+6B5D (歝):  | 
+6B60 (歠): 一口,ドリンク,吸います | sip,drink,suck
+6B67 (歧): 道路の分岐点,分岐 | fork in road,branching off
+6B6B (歫):  | 
+6B6E (歮):  | 
+6B70 (歰):  | 
+6B75 (歵):  | 
+6B7D (歽):  | 
+6B7E (歾): 溺れ死にます | drown
+6B82 (殂): 死にます | to die
+6B85 (殅):  | 
+6B97 (殗): 病気,繰り返されます | sickness,repeated
+6B9B (殛): 死刑にします,生活のために投獄します,処罰する | to put to death,to imprison for life,to punish
+6B9F (殟):  | 
+6BA0 (殠):  | 
+6BA2 (殢): 非常に困難であること,大いに | be in great difficulty,greatly
+6BA3 (殣): 死にます,死,餓死します | die,death,to starve to death
+6BA8 (殨): 潰瘍や痛みを開くには | to open an ulcer or sore
+6BA9 (殩):  | 
+6BAC (殬):  | 
+6BAD (殭): 堅い死体 | stiff corpse
+6BAE (殮): 埋葬のためのドレスの死体 | dress corpse for burial
+6BB0 (殰): 中絶,死産の | an abortion,stillborn
+6BB8 (殸):  | 
+6BB9 (殹):  | 
+6BBD (殽): 混ざっ,混乱しました,調理済みの | mixed up,confused,cooked
+6BBE (殾):  | 
+6BC3 (毃):  | 
+6BC4 (毄):  | 
+6BC9 (毉):  | 
+6BCC (毌): ピアス,浸透します,ブレース | pierce,penetrate,brace
+6BD6 (毖): から守り,世話をする,注意 | guard against,take care,caution
+6BDA (毚): 狡猾な,貪欲,狡猾な | cunning,greedy,crafty
+6BE1 (毡): フェルト,ラグ,カーペット | felt,rug,carpet
+6BE3 (毣):  | 
+6BE6 (毦):  | 
+6BE7 (毧): 毛皮,ヘア,ダウン,ラクダの毛 | fur,hair,down,camel hair
+6BEE (毮): 髪を引っ張ります,等,（kokuji） | to pull out hair, etc.,(kokuji)
+6BF1 (毱):  | 
+6BF7 (毷): 落ち着きのありません | restless
+6BF9 (毹):  | 
+6BFF (毿): 長い羽,痩せこけました | long feathers,scraggy
+6C02 (氂): 尾,ヘア,ヤク | tail,hair,yak
+6C04 (氄): ダウン | down
+6C05 (氅): オーバーコート,羽毛ダウン | overcoat,down feathers
+6C09 (氉): 落ち着きのありません,憂鬱 | restless,melancholy
+6C0D (氍): 細かい毛織物,神を崇拝に皇帝が使用するマット | fine woollen cloth,mat used by the emperor in worshipping god
+6C0E (氎):  | 
+6C10 (氐): 古代の部族の名前 | name of an ancient tribe
+6C12 (氒):  | 
+6C19 (氙):  | 
+6C1F (氟): フッ素（元素） | Fluorine (element)
+6C26 (氦): ヘリウム（要素） | Helium (element)
+6C27 (氧): 酸素（要素） | Oxygen (element)
+6C28 (氨): アンモニア,窒化水素 | ammonia,hydrogen nitride
+6C2C (氬): Argonium（要素） | Argonium (element)
+6C2E (氮): キセノン（要素） | Xenon (element)
+6C33 (氳): 自然の命を与える影響,調和の精神,繁栄 | life-giving influences of nature,spirit of harmony,prosperity
+6C35 (氵): 水,水ラジカル（NO。85） | water,water radical (no. 85)
+6C36 (氶):  | 
+6C3A (氺): 水ラジカルバリアント（なし。85） | water radical variant (no. 85)
+6C3B (氻):  | 
+6C3F (氿): 春 | spring
+6C4A (汊): 分岐ストリーム | branching stream
+6C4B (汋): 注ぐ | to pour
+6C4D (汍): 泣きます | weep
+6C4F (汏):  | 
+6C52 (汒):  | 

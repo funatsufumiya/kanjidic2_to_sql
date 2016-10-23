@@ -1,0 +1,100 @@
+6DF0 (淰): 魚,まだ | fish,still
+6DF4 (淴):  | 
+6DF6 (淶): 河北省の川,クリーク | river in Hebei province,creek
+6DFC (淼): 水の広大な | wide expanse of water
+6E00 (渀):  | 
+6E04 (渄):  | 
+6E1E (渞):  | 
+6E22 (渢): 心地よい音 | pleasant sound
+6E27 (渧): 落とす,液体など,ドロップ | to drop,as liquids,drop
+6E32 (渲): 色の繰り返しの洗浄を追加 | add repeated washes of color
+6E36 (渶):  | 
+6E39 (渹):  | 
+6E3B (渻):  | 
+6E3C (渼): 波紋 | ripples
+6E44 (湄): 水際,海岸,バンク | water\'s edge,shore,bank
+6E45 (湅): 沸騰シルク | boil silk
+6E48 (湈):  | 
+6E49 (湉):  | 
+6E4B (湋): 山西省の川 | river in Shanxi province
+6E4F (湏): 洗顔 | wash face
+6E51 (湑): 霊株にします,滓,かす,広西チワン族自治区の川,豊富な,鮮やか | to strain spirits,dregs,lees,river in Guangxi,abundant,bright
+6E52 (湒):  | 
+6E53 (湓): Kiukiang近くの川長江の豊かな | an affluent of the River Yangtze near Kiukiang
+6E54 (湔): ウォッシュ,清めます,パージ | wash,cleanse,purge
+6E57 (湗):  | 
+6E5C (湜): トランスペアレント,クリア | transparent,clear
+6E5D (湝): フロー | flow
+6E5E (湞): 広東省の川 | river in Guangdong province
+6E62 (湢): バスルーム,ニート,整然とした | bathroom,neat,orderly
+6E63 (湣): ミックス,混乱しました,同情 | mixed,confused,pity
+6E68 (湨):  | 
+6E73 (湳):  | 
+6E7B (湻): ピュア,純粋,純正,正直な | pure,unmixed,genuine,honest
+6E7D (湽):  | 
+6E8D (溍):  | 
+6E93 (溓):  | 
+6E99 (溙):  | 
+6EA0 (溠): 湖北省の川 | river in Hubei province
+6EA7 (溧): 安徽省と江蘇省の川 | river in Anhui and Jiangsu province
+6EAD (溭):  | 
+6EAE (溮): 河南省の川 | river in Henan province
+6EB1 (溱): 河南省の川 | river in Henan
+6EB3 (溳):  | 
+6EBB (溻): ぬれました | wet
+6EBF (溿):  | 
+6EC0 (滀):  | 
+6EC1 (滁): 安徽省の地区 | district in Anhui province
+6EC3 (滃): 腫れ,上昇,分散剤 | swelling,rising,dispersing
+6EC7 (滇): 雲南省 | Yunnan province
+6EC8 (滈):  | 
+6ECA (滊): 蒸気,蒸気 | vapour,steam
+6ECD (滍):  | 
+6ECE (滎): 河南省の郡,立ち上がりとダッシュ | county in Henan,rising and dash
+6ECF (滏):  | 
+6EEB (滫): 米は煮された水 | water in which rice has been boiled
+6EED (滭):  | 
+6EEE (滮): フロー | flow
+6EF9 (滹): 蒸気の銀行 | the bank of a steam
+6EFB (滻):  | 
+6EFD (滽):  | 
+6F04 (漄):  | 
+6F08 (漈): 海岸,水辺 | shore,waterside
+6F0A (漊): 湖北省の川 | river in Hubei province
+6F0C (漌):  | 
+6F0D (漍):  | 
+6F16 (漖):  | 
+6F18 (漘): バンク | bank
+6F1A (漚): ソーク,急な,ずぶぬれの,ずぶ濡れ | soak,steep,sodden,soaked
+6F1B (漛):  | 
+6F26 (漦): 唾液,唾,下流に流れます | saliva,spittle,flowing downstream
+6F29 (漩): 渦,渦 | eddy,whirlpool
+6F2A (漪): 小波,渦巻きます | ripples on water,swirling
+6F2F (漯): 北部の山東省の川 | river in northern Shandong
+6F30 (漰): とどろき | roar
+6F33 (漳): 河南省の川の名前 | name of a river in Henan
+6F36 (漶): 判読できません | indecipherable
+6F3B (漻):  | 
+6F3C (漼): 深さの外観を有します | having the appearance of depth
+6F2D (漭): 広大な,広大な | vast,expansive
+6F4F (潏): 川から解放前浜 | foreshore reclaimed from river
+6F51 (潑): 注ぐ,スプラッシュ,水,振りかけます,暴力的な,悪性の | pour,splash,water,sprinkle,violent,malignant
+6F52 (潒):  | 
+6F53 (潓):  | 
+6F57 (潗):  | 
+6F59 (潙): 山西省の川 | river in Shanxi
+6F5A (潚): ゲイ,深い | gay,deep
+6F5D (潝): 同意します | agree
+6F5E (潞): 中国北部の川 | river in northern china
+6F61 (潡):  | 
+6F62 (潢): 水の広がり,湖,池 | expanse of water,lake,pond
+6F68 (潨): ギャザー,（水）に流入,一緒に流れる水の音 | gather,flow into (water),sound of waters flowing together
+6F6C (潬): 急速な,砂州,前浜 | rapid,sand-bank,foreshore
+6F7D (潽):  | 
+6F7E (潾): 清水 | clear water
+6F83 (澃):  | 
+6F87 (澇): 浸水しました,洪水,急流 | inundate,flood,torrent
+6F88 (澈): 徹底的に,完全に,明らかになる | thoroughly,completely,become clear
+6F8B (澋):  | 
+6F8C (澌): 排気へ,ドライ排出します | to exhaust,to drain dry
+6F8D (澍): タイムリーな雨,命を与える雨 | timely rain,life-giving rain
