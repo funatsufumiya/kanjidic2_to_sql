@@ -28,15 +28,17 @@ CREATE TABLE ${table} (
 `);
 
 function get_sql(data){
-  return '';
+  let d = data;
+  let s = `INSERT INTO ${table} (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('${d.utf}', '${d.kanji}', ${d.strokes}, ${(d.grade)? d.grade: ''}, '${(d.meanings)? d.meanings.join(','): ''}', '${(d.ja_on)? d.ja_on: ''}', '${(d.ja_kun)? d.ja_kun: ''}');`
+  return s;
 }
 
 let data = {};
 
 lineReader.on('line', line => {
   if( line.startsWith('<character>') ){
-    // console.log(get_sql(data));
-    console.log(data);
+    console.log(get_sql(data));
+    // console.log(data);
     data = {};
   }else if( line.startsWith('<literal>') ){
     let m = line.match(/^<literal>(.*)<\/literal>/);
@@ -46,7 +48,7 @@ lineReader.on('line', line => {
     data['grade'] = m[1];
   }else if( line.startsWith('<stroke_count>') ){
     let m = line.match(/^<stroke_count>(.*)<\/stroke_count>/);
-    data['stroke_count'] = m[1];
+    data['strokes'] = m[1];
   }else if( line.startsWith('<cp_value cp_type="ucs">') ){
     let m = line.match(/^<cp_value cp_type="ucs">(.*)<\/cp_value>/);
     data['utf'] = m[1];
@@ -56,5 +58,11 @@ lineReader.on('line', line => {
   }else if( line.startsWith('<reading r_type="ja_kun">') ){
     let m = line.match(/^<reading r_type="ja_kun">(.*)<\/reading>/);
     data['ja_kun'] = m[1];
+  }else if( line.startsWith('<meaning>') ){
+    let m = line.match(/^<meaning>(.*)<\/meaning>/);
+    if(data['meanings'] == null){
+      data['meanings'] = [];
+    }
+    data['meanings'].push(m[1]);
   }
 });
