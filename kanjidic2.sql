@@ -237,7 +237,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4fa1', '価', 8, 5, 'value,price', 'ケ', 'あたい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4f73', '佳', 8, 8, 'excellent,beautiful,good,pleasing,skilled', 'カ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('52a0', '加', 5, 4, 'add,addition,increase,join,include,Canada', 'カ', 'くわ.わる');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('53ef', '可', 5, 5, 'can,passable,mustn't,should not,do not', 'コク', '-べ.し');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('53ef', '可', 5, 5, 'can,passable,mustn\'t,should not,do not', 'コク', '-べ.し');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5609', '嘉', 14, 9, 'applaud,praise,esteem,happy,auspicious', 'カ', 'よい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('590f', '夏', 10, 2, 'summer', 'ゲ', 'なつ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ac1', '嫁', 13, 8, 'marry into,bride', 'カ', 'ゆ.く');
@@ -357,7 +357,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('984d', '額', 18, 5, 'forehead,tablet,plaque,framed picture,sum,amount,volume', 'ガク', 'ひたい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('984e', '顎', 18, 8, 'jaw,chin,gill', 'ガク', 'あぎと');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('639b', '掛', 11, 8, 'hang,suspend,depend,arrive at,tax,pour', 'ケイ', '-がかり');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b20', '笠', 11, 9, 'bamboo hat,one's influence', 'リュウ', 'かさ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b20', '笠', 11, 9, 'bamboo hat,one\'s influence', 'リュウ', 'かさ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6a2b', '樫', 16, 9, 'evergreen oak,(kokuji)', '', 'かし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6a7f', '橿', 17, NULL, 'oak', 'キョウ', 'もちのき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('68b6', '梶', 11, 9, 'sculling oar', 'ビ', 'こずえ');
@@ -640,7 +640,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82b9', '芹', 7, 9, 'parsley', 'キン', 'せり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('83cc', '菌', 11, 8, 'germ,fungus,bacteria', 'キン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('887f', '衿', 9, 9, 'neck,collar,lapel', 'コン', 'えり');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('895f', '襟', 18, 8, 'collar,neck,lapel,one's inner feelings', 'キン', 'えり');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('895f', '襟', 18, 8, 'collar,neck,lapel,one\'s inner feelings', 'キン', 'えり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8b39', '謹', 17, 8, 'discreet,reverently,humbly', 'キン', 'つつし.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8fd1', '近', 6, 2, 'near,early,akin,tantamount', 'コン', 'ちか.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91d1', '金', 8, 1, 'gold', 'ゴン', '-がね');
@@ -652,7 +652,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('533a', '区', 4, 3, 'ward,district', 'コウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('72d7', '狗', 8, NULL, 'puppy,dog', 'コウ', 'いぬ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7396', '玖', 7, 9, 'beautiful black jewel,nine', 'ク', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('77e9', '矩', 10, 9, 'ruler,carpenter's square', 'ク', 'さしがね');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('77e9', '矩', 10, 9, 'ruler,carpenter\'s square', 'ク', 'さしがね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82e6', '苦', 8, 3, 'suffering,trial,worry,hardship,feel bitter,scowl', 'ク', 'にが.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8eaf', '躯', 11, NULL, 'body,corpse,tree with rotten core', 'ク', 'からだ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('99c6', '駆', 14, 8, 'drive,run,gallop,advance,inspire,impel', 'ク', 'か.る');
@@ -816,7 +816,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e56', '湖', 12, 3, 'lake', 'コ', 'みずうみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('72d0', '狐', 9, NULL, 'fox', 'コ', 'きつね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7cca', '糊', 15, 9, 'paste,glue,sizing', 'コツ', 'のり');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('88b4', '袴', 11, 9, 'men's formal divided skirt', 'ク', 'ずぼん');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('88b4', '袴', 11, 9, 'men\'s formal divided skirt', 'ク', 'ずぼん');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('80a1', '股', 8, 8, 'thigh,crotch', 'コ', 'もも');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('80e1', '胡', 9, 9, 'barbarian,foreign', 'ゴ', 'なんぞ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('83f0', '菰', 12, NULL, 'reed used for matting', 'コ', 'まこも');
@@ -832,7 +832,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4f0d', '伍', 6, 9, 'five,five-man squad,file,line', 'ゴ', 'いつつ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5348', '午', 4, 2, 'noon,sign of the horse,11AM-1PM,seventh sign of Chinese zodiac', 'ゴ', 'うま');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5449', '呉', 7, 8, 'give,do something for,kingdom of Wu', 'ゴ', 'くれ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('543e', '吾', 7, 9, 'I,my,our,one's own', 'ゴ', 'あ-');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('543e', '吾', 7, 9, 'I,my,our,one\'s own', 'ゴ', 'あ-');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a2f', '娯', 10, 8, 'recreation,pleasure', 'ゴ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f8c', '後', 9, 2, 'behind,back,later', 'コウ', 'おく.れる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fa1', '御', 12, 8, 'honorable,manipulate,govern', 'ゴ', 'み-');
@@ -866,7 +866,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('57a2', '垢', 9, NULL, 'dirt,grime,earwax', 'ク', 'はじ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('597d', '好', 6, 4, 'fond,pleasing,like something', 'コウ', 'い.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b54', '孔', 4, 8, 'cavity,hole,slit,very,great,exceedingly', 'コウ', 'あな');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b5d', '孝', 7, 6, 'filial piety,child's respect', 'キョウ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b5d', '孝', 7, 6, 'filial piety,child\'s respect', 'キョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b8f', '宏', 7, 9, 'wide,large', 'コウ', 'ひろ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5de5', '工', 3, 2, 'craft,construction,katakana e radical (no. 48)', 'グ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5de7', '巧', 5, 8, 'adroit,skilled,ingenuity', 'コウ', 'うま.い');
@@ -877,7 +877,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5eb7', '康', 11, 4, 'ease,peace', 'コウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f18', '弘', 5, 9, 'vast,broad,wide', 'グ', 'ひろ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6052', '恒', 9, 8, 'constancy,always', 'コウ', 'つねに');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('614c', '慌', 12, 8, 'disconcerted,be confused,lose one's head', 'コウ', 'あわ.ただしい');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('614c', '慌', 12, 8, 'disconcerted,be confused,lose one\'s head', 'コウ', 'あわ.ただしい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6297', '抗', 7, 8, 'confront,resist,defy,oppose', 'コウ', 'あらが.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('62d8', '拘', 8, 8, 'arrest,seize,concerned,adhere to,despite', 'コウ', 'かか.わる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('63a7', '控', 11, 8, 'withdraw,draw in,hold back,refrain from,be moderate', 'コウ', 'ひか.え');
@@ -1146,7 +1146,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6ecb', '滋', 12, 8, 'nourishing,more &amp; more,be luxuriant,planting,turbidity', 'ジ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6cbb', '治', 8, 4, 'reign,be at peace,calm down,subdue,quell,govt,cure,heal,rule,conserve', 'チ', 'なお.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('723e', '爾', 14, 9, 'you,thou,second person', 'ニ', 'しか');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('74bd', '璽', 19, 8, 'emperor's seal', 'ジ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('74bd', '璽', 19, 8, 'emperor\'s seal', 'ジ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75d4', '痔', 11, NULL, 'piles,hemorrhoids', 'ジ', 'しもがさ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('78c1', '磁', 14, 6, 'magnet,porcelain', 'ジ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('793a', '示', 5, 5, 'show,indicate,point out,express,display', 'シ', 'しめ.す');
@@ -1228,7 +1228,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5112', '儒', 16, 8, 'Confucian', 'ジュ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('53d7', '受', 8, 3, 'accept,undergo,answer (phone),take,get,catch,receive', 'ジュ', 'う.かる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('546a', '呪', 8, 8, 'spell,curse,charm,malediction', 'ズ', 'のろ.う');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5bff', '寿', 7, 8, 'longevity,congratulations,one's natural life', 'シュウ', 'ことほ.ぐ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5bff', '寿', 7, 8, 'longevity,congratulations,one\'s natural life', 'シュウ', 'ことほ.ぐ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6388', '授', 11, 5, 'impart,instruct,grant,confer', 'ジュ', 'さず.かる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6a39', '樹', 16, 6, 'timber,trees,wood,establish,set up', 'ジュ', 'き');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7dac', '綬', 14, NULL, 'ribbon', 'ジュ', 'ひも');
@@ -1305,7 +1305,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7d14', '純', 10, 6, 'genuine,purity,innocence,net (profit)', 'ジュン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5de1', '巡', 5, 8, 'patrol,go around,circumference', 'ジュン', 'めぐ.り');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9075', '遵', 14, 8, 'abide by,follow,obey,learn', 'ジュン', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9187', '醇', 15, 9, 'pure sake',purity,affection', 'シュン', 'あつい');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9187', '醇', 15, 9, 'pure sake\',purity,affection', 'シュン', 'あつい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9806', '順', 12, 4, 'obey,order,turn,right,docility,occasion', 'ジュン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('51e6', '処', 5, 6, 'dispose,manage,deal with,sentence,condemn,act,behave,place', 'ショ', 'お.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('521d', '初', 7, 4, 'first time,beginning', 'ショ', '-ぞ.め');
@@ -1378,7 +1378,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79f0', '称', 10, 8, 'appellation,praise,admire,name,title,fame', 'ショウ', 'ほめ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7ae0', '章', 11, 3, 'badge,chapter,composition,poem,design', 'ショウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b11', '笑', 10, 4, 'laugh', 'ショウ', 'え.む');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7ca7', '粧', 12, 8, 'cosmetics,adorn (one's person)', 'ショウ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7ca7', '粧', 12, 8, 'cosmetics,adorn (one\'s person)', 'ショウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7d39', '紹', 11, 8, 'introduce,inherit,help', 'ショウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8096', '肖', 7, 8, 'resemblance', 'ショウ', 'あやか.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('83d6', '菖', 11, 9, 'iris', 'ショウ', '');
@@ -1399,7 +1399,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('969c', '障', 14, 6, 'hinder,hurt,harm', 'ショウ', 'さわ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9798', '鞘', 16, 9, 'sheath,case,margin,difference,shells (of beans)', 'ソウ', 'さや');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4e0a', '上', 3, 1, 'above,up', 'シャン', 'たてまつ.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4e08', '丈', 3, 8, 'length,ten shaku,measure,Mr.,Ms.,height,stature,all (one has),only,that's all,merely', 'ジョウ', 'だけ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4e08', '丈', 3, 8, 'length,ten shaku,measure,Mr.,Ms.,height,stature,all (one has),only,that\'s all,merely', 'ジョウ', 'だけ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4e1e', '丞', 6, 9, 'help', 'ショウ', 'たす.ける');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4e57', '乗', 9, 3, 'ride,power,multiplication,record,counter for vehicles,board,mount,join', 'ショウ', 'の.せる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5197', '冗', 4, 8, 'superfluous,uselessness', 'ジョウ', '');
@@ -1463,7 +1463,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('85aa', '薪', 16, 8, 'fuel,firewood,kindling', 'シン', 'まき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('89aa', '親', 16, 2, 'parent,intimacy,relative,familiarity,dealer (cards)', 'シン', 'した.しむ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8a3a', '診', 12, 8, 'checkup,seeing,diagnose,examine', 'シン', 'み.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8eab', '身', 7, 3, 'somebody,person,one's station in life', 'シン', 'み');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8eab', '身', 7, 3, 'somebody,person,one\'s station in life', 'シン', 'み');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8f9b', '辛', 7, 8, 'spicy,bitter,hot,acrid', 'シン', 'かのと');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9032', '進', 10, 3, 'advance,proceed,progress,promote', 'シン', 'すす.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91dd', '針', 10, 6, 'needle,pin,staple,stinger', 'シン', 'はり');
@@ -1952,7 +1952,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('693f', '椿', 13, 9, 'camellia', 'チュン', 'つばき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6f70', '潰', 15, 8, 'crush,smash,break,dissipate', 'エ', 'つい.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('576a', '坪', 8, 8, 'two-mat area,approx. thirty-six sq ft', 'ヘイ', 'つぼ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('58f7', '壷', 11, NULL, 'jar,pot,hinge knuckle,one's aim', 'コ', 'つぼ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('58f7', '壷', 11, NULL, 'jar,pot,hinge knuckle,one\'s aim', 'コ', 'つぼ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b2c', '嬬', 17, NULL, 'mistress,weak', 'ジュ', 'よわ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7d2c', '紬', 11, 9, 'pongee (a knotted silk cloth)', 'チュウ', 'つむ.ぐ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('722a', '爪', 4, 8, 'claw,nail,talon', 'ソウ', 'つま-');
@@ -1978,7 +1978,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('633a', '挺', 10, 9, 'counter for guns, inksticks, palanquins, rickshaws,bravely volunteer', 'テイ', 'ぬ.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('63d0', '提', 12, 5, 'propose,take along,carry in hand', 'ダイ', 'さ.げる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('68af', '梯', 11, 9, 'ladder,stairs,insatiable drinking', 'タイ', 'はしご');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6c40', '汀', 5, 9, 'water's edge,shore,bank', 'テイ', 'なぎさ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6c40', '汀', 5, 9, 'water\'s edge,shore,bank', 'テイ', 'なぎさ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7887', '碇', 13, NULL, 'anchor,grapnel', 'テイ', 'いかり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('798e', '禎', 13, 9, 'happiness,blessed,good fortune,auspicious', 'テイ', 'さいわ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7a0b', '程', 12, 5, 'extent,degree,law,formula,distance,limits,amount', 'テイ', '-ほど');
@@ -1997,7 +1997,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('64e2', '擢', 17, 9, 'excel in,surpass,pull out,select', 'タク', 'ぬき.んでる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6575', '敵', 15, 5, 'enemy,foe,opponent', 'テキ', 'かな.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6ef4', '滴', 14, 8, 'drip,drop', 'テキ', 'したた.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7684', '的', 8, 4, 'bull's eye,mark,target,object,adjective ending', 'テキ', 'まと');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7684', '的', 8, 4, 'bull\'s eye,mark,target,object,adjective ending', 'テキ', 'まと');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b1b', '笛', 11, 3, 'flute,clarinet,pipe,whistle,bagpipe,piccolo', 'テキ', 'ふえ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9069', '適', 13, 5, 'suitable,occasional,rare,qualified,capable', 'テキ', 'かな.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93d1', '鏑', 19, NULL, 'arrowhead', 'テキ', 'やじり');
@@ -2053,7 +2053,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('51ac', '冬', 5, 2, 'winter', 'トウ', 'ふゆ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('51cd', '凍', 10, 8, 'frozen,congeal,refrigerate', 'トウ', 'し.みる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5200', '刀', 2, 2, 'sword,saber,knife', 'トウ', 'そり');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5510', '唐', 10, 8, 'T'ang,China,foreign', 'トウ', 'から');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5510', '唐', 10, 8, 'T\'ang,China,foreign', 'トウ', 'から');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5854', '塔', 12, 8, 'pagoda,tower,steeple', 'トウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5858', '塘', 13, NULL, 'dike,embankment', 'トウ', 'つつみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5957', '套', 10, 9, 'accumulate,big and long,hackneyed', 'トウ', 'かさ.ねる');
@@ -2279,7 +2279,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6ae8', '櫨', 20, NULL, 'wax tree,sumac', 'ロ', 'はぜ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e61', '幡', 15, 9, 'flag', 'ホン', 'はた');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('808c', '肌', 6, 8, 'texture,skin,body,grain', 'キ', 'はだ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7551', '畑', 9, 3, 'farm,field,garden,one's specialty,(kokuji)', '', '-ばたけ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7551', '畑', 9, 3, 'farm,field,garden,one\'s specialty,(kokuji)', '', '-ばたけ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7560', '畠', 10, 9, 'field,farm,garden,(kokuji)', '', 'はた');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('516b', '八', 2, 1, 'eight,eight radical (no. 12)', 'ハチ', 'よう');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9262', '鉢', 13, 8, 'bowl,rice tub,pot,crown', 'ハツ', '');
@@ -2469,7 +2469,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4ecf', '仏', 4, 5, 'Buddha,the dead,France', 'フツ', 'ほとけ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7269', '物', 8, 3, 'thing,object,matter', 'モツ', 'もの-');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b92', '鮒', 16, NULL, 'carp', 'ブ', 'ふな');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5206', '分', 4, 2, 'part,minute of time,segment,share,degree,one's lot,duty,understand,know,rate,1%,chances,shaku/100', 'ブ', 'わ.かつ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5206', '分', 4, 2, 'part,minute of time,segment,share,degree,one\'s lot,duty,understand,know,rate,1%,chances,shaku/100', 'ブ', 'わ.かつ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('543b', '吻', 7, 9, 'proboscis', 'ブン', 'くちさき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5674', '噴', 15, 8, 'erupt,spout,emit,flush out', 'フン', 'ふ.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('58b3', '墳', 15, 8, 'tomb,mound', 'フン', '');
@@ -2532,7 +2532,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5893', '墓', 13, 5, 'grave,tomb', 'ボ', 'はか');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6155', '慕', 14, 8, 'pining,yearn for,love dearly,adore', 'ボ', 'した.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('620a', '戊', 5, 9, '5th calendar sign', 'ボウ', 'つちのえ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66ae', '暮', 14, 6, 'evening,twilight,season's end,livelihood,make a living,spend time', 'ボ', 'く.らす');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66ae', '暮', 14, 6, 'evening,twilight,season\'s end,livelihood,make a living,spend time', 'ボ', 'く.らす');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6bcd', '母', 5, 2, 'mother', 'ボ', 'も');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7c3f', '簿', 19, 8, 'register,record book', 'ボ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('83e9', '菩', 11, 9, 'kind of grass,sacred tree', 'ボ', '');
@@ -2566,7 +2566,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8a2a', '訪', 11, 6, 'call on,visit,look up,offer sympathy', 'ホウ', 'と.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8c4a', '豊', 13, 5, 'bountiful,excellent,rich', 'ブ', 'とよ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90a6', '邦', 6, 8, 'home country,country,Japan', 'ホウ', 'くに');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92d2', '鋒', 15, 9, 'dagger,sword's point,festival car,float', 'ホウ', 'ほこさき');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92d2', '鋒', 15, 9, 'dagger,sword\'s point,festival car,float', 'ホウ', 'ほこさき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('98fd', '飽', 13, 8, 'sated,tired of,bored,satiate', 'ホウ', 'あ.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9cf3', '鳳', 14, 9, 'male mythical bird', 'フウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9d6c', '鵬', 19, 9, 'phoenix', 'ホウ', 'おおとり');
@@ -2574,7 +2574,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4ea1', '亡', 3, 6, 'deceased,the late,dying,perish', 'モウ', 'ほろ.ぼす');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('508d', '傍', 12, 8, 'bystander,side,besides,while,nearby,third person', 'ボウ', 'そば');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5256', '剖', 10, 8, 'divide', 'ボウ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('574a', '坊', 7, 8, 'boy,priest's residence,priest', 'ボッ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('574a', '坊', 7, 8, 'boy,priest\'s residence,priest', 'ボッ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59a8', '妨', 7, 8, 'disturb,prevent,hamper,obstruct', 'ボウ', 'さまた.げる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e3d', '帽', 12, 8, 'cap,headgear', 'モウ', 'おお.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fd8', '忘', 7, 6, 'forget', 'ボウ', 'わす.れる');
@@ -2666,7 +2666,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7720', '眠', 10, 8, 'sleep,die,sleepy', 'ミン', 'ねむ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('52d9', '務', 11, 5, 'task,duties', 'ム', 'つと.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5922', '夢', 13, 5, 'dream,vision,illusion', 'ボウ', 'くら.い');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7121', '無', 12, 4, 'nothingness,none,ain't,nothing,nil,not', 'ブ', 'な.い');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7121', '無', 12, 4, 'nothingness,none,ain\'t,nothing,nil,not', 'ブ', 'な.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('725f', '牟', 6, 9, 'pupil (eye),moo (cow sound)', 'ム', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('77db', '矛', 5, 8, 'halberd,arms,festival float', 'ボウ', 'ほこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9727', '霧', 19, 8, 'fog,mist', 'ブ', 'きり');
@@ -2837,7 +2837,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75e2', '痢', 12, 8, 'diarrhea', 'リ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('88cf', '裏', 13, 6, 'back,amidst,in,reverse,inside,palm,sole,rear,lining,wrong side', 'リ', 'うら');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('88e1', '裡', 12, 9, 'reverse,inside,palm,sole,rear,lining,wrong side', 'リ', 'うら');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91cc', '里', 7, 2, 'ri,village,parent's home,league', 'リ', 'さと');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91cc', '里', 7, 2, 'ri,village,parent\'s home,league', 'リ', 'さと');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('96e2', '離', 19, 8, 'detach,separation,disjoin,digress', 'リ', 'はな.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9678', '陸', 11, 4, 'land,six', 'ロク', 'おか');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f8b', '律', 9, 6, 'rhythm,law,regulation,gauge,control', 'レツ', '');
@@ -3230,7 +3230,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('53fa', '叺', 5, NULL, 'straw bag,(kokuji)', '', 'かます');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5401', '吁', 6, NULL, 'exclamation', 'ウ', 'ああ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('543d', '吽', 7, NULL, 'bark,growl', 'グ', 'ほえ.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5440', '呀', 7, NULL, 'open one's mouth,bare one's teeth,empty', 'カ', 'あ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5440', '呀', 7, NULL, 'open one\'s mouth,bare one\'s teeth,empty', 'カ', 'あ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('542c', '听', 7, NULL, 'open-mouthed laughter,listen to,pound (sterling, lb)', 'キン', 'わら.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('542d', '吭', 7, NULL, 'throat,neck,pivot', 'コウ', 'のど');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('543c', '吼', 7, NULL, 'bark,bay,howl,bellow,roar,cry', 'ク', 'ほ.える');
@@ -3253,13 +3253,13 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5484', '咄', 8, NULL, 'pshaw,god forbid', 'トツ', 'しか.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5490', '咐', 8, NULL, 'blow,command', 'ホ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5486', '咆', 8, NULL, 'bark,roar,get angry', 'ホウ', 'ほ.える');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54c7', '哇', 9, NULL, 'fawning child's voice,laughing child's voice', 'ワ', 'けい');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54c7', '哇', 9, NULL, 'fawning child\'s voice,laughing child\'s voice', 'ワ', 'けい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54a2', '咢', 9, NULL, 'outspokenly', 'ガク', 'おどろく');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54b8', '咸', 9, NULL, 'all,same', 'ゲン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54a5', '咥', 9, NULL, 'laugh,chew,eat', 'キ', 'くわ.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54ac', '咬', 9, NULL, 'bite,gnaw,chew,gear with,dash against', 'ヨウ', 'か.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54c4', '哄', 9, NULL, 'resound,reverberate', 'コウ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54c8', '哈', 9, NULL, 'school of fish,fish's mouth moving,exhaling sound', 'ソウ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54c8', '哈', 9, NULL, 'school of fish,fish\'s mouth moving,exhaling sound', 'ソウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54a8', '咨', 9, NULL, 'investigate', 'シ', 'はか.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54ab', '咫', 9, NULL, 'short,span', 'シ', 'た');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54c2', '哂', 9, NULL, 'derisive laugh,sneer', 'シン', 'わら.う');
@@ -3313,7 +3313,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5614', '嘔', 14, NULL, 'vomit,nauseated', 'ク', 'うた.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55f7', '嗷', 14, NULL, 'noisy', 'ゴウ', 'かまびす.しい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5616', '嘖', 14, NULL, 'scold,torment,chastise', 'サク', 'さけ.ぶ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55fe', '嗾', 14, NULL, 'sic'em,egg on,instigate', 'ソウ', 'そそのか.す');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55fe', '嗾', 14, NULL, 'sic\'em,egg on,instigate', 'ソウ', 'そそのか.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55fd', '嗽', 14, NULL, 'rinse,wash,gargle', 'ソク', 'うがい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('561b', '嘛', 14, NULL, 'wheat', 'マ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55f9', '嗹', 14, NULL, 'voluble,garrulous', 'レン', 'おしゃべり');
@@ -3331,7 +3331,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('566a', '噪', 16, NULL, 'be noisy', 'ソウ', 'さわ.ぐ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5686', '嚆', 16, NULL, 'call', 'コウ', 'さけ.ぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5680', '嚀', 17, NULL, 'kindness', 'ニョウ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('568a', '嚊', 17, NULL, 'breathing through the nose,snorting,wife,one's old lady', 'ヒ', 'はないき');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('568a', '嚊', 17, NULL, 'breathing through the nose,snorting,wife,one\'s old lady', 'ヒ', 'はないき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56a0', '嚠', 18, NULL, 'a clear sound', 'ル', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5694', '嚔', 17, NULL, 'sneeze', 'テイ', 'ひ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('568f', '嚏', 17, NULL, 'sneeze', 'テイ', 'ひ.る');
@@ -3448,7 +3448,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5960', '奠', 12, NULL, 'decision', 'テイ', 'まつ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5967', '奧', 13, 10, 'heart,interior', 'オク', 'くま');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('596c', '奬', 14, 10, 'prize,reward,give award to', 'ソウ', 'すす.める');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5969', '奩', 14, NULL, 'lady's vanity case,trousseau', 'レン', 'はこ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5969', '奩', 14, NULL, 'lady\'s vanity case,trousseau', 'レン', 'はこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5978', '奸', 6, NULL, 'wickedness,mischief,rudeness', 'カン', 'おか.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5981', '妁', 6, NULL, 'go-between', 'シャク', 'なこうど');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('599d', '妝', 7, NULL, 'dress up', 'ショウ', 'よそお.う');
@@ -3466,7 +3466,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a1f', '娟', 10, NULL, 'beauty of face', 'ケン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a11', '娑', 10, NULL, 'old woman', 'サ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a1c', '娜', 10, NULL, 'graceful', 'ナ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a09', '娉', 10, NULL, 'ask after a woman's name,marry a woman,good-looking', 'ホウ', 'ほ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a09', '娉', 10, NULL, 'ask after a woman\'s name,marry a woman,good-looking', 'ホウ', 'ほ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a1a', '娚', 10, NULL, 'loud talking', 'ドウ', 'たわむ.れる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a40', '婀', 11, NULL, 'charm,flirtation', 'ア', 'たおやか');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a6c', '婬', 11, NULL, 'lewdness,licentiousness', 'イン', 'みだ.れる');
@@ -3479,7 +3479,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5abc', '媼', 13, NULL, 'mother,grandma,old woman', 'オウ', 'おうな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5abe', '媾', 13, NULL, 'association,intimacy', 'コウ', 'よしみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5acb', '嫋', 13, NULL, 'supple,pliant,delicate,slender', 'デキ', 'たお.やか');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ac2', '嫂', 13, NULL, 'elder brother's wife', 'ソウ', 'あによめ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ac2', '嫂', 13, NULL, 'elder brother\'s wife', 'ソウ', 'あによめ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5abd', '媽', 13, NULL, 'mother,mare', 'モ', 'はは');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ae3', '嫣', 14, NULL, 'beauty', 'エン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ad7', '嫗', 14, NULL, 'old woman,mother', 'オウ', 'おうな');
@@ -3620,7 +3620,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e43', '幃', 13, NULL, 'bag', 'キ', 'とばり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e40', '幀', 12, NULL, 'making books or scrolls', 'トウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e4e', '幎', 13, NULL, 'cloth covering', 'ベキ', 'とばり');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e57', '幗', 14, NULL, 'woman's head covering,veil', 'カク', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e57', '幗', 14, NULL, 'woman\'s head covering,veil', 'カク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e54', '幔', 14, NULL, 'curtain', 'バン', 'まく');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e5f', '幟', 15, NULL, 'flag,banner,streamer', 'シ', 'のぼり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e62', '幢', 15, NULL, 'flag,banner', 'トウ', 'はた');
@@ -3658,7 +3658,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f5d', '彝', 18, NULL, 'moral principle', 'イ', 'つね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f5c', '彜', 16, NULL, 'moral principle', 'イ', 'つね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f0b', '弋', 3, NULL, 'piling,ceremony radical (no. 56)', 'ヨク', 'いぐるみ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f11', '弑', 12, NULL, 'murder one's lord or father', 'シイ', 'しい.する');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f11', '弑', 12, NULL, 'murder one\'s lord or father', 'シイ', 'しい.する');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f16', '弖', 4, NULL, 'phoneme only,(kokuji)', 'テ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f29', '弩', 8, NULL, 'bow (arrow)', 'ド', 'いしゆみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f2d', '弭', 9, NULL, 'stop,cease,notches where drawstring is attached to the bow', 'ミ', 'ゆはず');
@@ -3668,7 +3668,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f4c', '彌', 17, 10, 'extensive,full,fill,complete', 'ビ', 'わた.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f4e', '彎', 22, NULL, 'curve,stretching a bow', 'ワン', 'ひ.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f2f', '弯', 9, NULL, 'curve,stretching a bow', 'ワン', 'ひ.く');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f51', '彑', 3, NULL, 'pig's head radical variant (no. 58)', 'ケイ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f51', '彑', 3, NULL, 'pig\'s head radical variant (no. 58)', 'ケイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f56', '彖', 9, NULL, 'divination', 'タン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f57', '彗', 11, 9, 'comet', 'セイ', 'ほうき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f59', '彙', 13, 8, 'same kind,collect,classify,category,hedgehog', 'イ', 'はりねずみ');
@@ -3682,7 +3682,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f8a', '徊', 9, NULL, 'wandering', 'エ', 'さまよ.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f88', '很', 9, NULL, 'disobey,dispute,very,go against,be contrary to', 'ギン', 'もと.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f91', '徑', 10, NULL, 'path,diameter,method', 'ケイ', 'ただちに');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f87', '徇', 9, NULL, 'herald,announce,follow,obey,seek,lay down one's life', 'シュン', 'とな.える');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f87', '徇', 9, NULL, 'herald,announce,follow,obey,seek,lay down one\'s life', 'シュン', 'とな.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f9e', '從', 11, 10, 'from,by,since,whence,through', 'ジュ', 'より');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f99', '徙', 11, NULL, 'move', 'シ', 'うつ.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f98', '徘', 11, NULL, 'wander', 'ハイ', 'さまよ.う');
@@ -3691,7 +3691,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fad', '徭', 13, NULL, 'compulsory service to the state,corvee', 'エウ', 'つかい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fbc', '徼', 16, NULL, 'seek,enquire,go around,border', 'ヨウ', 'めぐ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fd6', '忖', 6, NULL, 'conjecture', 'ソン', 'はか.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ffb', '忻', 7, NULL, 'rejoice,open one's heart', 'キン', 'よろこ.ぶ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ffb', '忻', 7, NULL, 'rejoice,open one\'s heart', 'キン', 'よろこ.ぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fe4', '忤', 7, NULL, 'insubordinate,stubborn,wrong', 'ゴ', 'もと.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ff8', '忸', 7, NULL, 'shame', 'ジュウ', 'はじ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ff1', '忱', 7, NULL, 'sincere', 'シン', 'まこと');
@@ -3850,7 +3850,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6283', '抃', 7, NULL, 'strike with hand', 'ベン', 'う.つ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6294', '抔', 7, NULL, 'and so forth', 'ハイ', 'すく.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('62d7', '拗', 8, NULL, 'crooked,twisted,distorted,perverted,cross', 'ユウ', 'ねじ.ける');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('62d1', '拑', 8, NULL, 'shut one's mouth', 'ケン', 'つぐ.む');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('62d1', '拑', 8, NULL, 'shut one\'s mouth', 'ケン', 'つぐ.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('62bb', '抻', 8, NULL, 'stretch,extend', 'チン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('62cf', '拏', 9, NULL, 'catch,arrest', 'ナ', 'ひ.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('62ff', '拿', 10, NULL, 'catch,arrest', 'ナ', 'ひ.く');
@@ -4011,7 +4011,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66c1', '曁', 16, NULL, 'and,along with,reach,extend to', 'キ', 'およ.ぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66b9', '暹', 16, NULL, 'sunrise', 'セン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66c9', '曉', 16, 10, 'dawn,daybreak,clear,explicit', 'ギョウ', 'さと.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66be', '暾', 16, NULL, 'sunrise,sun's rays', 'トン', 'あさひ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66be', '暾', 16, NULL, 'sunrise,sun\'s rays', 'トン', 'あさひ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66bc', '暼', 16, NULL, 'setting sun', 'ヘチ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66c4', '曄', 14, NULL, 'shine,flourishing', 'ヨウ', 'かが.やく');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('66b8', '暸', 16, NULL, 'clear', 'リョウ', 'あきらか');
@@ -4042,7 +4042,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6759', '杙', 7, NULL, 'stake,post,picket,piling', 'ヨク', 'くい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6763', '杣', 7, NULL, 'timber,lumber,woodcutter,(kokuji)', '', 'そま');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6764', '杤', 7, NULL, 'type of oak,stable,(kokuji)', '', 'とち');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6789', '枉', 8, NULL, 'bend,curve,crooked,perverse,lean,forcibly,against one's will', 'オウ', 'ま.げて');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6789', '枉', 8, NULL, 'bend,curve,crooked,perverse,lean,forcibly,against one\'s will', 'オウ', 'ま.げて');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6770', '杰', 8, NULL, 'hero,heroic,outstanding', 'ゲチ', 'すぐ.れる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('67a9', '枩', 8, NULL, 'pine tree,fir tree', 'ショウ', 'まつ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('677c', '杼', 8, NULL, 'shuttle', 'ショ', 'どんぐり');
@@ -4226,7 +4226,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6b38', '欸', 11, NULL, 'exclamation', 'カイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6b37', '欷', 11, NULL, 'cry', 'キ', 'なげく');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('76dc', '盜', 12, 10, 'thief,to steal', 'トウ', 'ぬす.む');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6b39', '欹', 12, NULL, 'prick up (one's ears)', 'キ', 'そばだ.つ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6b39', '欹', 12, NULL, 'prick up (one\'s ears)', 'キ', 'そばだ.つ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('98ee', '飮', 13, NULL, 'drink', 'オン', 'の.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6b47', '歇', 13, NULL, 'exhausted,out of', 'カツ', 'や.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6b43', '歃', 13, NULL, 'sip,slurp,suck', 'ショウ', 'すす.る');
@@ -4625,7 +4625,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75a5', '疥', 9, NULL, 'scabby eruption', 'カイ', 'はたけ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75a3', '疣', 9, NULL, 'wart', 'ユウ', 'いぼ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75c2', '痂', 10, NULL, 'scab,dry up,slough', 'ケ', 'かさ.ぶた');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75b3', '疳', 10, NULL, 'children's diseases', 'カン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75b3', '疳', 10, NULL, 'children\'s diseases', 'カン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75c3', '痃', 10, NULL, 'cramps', 'ケン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75b5', '疵', 11, NULL, 'crack,flaw,scratch,speck', 'シ', 'きず');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('75bd', '疽', 10, NULL, 'carbuncle', 'ショ', 'かさ');
@@ -4870,7 +4870,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b74', '筴', 13, NULL, 'insert between,chopsticks,divining sticks,plan', 'サク', 'めどぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b67', '筧', 13, NULL, 'waterpipe,flume', 'ケン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b70', '筰', 13, NULL, 'bamboo rope', 'サク', 'しゃく');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b71', '筱', 13, NULL, 'dwarf bamboo,diminutive in person's name', 'ショウ', 'しの');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b71', '筱', 13, NULL, 'dwarf bamboo,diminutive in person\'s name', 'ショウ', 'しの');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b6c', '筬', 12, NULL, 'reed,guide for yarn on a loom', 'セイ', 'おさ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b6e', '筮', 13, NULL, '(water) divining equipment', 'セイ', 'めどぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7b9d', '箝', 14, NULL, 'insert,fit into,attach (a clog thong)', 'ケン', 'はさ.む');
@@ -5010,7 +5010,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7e0b', '縋', 16, NULL, 'cling,hang on,depend', 'ツイ', 'すが.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7e22', '縢', 16, NULL, 'cross-stitch,darn', 'トウ', 'むかばき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7e46', '繆', 17, NULL, 'error,wrap around', 'リョウ', 'まと.う');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7e66', '繦', 17, NULL, 'string of coins,child's obi,nappy', 'キョウ', 'ぜにさし');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7e66', '繦', 17, NULL, 'string of coins,child\'s obi,nappy', 'キョウ', 'ぜにさし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7e3b', '縻', 17, NULL, 'rope', 'ミ', 'きずな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7e35', '縵', 17, NULL, 'unpatterned silk,loose', 'バン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7e39', '縹', 17, NULL, 'light blue', 'ヒョウ', 'はなだ');
@@ -5209,7 +5209,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('826a', '艪', 21, NULL, 'oar,tower', 'ロ', 'かい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('826b', '艫', 22, NULL, 'bow,prow,stern', 'ロ', 'へさき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('822e', '舮', 10, NULL, 'bow or prow of boat', 'ロ', 'へさき');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8271', '艱', 17, NULL, 'difficult,trying,be distressed,parent's funeral ceremony,mourning,perilous', 'ケン', 'なや.み');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8271', '艱', 17, NULL, 'difficult,trying,be distressed,parent\'s funeral ceremony,mourning,perilous', 'ケン', 'なや.み');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8277', '艷', 24, NULL, 'luster,glaze,polish,charm,colorful,captivating', 'エン', 'なま.めく');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8278', '艸', 6, NULL, 'grass,plants,grass radical (no. 140)', 'ソウ', 'くさ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('827e', '艾', 5, NULL, 'moxa,sagebrush,wormwood,mugwort', 'ゲイ', 'か.る');
@@ -5261,7 +5261,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('837c', '荼', 11, NULL, 'a weed', 'ダ', 'にがな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('83b5', '莵', 11, NULL, 'dodder (plant)', 'ツ', 'うさぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8373', '荳', 11, NULL, 'bean,nutmeg', 'ズ', 'まめ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8375', '荵', 11, NULL, 'hare's foot fern', 'ジン', 'しのぶ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8375', '荵', 11, NULL, 'hare\'s foot fern', 'ジン', 'しのぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('83a0', '莠', 11, NULL, 'appears good but is bad,type of weed which resembles rice', 'ユウ', 'はぐさ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8389', '莉', 10, 9, 'jasmine', 'レイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('83a8', '莨', 11, NULL, 'tobacco', 'ロウ', 'たばこ');
@@ -5305,7 +5305,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8462', '葢', 13, NULL, 'cover,lid,flap', 'コウ', 'かこう');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('84b9', '蒹', 14, NULL, 'type of reed', 'ケン', 'おぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('84bf', '蒿', 14, NULL, 'mugwort', 'コウ', 'よもぎ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('849f', '蒟', 14, NULL, 'devil's tongue (plant)', 'ク', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('849f', '蒟', 14, NULL, 'devil\'s tongue (plant)', 'ク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('84d9', '蓙', 14, NULL, 'mat,matting,(kokuji)', 'ザ', 'ござ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('84cd', '蓍', 14, NULL, 'yarrow,sericea,stalks used for divination', 'シ', 'めどぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('84bb', '蒻', 14, NULL, 'a kind of water plant', 'ニャク', '');
@@ -5480,7 +5480,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8897', '袗', 10, NULL, 'thin kimono,embroidery', 'シン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8892', '袒', 10, NULL, 'baring the shoulder,strip to waist', 'タン', 'かたぬ.ぐ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('88ae', '袮', 10, NULL, 'ancestral shrine,embroidery', 'チ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8899', '袙', 10, NULL, 'warrior's headband', 'ハ', 'あこめ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8899', '袙', 10, NULL, 'warrior\'s headband', 'ハ', 'あこめ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('88a2', '袢', 10, NULL, 'summer kimono,short clothing', 'ハン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('888d', '袍', 10, NULL, 'coat', 'ホウ', 'わたいれ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('88a4', '袤', 11, NULL, 'length', 'ボウ', 'ながさ');
@@ -5519,7 +5519,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('895e', '襞', 19, NULL, 'pleat,fold,tuck,crease', 'ヒャク', 'しわ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8966', '襦', 19, NULL, 'underwear', 'ジュ', 'はだぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8964', '襤', 20, NULL, 'rags', 'ラン', 'ぼろ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('896d', '襭', 20, NULL, 'tuck into one's obi', 'ケツ', 'はさ.む');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('896d', '襭', 20, NULL, 'tuck into one\'s obi', 'ケツ', 'はさ.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('896a', '襪', 19, NULL, 'socks', 'バツ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('896f', '襯', 21, NULL, 'underwear', 'シン', 'はだぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8974', '襴', 22, NULL, 'a kind of cloth', 'リン', '');
@@ -5878,9 +5878,9 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9248', '鉈', 13, NULL, 'hatchet', 'シャ', 'ほこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9295', '銕', 14, NULL, 'iron,strong,solid,firm', 'テツ', 'くろがね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('923f', '鈿', 13, NULL, 'ornamental hairpiece', 'テン', 'かんざし');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('924b', '鉋', 13, NULL, 'carpenter's plane', 'ビョウ', 'かんな');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('924b', '鉋', 13, NULL, 'carpenter\'s plane', 'ビョウ', 'かんな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9250', '鉐', 13, NULL, 'brass', 'ジャク', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('929c', '銜', 14, NULL, 'horse's bit', 'カン', 'くわ.える');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('929c', '銜', 14, NULL, 'horse\'s bit', 'カン', 'くわ.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9296', '銖', 14, NULL, 'measuring unit, 1/16 of a ryou,percent,small,slight', 'シュ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9293', '銓', 14, NULL, 'measure,scales,weigh', 'セン', 'はか.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('929b', '銛', 14, NULL, 'harpoon,gaff', 'テン', 'すき');
@@ -5946,7 +5946,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('947d', '鑽', 27, NULL, 'make fire by rubbing sticks', 'サン', 'き.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('945a', '鑚', 23, NULL, 'make fire by rubbing sticks', 'サン', 'き.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('947c', '鑼', 27, NULL, 'gong', 'ラ', 'どら');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('947e', '鑾', 27, NULL, 'bells on emperor's carriage', 'ラン', 'すず');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('947e', '鑾', 27, NULL, 'bells on emperor\'s carriage', 'ラン', 'すず');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9481', '钁', 28, NULL, 'hoe', 'キャク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('947f', '鑿', 28, NULL, 'chisel', 'サク', 'うが.つ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9582', '閂', 9, NULL, 'gate bar', 'セン', 'かんぬき');
@@ -6042,12 +6042,12 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('52d2', '勒', 11, NULL, 'halter and bit', 'ロク', 'くつわ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('976b', '靫', 12, NULL, 'quiver', 'サツ', 'ゆぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9771', '靱', 12, NULL, 'soft,pliable,quiver', 'サツ', 'ゆぎ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9779', '靹', 13, NULL, 'archer's arm protector', 'ケツ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9779', '靹', 13, NULL, 'archer\'s arm protector', 'ケツ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9785', '鞅', 14, NULL, 'martingale,breast harness,saddle girth,fetter,shackle,carry on back', 'ヨウ', 'むながい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('977c', '靼', 14, NULL, 'tanned leather,smooth leather', 'タツ', 'なめしがわ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9781', '鞁', 14, NULL, 'reins,saddle cover', 'ヒ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('977a', '靺', 14, NULL, 'leather tabi,Tungusic tribe', 'バツ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9786', '鞆', 14, NULL, 'archer's arm protector,(kokuji)', '', 'とも');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9786', '鞆', 14, NULL, 'archer\'s arm protector,(kokuji)', '', 'とも');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('978b', '鞋', 15, NULL, 'straw sandals', 'カイ', 'くつ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('978f', '鞏', 15, NULL, 'hard,firm', 'キョウ', 'かたい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9790', '鞐', 15, NULL, 'clamp,fastener,(kokuji)', '', 'こはぜ');
@@ -6066,7 +6066,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9f4f', '齏', 23, NULL, 'dishes seasoned with vinegar or miso', 'サイ', 'あ.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97f2', '韲', 19, NULL, 'dress (salad) vegetables', 'サイ', 'あ.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7adf', '竟', 11, NULL, 'end,finally', 'ケイ', 'わた.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97f6', '韶', 14, NULL, 'beautiful,emperor Shun's music', 'ショウ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97f6', '韶', 14, NULL, 'beautiful,emperor Shun\'s music', 'ショウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97f5', '韵', 13, NULL, 'rhyme,vowel', 'イン', 'ひびき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('980f', '頏', 13, NULL, 'alight,land,throat,neck', 'コウ', 'のど');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('980c', '頌', 13, 9, 'eulogy', 'ヨウ', 'ほめ.る');
@@ -6130,7 +6130,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('99ed', '駭', 16, NULL, 'be surprised', 'カイ', 'おどろ.かす');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('99ee', '駮', 16, NULL, 'spots', 'ハク', 'まだら');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('99f1', '駱', 16, NULL, 'white horse', 'ラク', 'かわらげ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('99f2', '駲', 16, NULL, 'horse's buttocks,horse's tail', 'ジュン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('99f2', '駲', 16, NULL, 'horse\'s buttocks,horse\'s tail', 'ジュン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('99fb', '駻', 17, NULL, 'rage,run wild', 'カン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('99f8', '駸', 17, NULL, 'speed,horses running', 'シン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a01', '騁', 17, NULL, 'run fast,gallop,as one pleases', 'テイ', 'はせ.る');
@@ -6152,7 +6152,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a5f', '驟', 24, NULL, 'run,suddenly', 'シュウ', 'はせ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a62', '驢', 26, NULL, 'donkey', 'リョ', 'うさぎうま');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a65', '驥', 26, NULL, 'fast horse,talent', 'キ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a64', '驤', 27, NULL, 'lift one's head', 'ショウ', 'あ.がる');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a64', '驤', 27, NULL, 'lift one\'s head', 'ショウ', 'あ.がる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a69', '驩', 27, NULL, 'greetings,be happy,celebrate', 'カン', 'よろこ.ぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a6b', '驫', 30, NULL, 'many horses', 'ショウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a6a', '驪', 29, NULL, 'black horse', 'レイ', '');
@@ -6170,7 +6170,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9ae3', '髣', 14, NULL, 'dimly', 'ホウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9ae6', '髦', 14, NULL, 'bangs,long hair,excellence', 'モウ', 'たれがみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9aef', '髯', 15, NULL, 'beard,mustache', 'ゼン', 'ひげ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9aeb', '髫', 15, NULL, 'children's long hair,small child', 'チョウ', 'うな.い');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9aeb', '髫', 15, NULL, 'children\'s long hair,small child', 'チョウ', 'うな.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9aee', '髮', 15, 10, 'hair', 'ハツ', 'かみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9af4', '髴', 15, NULL, 'dimly', 'フツ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9af1', '髱', 15, NULL, 'topknot,bun,coiled hairknot', 'ホウ', 'たぼ');
@@ -6215,7 +6215,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9bd1', '鯑', 18, NULL, 'yellow fish (herring) eggs (sushi),(kokuji)', '', 'かずのこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9bd2', '鯒', 18, NULL, 'flathead (fish),(kokuji)', '', 'こち');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9be3', '鯣', 19, NULL, 'cuttlefish', 'エキ', 'するめ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9be2', '鯢', 19, NULL, 'salamander,female whale,small fish,old person's teeth', 'ゲイ', 'さんしょううお');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9be2', '鯢', 19, NULL, 'salamander,female whale,small fish,old person\'s teeth', 'ゲイ', 'さんしょううお');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9be4', '鯤', 19, NULL, 'large mythical fish,roe', 'コン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9bd4', '鯔', 19, NULL, 'mullet (fish)', 'シ', 'とど');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9be1', '鯡', 19, NULL, 'herring', 'ヒ', 'はららご');
@@ -6307,7 +6307,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9e79', '鹹', 20, NULL, 'salty', 'ダイ', 'せいしゅ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9e7d', '鹽', 25, NULL, 'salt', 'エン', 'しお');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9e81', '麁', 13, NULL, 'rough,crude,coarse', 'ソ', 'あら.い');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9e88', '麈', 16, NULL, 'moose,priest's horsehair flapper,elk', 'ス', 'おおじか');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9e88', '麈', 16, NULL, 'moose,priest\'s horsehair flapper,elk', 'ス', 'おおじか');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9e8b', '麋', 17, NULL, 'reindeer', 'ビ', 'なれしか');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9e8c', '麌', 18, NULL, 'stag,buck,hart', 'ゴ', 'おじか');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9e92', '麒', 19, 9, 'Chinese unicorn,genius,giraffe,bright,shining', 'キ', '');
@@ -6675,7 +6675,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5216', '刖', 6, NULL, 'cutting off feet as form of punishment', 'カツ', 'あやう.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5218', '刘', 6, NULL, 'surname,kill,destroy', 'ル', 'ころ.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5222', '刢', 7, NULL, '', 'リョウ', 'さ.く');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5228', '刨', 8, NULL, 'carpenter's plane,plane,level', 'ビョウ', 'けず.る');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5228', '刨', 8, NULL, 'carpenter\'s plane,plane,level', 'ビョウ', 'けず.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5231', '刱', 8, NULL, 'establish,create,knife cut', 'ショウ', 'きず.つく');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5232', '刲', 8, NULL, 'cut,slice off,pierce', 'ケ', 'ころ.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5235', '刵', 8, NULL, 'punishment by cutting off ears', 'ゲイ', 'みみきり');
@@ -6854,7 +6854,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54a6', '咦', 9, NULL, 'expression of surprise', 'タイ', 'といき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54a7', '咧', 9, NULL, 'stretch mouth,grimace,grin', 'レチ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54a9', '咩', 9, NULL, 'the bleating of sheep', 'ミ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54aa', '咪', 9, NULL, 'sound of cat,cat's meow,meter,(Cantonese) don't!', 'ベイ', 'めえとる');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54aa', '咪', 9, NULL, 'sound of cat,cat\'s meow,meter,(Cantonese) don\'t!', 'ベイ', 'めえとる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54ad', '咭', 9, NULL, 'sound of laughter,sound of mice squeaking', 'ケチ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54ae', '咮', 9, NULL, 'beak', 'シュウ', 'くちばし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('54b1', '咱', 9, NULL, 'us', 'シャ', 'われ');
@@ -6927,7 +6927,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55c1', '嗁', 13, NULL, 'give forth sound,make noise', 'ダイ', 'な.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55c3', '嗃', 13, NULL, 'flute', 'キョウ', 'せ.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55c6', '嗆', 13, NULL, 'choke by smoke,irritates nose', 'ソウ', 'つ.まる');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55c9', '嗉', 13, NULL, 'bird's crop or craw,wine pot', 'ソ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55c9', '嗉', 13, NULL, 'bird\'s crop or craw,wine pot', 'ソ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55cb', '嗋', 13, NULL, '', 'コウ', 'おど.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55cc', '嗌', 13, NULL, 'the throat', 'エイ', 'のど');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('55ce', '嗎', 13, NULL, 'final interrogative particle', 'バ', 'ののし.る');
@@ -6972,7 +6972,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('564d', '噍', 15, NULL, 'chew,eat,munch', 'ザク', 'か.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('564f', '噏', 15, NULL, 'inhale,absorb,imbibe,compress', 'キュウ', 'す.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5654', '噔', 15, NULL, 'syllable', 'トウ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('565e', '噞', 16, NULL, 'the movement of a fish's mouth at the surface of the water', 'ゲン', 'はげ.しい');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('565e', '噞', 16, NULL, 'the movement of a fish\'s mouth at the surface of the water', 'ゲン', 'はげ.しい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5660', '噠', 16, NULL, 'sound made get horse move forward', 'タチ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5661', '噡', 16, NULL, '', 'タン', 'うるさくしゃべ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5662', '噢', 16, NULL, 'moan,interjection for pain,sad', 'ク', 'うめ.く');
@@ -6986,7 +6986,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5675', '噵', 16, NULL, '', 'トウ', 'みち');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5684', '嚄', 17, NULL, 'roar', 'ワク', 'ああ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5685', '嚅', 17, NULL, 'talk indistinctly and falteringly', 'ニュ', 'やかま.しい');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5688', '嚈', 17, NULL, 'Hephthalite empire,to have one's breath taken', 'エン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5688', '嚈', 17, NULL, 'Hephthalite empire,to have one\'s breath taken', 'エン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('568b', '嚋', 17, NULL, '', 'チュ', 'のろ.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('568c', '嚌', 17, NULL, 'sip', 'サイ', 'な.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5695', '嚕', 18, NULL, 'verbose,talkative,mumbling', 'ロ', 'へつら.う');
@@ -6998,7 +6998,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56a6', '嚦', 19, NULL, 'used in onomatopoeic expression', 'リャク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56a7', '嚧', 19, NULL, '', 'ロ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56a8', '嚨', 19, NULL, 'throat', 'ル', 'のど');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56a9', '嚩', 19, NULL, 'used to transliterate Sanskrit 'va'', 'バ', 'のろ.い');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56a9', '嚩', 19, NULL, 'used to transliterate Sanskrit \'va\'', 'バ', 'のろ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56ab', '嚫', 19, NULL, '', 'シン', 'ほどこ.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56ac', '嚬', 19, NULL, 'frown,scowl', 'ヒン', 'ひそ.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56ad', '嚭', 19, NULL, 'mound,lump,stealthily', 'ヒ', 'おお.きい');
@@ -7010,7 +7010,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56c9', '囉', 22, NULL, 'exclamatory final particle,nag', 'ラ', 'こえ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56ca', '囊', 22, NULL, 'bag,purse,sack,put in bag', 'ドウ', 'ふくろ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56cb', '囋', 22, NULL, 'to slander,to libel,to criticize,chatty,gossipy', 'サン', 'こえ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56cf', '囏', 23, NULL, 'difficult,trying,be distressed,parent's funeral ceremony,mourning,perilous', 'ケン', 'も');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56cf', '囏', 23, NULL, 'difficult,trying,be distressed,parent\'s funeral ceremony,mourning,perilous', 'ケン', 'も');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56d0', '囐', 23, NULL, '', 'ガチ', 'ただ.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56cc', '囌', 23, NULL, 'loquacious,nag', 'ソ', 'よくしゃべ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56cd', '囍', 24, NULL, 'double happiness', '', '');
@@ -7018,7 +7018,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56dc', '囜', 5, NULL, '', 'ニン', 'かしこ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56dd', '囝', 6, NULL, 'baby,infant', 'ガチ', 'こども');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56df', '囟', 6, NULL, 'top of the head,skull', 'シ', 'ひよめき');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56e1', '囡', 6, NULL, 'one's daughter,to filch,to secrete', 'ナン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56e1', '囡', 6, NULL, 'one\'s daughter,to filch,to secrete', 'ナン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56e4', '囤', 7, NULL, 'grain basket,bin for grain', 'トン', 'ざる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56e5', '囥', 7, NULL, 'hide', 'コウ', 'くら');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('56e6', '囦', 7, NULL, '', 'コウ', 'はなわ');
@@ -7217,8 +7217,8 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('596d', '奭', 15, NULL, 'red,anger,ire,surname', 'キャク', 'いか.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('596f', '奯', 16, NULL, '', 'カチ', 'ひろびろと');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5972', '奲', 24, NULL, '', 'タ', 'ゆる.やかで');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5975', '奵', 5, NULL, 'used in women's names', 'テン', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5976', '奶', 5, NULL, 'milk,woman's breasts,nurse', 'ナイ', 'はぐく.む');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5975', '奵', 5, NULL, 'used in women\'s names', 'テン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5976', '奶', 5, NULL, 'milk,woman\'s breasts,nurse', 'ナイ', 'はぐく.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5979', '她', 6, NULL, 'she,her', 'イ', 'あざ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('597b', '奻', 6, NULL, 'quarrel,dispute', 'ナン', 'いいあらそ.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('597c', '奼', 6, NULL, 'young girl,maiden,virgin,beautiful woman,charming and beautiful', 'ツ', 'ほこ.る');
@@ -7227,13 +7227,13 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('598e', '妎', 7, NULL, '', 'ケイ', 'き.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5992', '妒', 7, NULL, 'jealous,envious', 'ツ', 'ふさ.ぐ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5995', '妕', 7, NULL, '', 'チュ', 'あざな');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5997', '妗', 7, NULL, 'wife of mother's brother', 'ゴン', 'よろこ.ぶ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5997', '妗', 7, NULL, 'wife of mother\'s brother', 'ゴン', 'よろこ.ぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('599f', '妟', 7, NULL, 'to be at ease,clear and balmy', 'エン', 'やす.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59a4', '妤', 7, NULL, 'beautiful,fair,handsome', 'ヨ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59a7', '妧', 7, NULL, '', 'ガン', 'みめよ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59ad', '妭', 8, NULL, '', 'バチ', 'つま');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59ae', '妮', 8, NULL, 'maid,servant girl,cute girl', 'ニ', 'やわらかくまつは.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59af', '妯', 8, NULL, 'wives of one's brothers,sister-in-law', 'トク', 'いた.む');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59af', '妯', 8, NULL, 'wives of one\'s brothers,sister-in-law', 'トク', 'いた.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59b0', '妰', 8, NULL, '', 'チャク', 'しず.か');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59b3', '妳', 8, NULL, 'you (f)', 'ニ', 'あね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59b7', '妷', 8, NULL, '', 'イチ', 'おい');
@@ -7260,7 +7260,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('59f7', '姷', 9, NULL, '', 'ウ', 'なら.ぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a00', '娀', 9, NULL, 'name of a concubine of Di Ku,father of the mythical Yao', 'シュ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a04', '娄', 9, NULL, 'surname,constellation,to wear', 'ロウ', 'ひ.く');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a0c', '娌', 10, NULL, 'brother's wife', 'リ', 'あによめ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a0c', '娌', 10, NULL, 'brother\'s wife', 'リ', 'あによめ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a0d', '娍', 10, NULL, 'slender, beautiful body', 'ジョウ', 'すらりとしてみめよ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a0e', '娎', 10, NULL, '', 'キョウ', 'よろこ.ぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a12', '娒', 10, NULL, 'matron', 'モ', 'うば');
@@ -7309,7 +7309,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5aba', '媺', 13, NULL, 'beautiful', 'ミ', 'うつく.しい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5abb', '媻', 13, NULL, 'to move', 'ハ', 'よろめ.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5abf', '媿', 13, NULL, 'ashamed,conscience-stricken', 'キ', 'とが.める');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ac4', '嫄', 13, NULL, 'an ancient emperor's mother's name,Qiang Yuan, consort to Gu', 'ガン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ac4', '嫄', 13, NULL, 'an ancient emperor\'s mother\'s name,Qiang Yuan, consort to Gu', 'ガン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ac6', '嫆', 13, NULL, '', 'ユ', 'あざな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ac8', '嫈', 13, NULL, 'lady', 'ケイ', 'みにく.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5acf', '嫏', 13, NULL, 'the place where the Supreme Being stores his books,library', 'ロウ', '');
@@ -7333,7 +7333,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b21', '嬡', 16, NULL, '(your) daughter', 'アイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b25', '嬥', 17, NULL, 'slim, well proportioned, beautiful body,charming,captivating,ancient Chinese play', 'チャク', 'とりか.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b2d', '嬭', 17, NULL, 'milk,suckle,breasts', 'ニ', 'あね');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b38', '嬸', 18, NULL, 'wife of father's younger brother', 'シン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b38', '嬸', 18, NULL, 'wife of father\'s younger brother', 'シン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b41', '孁', 20, NULL, 'shrine maiden', 'リョウ', 'め');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b4b', '孋', 22, NULL, '', 'ライ', 'あざな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5b4c', '孌', 22, NULL, 'lovely,beautiful,docile,obedient', 'マン', 'みめよ.い');
@@ -7382,7 +7382,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5bf4', '寴', 19, NULL, '', 'シン', 'した.しく');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5bfd', '寽', 7, NULL, 'handful,pinch', 'リツ', 'つま.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5c0c', '尌', 12, NULL, 'standing (something) up', 'ジュウ', 'しもべ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5c17', '尗', 6, NULL, 'younger of brothers,father's younger brother,younger brother of a husband', 'シュク', 'まめ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5c17', '尗', 6, NULL, 'younger of brothers,father\'s younger brother,younger brother of a husband', 'シュク', 'まめ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5c1e', '尞', 12, NULL, 'fuel used for sacrifices', 'リョウ', 'かがりび');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5c1f', '尟', 13, NULL, 'surname,fresh', 'セン', 'すくな.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5c23', '尣', 4, NULL, 'lame', 'オウ', 'まげあし');
@@ -7512,7 +7512,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e2e', '帮', 10, NULL, 'help,assist,defend,shoe upper', 'ホウ', 'たす.ける');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e28', '帨', 10, NULL, 'handkerchief,kerchief,shawl', 'スイ', 'てふき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e32', '帲', 11, NULL, 'shelter', 'ヒョウ', 'おお.う');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e35', '帵', 11, NULL, 'remnants,tailor's cutting', 'オン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e35', '帵', 11, NULL, 'remnants,tailor\'s cutting', 'オン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e3e', '帾', 12, NULL, '', 'ツ', 'わたいれ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e4b', '幋', 13, NULL, 'belt', 'ハン', 'あたまのかざり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5e50', '幐', 13, NULL, '', 'トウ', 'ふくろ');
@@ -7544,7 +7544,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ebd', '庽', 12, NULL, '', 'ドウ', 'よ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ebe', '庾', 12, NULL, 'granary,storehouse', 'ユ', 'くら');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ebf', '庿', 12, NULL, '', 'ミョウ', 'やしろ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ec6', '廆', 13, NULL, 'room,the wall of a house,man's name', 'ケ', 'かき');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ec6', '廆', 13, NULL, 'room,the wall of a house,man\'s name', 'ケ', 'かき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ecc', '廌', 13, NULL, 'unicorn', 'チ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ecb', '廋', 13, NULL, 'conceal,hide,search for,seek', 'ス', 'かく.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ece', '廎', 14, NULL, 'room', 'テイ', 'いえのかたわら');
@@ -7583,7 +7583,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f45', '彅', 14, NULL, '', '', 'なぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f47', '彇', 15, NULL, '', 'ヨウ', 'ゆはず');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f4d', '彍', 18, NULL, 'to draw a bow to the full', 'カク', 'はし.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f50', '彐', 3, NULL, 'snout,pig's head radical (no. 58)', 'ケイ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f50', '彐', 3, NULL, 'snout,pig\'s head radical (no. 58)', 'ケイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f54', '彔', 8, NULL, 'to carve wood', 'ロク', 'きざ.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f58', '彘', 12, NULL, 'swine', 'エ', 'ぶた');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5f5b', '彛', 16, NULL, 'yi,tripod,wine vessel,rule', 'イ', 'つね');
@@ -7624,7 +7624,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fd2', '忒', 7, NULL, 'excessive,too,very-usually of objectionable things,to err,to mistake,changeable', 'トク', 'か.わる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fd3', '忓', 6, NULL, 'concerned about', 'カン', 'おか.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fd4', '忔', 6, NULL, 'to be delighted,to dislike,to have no need for', 'キ', 'よろこ.ぶ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fde', '忞', 8, NULL, 'exert oneself,restless,unaware of one's feelings', 'モン', 'つと.める');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fde', '忞', 8, NULL, 'exert oneself,restless,unaware of one\'s feelings', 'モン', 'つと.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fe1', '忡', 7, NULL, 'ill at ease,distressed', 'シュ', 'うれ.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fe2', '忢', 8, NULL, 'enlightenment,perceive,discern,realize,understand', 'ゴ', 'さと.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5fe8', '忨', 7, NULL, '', 'ガン', 'むさぼ.る');
@@ -7744,7 +7744,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('617c', '慼', 15, NULL, 'sorrowful,mournful,sorrow,grieve', 'シュク', 'うれ.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('617f', '慿', 15, NULL, '', 'ヒョウ', 'たの.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6180', '憀', 14, NULL, 'to rely on', 'ル', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6181', '憁', 14, NULL, 'ignorant and foolish,run around aimlessly,unable to fulfill one's will', 'ソウ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6181', '憁', 14, NULL, 'ignorant and foolish,run around aimlessly,unable to fulfill one\'s will', 'ソウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6183', '憃', 15, NULL, 'foolish,stupid,dull,silly', 'チュ', 'おろ.か');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6184', '憄', 14, NULL, '', 'チ', 'ほどこ.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('618b', '憋', 16, NULL, 'to suppress inner feeling,hasty', 'ヘチ', 'せっかち');
@@ -7789,7 +7789,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6213', '戓', 7, NULL, '', 'カ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6215', '戕', 8, NULL, 'kill,slay,wound,injure,hurt', 'ソウ', 'ころ.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('621c', '戜', 11, NULL, 'to scrape,advantageous', 'デチ', 'き.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6220', '戠', 13, NULL, 'sword,potter's clay,to gather', 'シ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6220', '戠', 13, NULL, 'sword,potter\'s clay,to gather', 'シ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6222', '戢', 13, NULL, 'to put away,to cease,store up', 'シュウ', 'おさ.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6223', '戣', 13, NULL, 'lance', 'キ', 'ほこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6227', '戧', 14, NULL, 'support', 'ショウ', 'きず.つける');
@@ -7910,7 +7910,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('63f3', '揳', 12, NULL, '', 'カツ', 'ただ.しくない');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('63f5', '揵', 12, NULL, 'carry', 'ゴン', 'あ.げる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('63f8', '揸', 12, NULL, 'handful,pick up with fingers', 'サ', 'つま.む');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('63f9', '揹', 12, NULL, 'carry things on one's back', 'ハイ', 'せお.う');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('63f9', '揹', 12, NULL, 'carry things on one\'s back', 'ハイ', 'せお.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6409', '搉', 12, NULL, 'knock,pick out,ridicule', 'カク', 'う.つ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('640a', '搊', 13, NULL, 'pluck', 'ス', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6410', '搐', 13, NULL, 'cramp,spasm,convulsion,twitch', 'チク', 'いた.む');
@@ -7931,7 +7931,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('643f', '搿', 14, NULL, '', 'カク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('644b', '摋', 13, NULL, '', 'セチ', 'う.つ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('644f', '摏', 14, NULL, 'pound,strike against,ram', 'シュ', 'つ.く');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6451', '摑', 14, 9, 'box one's ears,slap', 'カク', 'つか.まる');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6451', '摑', 14, 9, 'box one\'s ears,slap', 'カク', 'つか.まる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6452', '摒', 14, NULL, 'expel,cast off,arrange', 'ヒョウ', 'はら.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6453', '摓', 14, NULL, '', 'フウ', 'ぬ.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6454', '摔', 14, NULL, 'fall ground,stumble,trip', 'シュチ', '');
@@ -8198,7 +8198,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6852', '桒', 10, NULL, '', 'ソウ', 'くわ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6814', '栔', 10, NULL, 'carve,engrave', 'ケチ', 'きざ.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6819', '栙', 10, NULL, '', 'コウ', 'まだはらぬほ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('681d', '栝', 10, NULL, 'builder's frame for measuring', 'カチ', 'たきぎ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('681d', '栝', 10, NULL, 'builder\'s frame for measuring', 'カチ', 'たきぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('681f', '栟', 10, NULL, 'hemp palm', 'ヒン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6828', '栨', 10, NULL, '', 'シ', 'はり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6827', '栧', 10, NULL, '', 'セチ', 'かい');
@@ -8231,7 +8231,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('687c', '桼', 11, NULL, '', 'シツ', 'うるし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6882', '梂', 11, NULL, '', 'コク', 'のみのさき');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6884', '梄', 11, NULL, 'soft wood,to lay in stores of firewood', 'ユ', 'や.く');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6886', '梆', 11, NULL, 'watchman's rattle', 'ホウ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6886', '梆', 11, NULL, 'watchman\'s rattle', 'ホウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6888', '梈', 11, NULL, '', 'ヒョウ', 'きでつくつたおおゆみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6896', '梖', 11, NULL, 'palm-tree', 'バイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6898', '梘', 11, NULL, 'bamboo tube,wooden peg,spout', 'カン', 'せん');
@@ -8305,7 +8305,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('698d', '榍', 14, NULL, '', 'セツ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6992', '榒', 14, NULL, '', 'ニャク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6996', '榖', 14, NULL, 'paper mulberry', 'ク', 'こうぞ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6998', '榘', 14, NULL, 'carpenter's square,ruler,rule', 'ク', 'じょうぎ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6998', '榘', 14, NULL, 'carpenter\'s square,ruler,rule', 'ク', 'じょうぎ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('69a1', '榡', 14, NULL, '', 'ソ', 'きじ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('69a5', '榥', 14, NULL, 'screen', 'オウ', 'つくえ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('69a6', '榦', 14, NULL, 'tree trunk,support,prop', 'カン', 'みき');
@@ -8575,7 +8575,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6d94', '涔', 10, NULL, 'river in Shaanxi,murky torrent', 'セン', 'ひた.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6d96', '涖', 10, NULL, 'river in Hebei province,creek', 'リ', 'のぞ.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6d97', '涗', 10, NULL, '', 'セチ', 'ぬるまゆ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6d98', '涘', 10, NULL, 'river bank,water's edge', 'シ', 'ほとり');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6d98', '涘', 10, NULL, 'river bank,water\'s edge', 'シ', 'ほとり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6daa', '涪', 11, NULL, 'river in Sichuan province', 'ホウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6dac', '涬', 11, NULL, 'watery expanse', 'ギョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6db4', '涴', 11, NULL, 'daub', 'ワ', '');
@@ -8611,7 +8611,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e39', '渹', 12, NULL, '', 'ショウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e3b', '渻', 12, NULL, '', 'ショウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e3c', '渼', 12, NULL, 'ripples', 'ミ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e44', '湄', 12, NULL, 'water's edge,shore,bank', 'ナン', 'みずぎわ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e44', '湄', 12, NULL, 'water\'s edge,shore,bank', 'ナン', 'みずぎわ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e45', '湅', 12, NULL, 'boil silk', 'ラン', 'ね.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e48', '湈', 12, NULL, '', 'メ', 'やぶ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('6e49', '湉', 12, NULL, '', 'テン', '');
@@ -8801,7 +8801,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7131', '焱', 12, NULL, 'flames,blaze', 'キャク', 'ほのお');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7138', '焸', 12, NULL, '', 'キョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7141', '煁', 13, NULL, 'hearth', 'シン', 'かまど');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7145', '煅', 13, NULL, 'forge metal,perfect one's skill', 'タン', 'きた.える');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7145', '煅', 13, NULL, 'forge metal,perfect one\'s skill', 'タン', 'きた.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7146', '煆', 13, NULL, 'raging fire', 'ケ', 'あつ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7147', '煇', 13, NULL, 'weld,solder', 'クン', 'ひかり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('714a', '煊', 13, NULL, 'warm', 'カン', 'あたた.か');
@@ -9429,13 +9429,13 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('794b', '祋', 8, NULL, '', 'タチ', 'ほこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('794f', '祏', 9, NULL, 'shrine', 'ジャク', 'いはい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7951', '祑', 9, NULL, '', 'ジチ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7954', '祔', 9, NULL, 'worship one's ancestors,entomb', 'フ', 'あわせまつ.る');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7954', '祔', 9, NULL, 'worship one\'s ancestors,entomb', 'フ', 'あわせまつ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7958', '祘', 9, NULL, 'to calculate', 'サン', 'かぞ.える');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('795b', '祛', 9, NULL, 'expel,disperse,exorcise', 'コ', 'はら.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('795c', '祜', 9, NULL, 'blessing,happiness,prosperity', 'コ', 'さいわ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7967', '祧', 10, NULL, 'an ancestral hall', 'チョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7969', '祩', 10, NULL, '', 'チュ', 'のろ.う');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('796b', '祫', 10, NULL, 'triennial sacrifice one's ancestor', 'ギョウ', 'まつ.る');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('796b', '祫', 10, NULL, 'triennial sacrifice one\'s ancestor', 'ギョウ', 'まつ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7972', '祲', 11, NULL, 'ominous or sinister spirit,vigor', 'シン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('7979', '祹', 11, NULL, '', 'トウ', 'さいわ.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('797b', '祻', 11, NULL, '', 'ク', 'まつり');
@@ -9464,7 +9464,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79c4', '秄', 8, NULL, '', 'シ', 'つちか.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79c7', '秇', 8, NULL, 'skill,ability in handicraft a craft,an art,calling,trade,accomplishment', 'ウン', 'わざ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79c8', '秈', 8, NULL, 'non-glutinous long grain rice', 'セン', 'うるち');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79ca', '秊', 8, NULL, 'year,new-years,person's age', 'ネン', 'とし');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79ca', '秊', 8, NULL, 'year,new-years,person\'s age', 'ネン', 'とし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79cf', '秏', 9, NULL, 'to waste,to destroy,to diminish (hence it came to mean a rat)', 'モウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79d4', '秔', 9, NULL, 'non-glutinous (ordinary) rice', 'コウ', 'ぬか');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('79d6', '秖', 9, NULL, '', 'シ', 'みの.る');
@@ -10071,7 +10071,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82a8', '芨', 7, NULL, 'name of a plant,the roots are used for various purposes', 'コウ', 'そくず');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82a9', '芩', 7, NULL, 'salt marsh plant', 'ケン', 'じしばり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82aa', '芪', 7, NULL, 'celery', 'チ', 'はなすげ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82ae', '芮', 7, NULL, 'tiny,small,water's edge', 'ネチ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82ae', '芮', 7, NULL, 'tiny,small,water\'s edge', 'ネチ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82b0', '芰', 7, NULL, 'water caltrop', 'キ', 'ひし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82b2', '芲', 7, NULL, '', 'ケ', 'はな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('82b4', '芴', 7, NULL, '', 'コチ', '');
@@ -10284,7 +10284,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8589', '薉', 16, NULL, 'dirty,unclean,immoral,obscene', 'エ', 'あ.れる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('858b', '薋', 16, NULL, '', 'シ', 'しげ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('858c', '薌', 16, NULL, 'fragrant smell of grain,aromatic', 'コウ', 'こくもつ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('858f', '薏', 16, NULL, 'seed of job's tears,lotus seed', 'イ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('858f', '薏', 16, NULL, 'seed of job\'s tears,lotus seed', 'イ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8593', '薓', 16, NULL, 'ginseng', 'セン', 'ちょうせんにんじん');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8598', '薘', 16, NULL, 'plantago major', 'ダチ', 'おおばこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('859d', '薝', 16, NULL, '', 'タン', '');
@@ -10600,7 +10600,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8975', '襵', 23, NULL, 'pleat in a skirt', 'チョウ', 'ま.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('897a', '襺', 24, NULL, '', 'ケン', 'わたいれ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('897b', '襻', 24, NULL, 'loop,belt or band', 'ハン', 'つけひも');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('897c', '襼', 24, NULL, ''kimono' sleeve', 'ゲイ', 'そで');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('897c', '襼', 24, NULL, '\'kimono\' sleeve', 'ゲイ', 'そで');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('897d', '襽', 26, NULL, '', 'リン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8989', '覉', 19, NULL, '', 'ハ', 'つな.ぐ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('898d', '覍', 10, NULL, '', 'ヘン', '');
@@ -10834,19 +10834,19 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8d88', '趈', 12, NULL, '', 'ケン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8d8d', '趍', 13, NULL, '', 'ス', 'ひさ.しい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8d90', '趐', 13, NULL, '', 'ケチ', 'すす.む');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8d91', '趑', 13, NULL, 'can't move,to falter', 'シ', 'ゆきなや.む');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8d91', '趑', 13, NULL, 'can\'t move,to falter', 'シ', 'ゆきなや.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8d95', '趕', 14, NULL, 'pursue,follow,expel,drive away', 'カン', 'お.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8d9e', '趞', 15, NULL, '', 'セキ', 'ふ.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8d9f', '趟', 15, NULL, 'time,occasion,take journey', 'ジョウ', 'おど.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8da0', '趠', 15, NULL, '', 'チョウ', 'とお.い');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8da6', '趦', 16, NULL, 'can't move,to falter', 'シ', 'ゆきなや.む');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8da6', '趦', 16, NULL, 'can\'t move,to falter', 'シ', 'ゆきなや.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8dab', '趫', 19, NULL, 'nimble', 'チョウ', 'すばや.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8dac', '趬', 19, NULL, '', 'キョウ', 'みがるい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8daf', '趯', 20, NULL, 'jump', 'ヤク', 'さけ.ぶ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8db2', '趲', 26, NULL, 'go in hurry,hasten,urge', 'ソ', 'ち.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8db5', '趵', 10, NULL, 'noise of tramping feet', 'シャク', 'う.つ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8db7', '趷', 10, NULL, 'to jolt', 'コツ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8db9', '趹', 11, NULL, 'kick with hoof,horse's gallop', 'ケ', 'はし.る');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8db9', '趹', 11, NULL, 'kick with hoof,horse\'s gallop', 'ケ', 'はし.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8dbb', '趻', 11, NULL, '', 'テン', 'ふらふら.する');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8dc0', '跀', 11, NULL, '', 'ゴチ', 'いびつ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8dc5', '跅', 12, NULL, 'careless,lax,dissolute', 'シャク', 'ゆる.む');
@@ -10911,7 +10911,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8e70', '蹰', 19, NULL, 'hesitate,waver,falter', 'ジュ', 'ためら.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8e71', '蹱', 19, NULL, 'to stagger along,to fall', 'チュ', 'ためら.う');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8e79', '蹹', 19, NULL, 'to tread on,to stamp,to walk', 'トウ', 'ふ.む');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8e7a', '蹺', 19, NULL, 'raise one's foot', 'キョウ', 'みがるい');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8e7a', '蹺', 19, NULL, 'raise one\'s foot', 'キョウ', 'みがるい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8e7b', '蹻', 19, NULL, 'strong,brave,sandals,shoes', 'ガク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8e82', '躂', 20, NULL, 'stumble,slip', 'タチ', 'つまず.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('8e83', '躃', 20, NULL, '', 'ヘキ', 'いざ.る');
@@ -11058,13 +11058,13 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('909b', '邛', 6, NULL, 'in distress,mound', 'グ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90a0', '邠', 7, NULL, 'county in Shaanxi province', 'ヒン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90a1', '邡', 7, NULL, '', 'ホウ', 'はか.る');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90a2', '邢', 7, NULL, 'surname,state in today's Hebei', 'ギョウ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90a2', '邢', 7, NULL, 'surname,state in today\'s Hebei', 'ギョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90a5', '邥', 7, NULL, '', 'シン', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90b0', '邰', 8, NULL, 'surname,state in today's Shaanxi', 'タイ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90b0', '邰', 8, NULL, 'surname,state in today\'s Shaanxi', 'タイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90b2', '邲', 8, NULL, 'good-looking,name of a place', 'ヒ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90b3', '邳', 8, NULL, 'department in the State of Lu, in what is now Shantung or N. China', 'ヒ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90b4', '邴', 8, NULL, 'name of a city in the ancient state of Song in what is now Shandong,pleased', 'ヒョウ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90b6', '邶', 8, NULL, 'place in today's Henan province', 'ハイ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90b6', '邶', 8, NULL, 'place in today\'s Henan province', 'ハイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90bd', '邽', 9, NULL, 'name of a county in Han dynasty', 'ケ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90cc', '郌', 13, NULL, 'name of an ancient Hsien in modern Gansu/Shaanxi area', 'ケ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90be', '邾', 9, NULL, 'feudal state which existed BC 700-469, now in Shandong', 'シュ', '');
@@ -11078,7 +11078,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90d8', '郘', 10, NULL, '', 'ロ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90d9', '郙', 10, NULL, 'to be exiled,delay payment for', 'フ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90dc', '郜', 10, NULL, 'name of fief in Shandong bestowed on the eldest son of Wen Wang', 'コク', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90dd', '郝', 10, NULL, 'surname,place in today's Shanxi', 'シャク', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90dd', '郝', 10, NULL, 'surname,place in today\'s Shanxi', 'シャク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90df', '郟', 10, NULL, 'county in Henan province,surname', 'キョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90e5', '郥', 10, NULL, '', 'ハイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('90d2', '郒', 14, NULL, '', 'リョウ', 'おとこ');
@@ -11092,7 +11092,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9100', '鄀', 12, NULL, 'state in Henan province', 'チャク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9104', '鄄', 12, NULL, '', 'イン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9105', '鄅', 12, NULL, '', 'ウ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9106', '鄆', 12, NULL, 'surname,an ancient town's name', 'ウン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9106', '鄆', 12, NULL, 'surname,an ancient town\'s name', 'ウン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9108', '鄈', 12, NULL, 'slippers,sandals,dance shoes', 'キ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('910d', '鄍', 13, NULL, 'town in Shandong province', 'ミョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9110', '鄐', 13, NULL, 'town in Henan province', 'キク', '');
@@ -11100,7 +11100,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9116', '鄖', 13, NULL, 'county in Hubei province', 'ウン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9117', '鄗', 13, NULL, 'county in Hebei province', 'カク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9118', '鄘', 14, NULL, 'state in Henan province', 'ユ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('911a', '鄚', 14, NULL, 'place in today's Hebei province', 'マク', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('911a', '鄚', 14, NULL, 'place in today\'s Hebei province', 'マク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('911c', '鄜', 14, NULL, 'county in Shaanxi province', 'ロク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('911e', '鄞', 14, NULL, 'county in Zhejiang province', 'ゴン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9120', '鄠', 14, NULL, 'county in Shaanxi province', 'コ', '');
@@ -11112,8 +11112,8 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('912e', '鄮', 15, NULL, '', 'モ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('912f', '鄯', 15, NULL, 'district in Gansu during the Tang dynasty', 'セン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9131', '鄱', 15, NULL, 'county and lake in Jiangxi', 'ハン', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9134', '鄴', 16, NULL, 'place in today's Honan province', 'ゴウ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9136', '鄶', 16, NULL, 'state in today's Henan province', 'ケ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9134', '鄴', 16, NULL, 'place in today\'s Honan province', 'ゴウ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9136', '鄶', 16, NULL, 'state in today\'s Henan province', 'ケ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9137', '鄷', 16, NULL, '', 'ホウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9139', '鄹', 17, NULL, 'name of a state,surname', 'シュ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('913a', '鄺', 18, NULL, 'surname', 'コウ', '');
@@ -11121,7 +11121,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('913d', '鄽', 18, NULL, '', 'テン', 'たな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9143', '酃', 20, NULL, 'the spirit of a being,which acts upon others spirit,divine,efficacious', 'リョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9147', '酇', 22, NULL, 'collect,small administration', 'サ', 'あつ.まる');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9148', '酈', 22, NULL, 'place in today's Henan province', 'リャク', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9148', '酈', 22, NULL, 'place in today\'s Henan province', 'リャク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('914f', '酏', 10, NULL, 'millet wine', 'イ', 'よねさけ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9153', '酓', 11, NULL, '', 'コン', 'にがい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9157', '酗', 11, NULL, 'drunk,to become violent under the influence of alcohol', 'ク', '');
@@ -11160,7 +11160,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91b3', '醳', 20, NULL, '', 'シャク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91b6', '醶', 20, NULL, '', 'カン', 'しおからい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91bb', '醻', 21, NULL, '', 'トウ', 'むく.いる');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91bc', '醼', 23, NULL, 'offer food and wine one's guests', 'エン', 'さかもり');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91bc', '醼', 23, NULL, 'offer food and wine one\'s guests', 'エン', 'さかもり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91bd', '醽', 24, NULL, 'kind of wine', 'リョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91bf', '醿', 24, NULL, '', 'ビ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91c2', '釂', 25, NULL, 'drain', 'ショウ', 'のみほ.す');
@@ -11185,7 +11185,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91f7', '釷', 11, NULL, 'Thorium (element)', 'ト', 'とりうむ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91f9', '釹', 11, NULL, 'Neodymium (element)', 'ジョ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91fb', '釻', 11, NULL, '', 'ワン', 'いしゆみ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91fd', '釽', 12, NULL, 'farmer's hoeing fork', 'ハク', 'さ.く');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('91fd', '釽', 12, NULL, 'farmer\'s hoeing fork', 'ハク', 'さ.く');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9200', '鈀', 12, NULL, 'Palladium (element)', 'ヘ', 'いくさぐるま');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9201', '鈁', 12, NULL, 'Francium (element)', 'ホウ', 'さかつぼ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9204', '鈄', 12, NULL, 'wine flagon', 'ズ', '');
@@ -11271,7 +11271,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92b8', '銸', 15, NULL, '', 'ノウ', 'こばこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92ba', '銺', 15, NULL, '', 'ソウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92bb', '銻', 15, NULL, 'Antimony (element),stibium', 'ダイ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92bc', '銼', 15, NULL, 'carpenter's file,file smooth', 'ソク', 'かま');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92bc', '銼', 15, NULL, 'carpenter\'s file,file smooth', 'ソク', 'かま');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92bd', '銽', 15, NULL, '', 'カチ', 'き.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92bf', '銿', 15, NULL, '', 'ユ', 'つりがね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92c0', '鋀', 15, NULL, 'Thorium (element)', 'ズ', 'とりうむ');
@@ -11286,7 +11286,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92cc', '鋌', 15, NULL, 'ingots,bars of metal,hurry', 'ジョウ', 'じがね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92cd', '鋍', 15, NULL, 'Beryllium (element)', 'ボチ', 'べりりうむ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92ce', '鋎', 15, NULL, '', 'ゲン', 'やいば');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92d0', '鋐', 15, NULL, 'state in today's Hubei province', 'オウ', 'うつわ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92d0', '鋐', 15, NULL, 'state in today\'s Hubei province', 'オウ', 'うつわ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92d3', '鋓', 15, NULL, '', 'テン', 'するど.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92d5', '鋕', 15, NULL, 'engrave', 'シ', 'きざ.む');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92d7', '鋗', 15, NULL, '', 'セン', 'こばち');
@@ -11302,7 +11302,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92e7', '鋧', 15, NULL, '', 'ケン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92e8', '鋨', 15, NULL, 'Osmium (element)', 'テツ', 'くろがね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92ec', '鋬', 15, NULL, '', 'ハン', 'ひも');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92ee', '鋮', 15, NULL, 'person's name', 'セイ', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92ee', '鋮', 15, NULL, 'person\'s name', 'セイ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92f0', '鋰', 15, NULL, 'Lithium (element)', 'リ', 'りちうむ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92f9', '鋹', 16, NULL, 'sharp,keen edge,sharp point', 'チョウ', 'するど.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('92fb', '鋻', 16, NULL, '', 'ケン', 'つるぎのは');
@@ -11372,7 +11372,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93a4', '鎤', 18, NULL, 'sound of a bell,small bell', 'コウ', 'かねのね');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93a6', '鎦', 18, NULL, 'distill,lutecium,surname', 'ル', 'ころ.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93a8', '鎨', 18, NULL, '', 'シュン', 'めば.える');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93ab', '鎫', 18, NULL, 'ornament over the horse's head', 'バン', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93ab', '鎫', 18, NULL, 'ornament over the horse\'s head', 'バン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93b4', '鎴', 18, NULL, 'Strontium (element)', 'ソク', 'すとろんしうむ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93b5', '鎵', 18, NULL, 'Gallium (element)', 'カ', 'がりうむ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93b6', '鎶', 18, NULL, 'Columbium (element)', 'カ', 'ころむびうむ');
@@ -11433,7 +11433,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('945c', '鑜', 23, NULL, '', 'ショウ', 'べんとう');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('945f', '鑟', 23, NULL, '', 'トク', 'いんばこ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9461', '鑡', 23, NULL, '', 'サク', 'おおばん');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9463', '鑣', 23, NULL, 'horse's bit,bridle,ride', 'ヒョウ', 'くつわ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9463', '鑣', 23, NULL, 'horse\'s bit,bridle,ride', 'ヒョウ', 'くつわ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9468', '鑨', 24, NULL, '', 'ル', 'うつわ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('946b', '鑫', 24, NULL, 'used in names', 'キョク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('946d', '鑭', 25, NULL, 'Lanthanum (element)', 'ラン', 'らんたにうむ');
@@ -11457,7 +11457,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('95a1', '閡', 14, NULL, 'blocked,separated,to prevent', 'ゲ', 'し.める');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('95a6', '閦', 14, NULL, 'crowd,transliteration of Sanskrit "kSo",e.g. akSobhya', 'シュク', 'おお.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('95a9', '閩', 14, NULL, 'Fujian province,river,tribe', 'ビン', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('95ab', '閫', 15, NULL, 'threshold,women's quarters', 'コン', 'しきみ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('95ab', '閫', 15, NULL, 'threshold,women\'s quarters', 'コン', 'しきみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('95ac', '閬', 15, NULL, 'high door,high gate,high,loft', 'リョウ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('95b4', '閴', 15, NULL, 'quiet', 'ケキ', 'ひっそり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('95b6', '閶', 16, NULL, 'gate of heaven,main gate of palace', 'トウ', '');
@@ -11568,7 +11568,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9773', '靳', 13, NULL, 'ornamental trappings under collar', 'コン', 'むながい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9776', '靶', 13, NULL, 'target,splashboard on chariot', 'ハ', 'たづな');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9777', '靷', 13, NULL, 'the leather belts that connect h', 'ジン', 'ひきづな');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9778', '靸', 13, NULL, 'child's shoes,slippers', 'シュウ', 'くつ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9778', '靸', 13, NULL, 'child\'s shoes,slippers', 'シュウ', 'くつ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('977b', '靻', 14, NULL, '', 'タツ', 'おもがい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('977d', '靽', 14, NULL, '', 'ハン', 'つな.ぐ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('977f', '靿', 14, NULL, 'the leg of a boot', 'ヨウ', 'かわぐつ');
@@ -11607,7 +11607,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97d1', '韑', 15, NULL, '', 'イ', 'ひかり');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97d4', '韔', 17, NULL, 'wrapper or case for bow', 'リョウ', 'ゆみぶくろ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97d7', '韗', 18, NULL, '', 'カン', 'くつ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97d8', '韘', 18, NULL, 'archer's thumb ring', 'ショウ', 'ゆがけ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97d8', '韘', 18, NULL, 'archer\'s thumb ring', 'ショウ', 'ゆがけ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97d9', '韙', 18, NULL, 'right,proper,propriety', 'イ', 'ただ.しい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97dd', '韝', 19, NULL, 'leather arm-band', 'ク', 'ゆごて');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('97de', '韞', 19, NULL, 'an orange color,hide,conceal', 'ウン', 'かきいろ');
@@ -11624,7 +11624,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9807', '頇', 12, NULL, 'large face,flat face,stupid', 'ガチ', 'おお.きい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('980a', '頊', 13, NULL, 'grieved,anxious', 'ギョク', 'ただ.しい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9819', '頙', 13, NULL, 'correct', 'シン', 'ただ.しい');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('980d', '頍', 13, NULL, 'to raise one's head', 'ケン', 'あたまをあ.げる');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('980d', '頍', 13, NULL, 'to raise one\'s head', 'ケン', 'あたまをあ.げる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('980e', '頎', 13, NULL, 'tall and slim', 'コン', 'かたちがよい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9814', '頔', 14, NULL, 'good and beautiful', 'ジャク', 'よい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9816', '頖', 14, NULL, 'Zhou dynasty school,disperse,fall apart', 'ハン', 'わかつ');
@@ -11715,7 +11715,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9958', '饘', 22, NULL, 'gruel', 'セン', 'かゆ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9959', '饙', 22, NULL, '', 'フン', 'むしめし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('995b', '饛', 23, NULL, '', 'ム', 'やまもり');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('995c', '饜', 23, NULL, 'be satiated,eat one's full', 'エン', 'あく');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('995c', '饜', 23, NULL, 'be satiated,eat one\'s full', 'エン', 'あく');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('995e', '饞', 26, NULL, 'gluttenous,greedy,lewd,lecher', 'ゼン', 'むさぼ.る');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('995f', '饟', 26, NULL, 'rations and pay for soldiers,dried rice', 'ショウ', 'べんとう');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9960', '饠', 28, NULL, 'rice cake', 'ラ', 'もち');
@@ -11753,7 +11753,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a03', '騃', 17, NULL, 'stupid,foolish', 'タイ', 'おろ.か');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a04', '騄', 18, NULL, 'name of a legendary swift horse', 'ロク', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a0b', '騋', 18, NULL, 'tall (7 chi) horse', 'ライ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a0c', '騌', 18, NULL, 'horse's mane,bristles', 'ソウ', 'たてがみ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a0c', '騌', 18, NULL, 'horse\'s mane,bristles', 'ソウ', 'たてがみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a10', '騐', 18, NULL, 'to verity,to fulfill,to examine,to hold an inquest', 'ケン', 'ため.す');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a11', '騑', 18, NULL, 'horse,run', 'ヒ', 'そえうま');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9a16', '騖', 19, NULL, 'gallop,rush about,pursue,run', 'ム', 'はせる');
@@ -11829,7 +11829,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b0c', '鬌', 19, NULL, '', 'ダ', 'お.ちる');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b0d', '鬍', 19, NULL, 'beard,mustache,whiskers', 'コ', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b0e', '鬎', 19, NULL, 'favus,scabies', 'ラツ', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b10', '鬐', 20, NULL, 'horse's mane,fins', 'キ', 'たてがみ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b10', '鬐', 20, NULL, 'horse\'s mane,fins', 'キ', 'たてがみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b12', '鬒', 20, NULL, 'black,glossy hair', 'シン', 'おお.い');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b16', '鬖', 21, NULL, 'wild hair', 'セン', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9b19', '鬙', 21, NULL, 'matted hair', 'ソウ', 'みだ.れる');
@@ -11931,7 +11931,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9c1c', '鰜', 21, NULL, 'big-mouthed flounder', 'ゲン', 'にしん');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9c1e', '鰞', 21, NULL, 'squid', 'ウ', 'いか');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9c22', '鰢', 21, NULL, '', 'メ', 'すばしり');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9c23', '鰣', 21, NULL, 'Reeves' shad,hilsa herring', 'シ', 'はす');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9c23', '鰣', 21, NULL, 'Reeves\' shad,hilsa herring', 'シ', 'はす');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9c26', '鰦', 21, NULL, '', 'シ', 'はや');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9c27', '鰧', 21, NULL, '', 'ジン', 'おこぜ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9c28', '鰨', 21, NULL, 'sole', 'トウ', 'かれい');
@@ -12099,7 +12099,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9eec', '黬', 21, NULL, '', 'エン', 'なべずみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9eed', '黭', 21, NULL, '', 'オン', 'あおぐろい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9eee', '黮', 22, NULL, 'black,dark,unclear,private', 'ジン', 'くろ.い');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9ef0', '黰', 22, NULL, 'young girl's hair style', 'エン', 'くろかみ');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9ef0', '黰', 22, NULL, 'young girl\'s hair style', 'エン', 'くろかみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9ef1', '黱', 22, NULL, '', 'ジン', 'まゆずみ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9ef2', '黲', 23, NULL, 'grey black', 'サン', 'うすあおぐろい');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9ef5', '黵', 25, NULL, '', 'セン', 'は.がれる');
@@ -12500,7 +12500,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3691', '㚑', 6, NULL, '', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3696', '㚖', 8, NULL, 'to come out to the open,to be known by all,glossy,shining', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3699', '㚙', 8, NULL, '', '', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('36CF', '㛏', 10, NULL, 'used in girl's name', '', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('36CF', '㛏', 10, NULL, 'used in girl\'s name', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3761', '㝡', 11, NULL, 'very,exceedingly,most,superior', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3762', '㝢', 12, NULL, 'a house,a roof,look,appearance,space', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('376B', '㝫', 14, NULL, 'shape of the sky', '', '');
@@ -12533,7 +12533,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3B22', '㬢', 17, NULL, 'sunshine,sunlight,the light of day', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3B6D', '㭭', 11, NULL, 'a kind of tree,a harrow,a drag,a written contract or agreement,a bond,a deed,handles of spears or lances used in ancient times', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3B77', '㭷', 11, NULL, '', '', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3B87', '㮇', 12, NULL, 'a builder's frame for measuring,juniper,a poker (for stirring fire),a cylinder part on the old style of wooden doors', '', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3B87', '㮇', 12, NULL, 'a builder\'s frame for measuring,juniper,a poker (for stirring fire),a cylinder part on the old style of wooden doors', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3B88', '㮈', 12, NULL, 'but,how,what,a remedy,a resource,to bear,to endure', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3B8D', '㮍', 13, NULL, 'a memorandum tablet,slip of paper,fancy note-paper,a note,a document,comments', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('3BA4', '㮤', 14, NULL, 'pine,fir,loose,lax,slack', '', '');
@@ -12609,7 +12609,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('45E5', '䗥', 17, NULL, 'the solitary wasp,lice on cattle,a kind of gad-fly', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('45EA', '䗪', 17, NULL, 'a kind of worm,can be used in Chinese medicine', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('460F', '䘏', 9, NULL, 'sympathy,pity', '', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4641', '䙁', 14, NULL, 'children's garments,a mat for wrapping garments', '', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4641', '䙁', 14, NULL, 'children\'s garments,a mat for wrapping garments', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4665', '䙥', 19, NULL, 'shiny dresses', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('46A1', '䚡', 16, NULL, 'bones in a horn of cattle and goat', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('46AF', '䚯', 9, NULL, 'to quell (uprising_ rebellion_ etc.) to punish (another nation_ etc.) by force of arms,sound,voice,tone', '', '');
@@ -12619,7 +12619,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4816', '䠖', 16, NULL, '', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4844', '䡄', 9, NULL, '', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('484E', '䡎', 11, NULL, 'a windlass,a pulley,a capstan', '', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('48B5', '䢵', 7, NULL, 'name of an old country in today's Hubei province,name of a place in today's Jiangsu province', '', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('48B5', '䢵', 7, NULL, 'name of an old country in today\'s Hubei province,name of a place in today\'s Jiangsu province', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('49B0', '䦰', 19, NULL, 'lots,to draw lots', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('49E7', '䧧', 16, NULL, 'high mountains,steep,lofty', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('49FA', '䧺', 13, NULL, 'the male of birds', '', '');
@@ -12727,7 +12727,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5DD7', '巗', 22, NULL, '', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5DE2', '巢', 11, 10, 'nest,living quarter in tree', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5E77', '幷', 6, NULL, 'combine', 'ヒョウ', 'ならぶ');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5EB9', '庹', 11, NULL, 'the length of one's two outstretched arms', '', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5EB9', '庹', 11, NULL, 'the length of one\'s two outstretched arms', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5ED9', '廙', 15, NULL, '', 'イ', 'ひさし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5EF9', '廹', 8, NULL, 'to persecute,to oppress in difficulties,embarrassed', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5EFD', '廽', 10, NULL, 'return,turn around,a time', 'エ', 'めぐる');
@@ -13000,7 +13000,7 @@ INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALU
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93F1', '鏱', 19, NULL, '', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('93F5', '鏵', 20, NULL, 'spade,shovel,plowshare', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9586', '閆', 11, NULL, 'village gate', '', '');
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9634', '阴', 7, NULL, ''female' principle,dark,secret', '', '');
+INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9634', '阴', 7, NULL, '\'female\' principle,dark,secret', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('96BD', '隽', 10, NULL, 'superior,outstanding,talented', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9714', '霔', 16, NULL, '', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('9736', '霶', 21, NULL, 'downpouring of rain', '', '');

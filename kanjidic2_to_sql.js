@@ -29,7 +29,9 @@ CREATE TABLE ${table} (
 
 function get_sql(data){
   let d = data;
-  let s = `INSERT INTO ${table} (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('${d.utf}', '${d.kanji}', ${d.strokes}, ${(d.grade)? d.grade: 'NULL'}, '${(d.meanings)? d.meanings.join(','): ''}', '${(d.ja_on)? d.ja_on: ''}', '${(d.ja_kun)? d.ja_kun: ''}');`
+  let mean = (d.meanings)? d.meanings.join(','): '';
+  mean = mean.replace(/'/g, "\\'");
+  let s = `INSERT INTO ${table} (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('${d.utf}', '${d.kanji}', ${d.strokes}, ${(d.grade)? d.grade: 'NULL'}, '${mean}', '${(d.ja_on)? d.ja_on: ''}', '${(d.ja_kun)? d.ja_kun: ''}');`
   return s;
 }
 
