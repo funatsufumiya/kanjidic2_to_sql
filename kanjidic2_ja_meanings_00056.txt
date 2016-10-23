@@ -1,0 +1,100 @@
+9B74 (魴): 鯛のタイプ | type of sea bream
+9B93 (鮓): 寿司,味付けご飯 | sushi,seasoned rice
+9B83 (鮃): ヒラメ,カレイ | flounder,flatfish
+9B91 (鮑): アワビ | abalone
+9B96 (鮖): 車掌,（kokuji） | bullhead,(kokuji)
+9B97 (鮗): 砂嚢シャッド,（kokuji） | gizzard shad,(kokuji)
+9B9F (鮟): アンコウ、魚 | angler-fish
+9BA0 (鮠): デイブ（カープ）,（kokuji） | dace (carp),(kokuji)
+9BA8 (鮨): 寿司,味付けご飯 | sushi,seasoned rice
+9BB4 (鮴): 車掌,メバル,蟶貝,フラットヘッド,（kokuji） | bullhead,rockfish,razor clam,flathead,(kokuji)
+9BC0 (鯀): 大神話の魚,固有名詞 | large mythical fish,proper name
+9BCA (鯊): ハゼ（魚） | goby (fish)
+9BB9 (鮹): たこ | octopus
+9BC6 (鯆): ニシンの種類 | type of herring
+9BCF (鯏): 短いアサリ,面,チャブ,（kokuji） | short necked clam,dace,chub,(kokuji)
+9BD1 (鯑): 黄色の魚（ニシン）卵（寿司）,（kokuji） | yellow fish (herring) eggs (sushi),(kokuji)
+9BD2 (鯒): マイナス（魚）,（kokuji） | flathead (fish),(kokuji)
+9BE3 (鯣): コウイカ | cuttlefish
+9BE2 (鯢): サンショウウオ,女性クジラ,雑魚,古い人の歯 | salamander,female whale,small fish,old person\'s teeth
+9BE4 (鯤): 大神話の魚,卵 | large mythical fish,roe
+9BD4 (鯔): ボラ（魚） | mullet (fish)
+9BE1 (鯡): ニシン | herring
+9C3A (鰺): アジ | horse mackerel
+9BF2 (鯲): ドジョウ,ヤツメウナギ,（kokuji） | loach,lamprey,(kokuji)
+9BF1 (鯱): 素晴らしいイルカに似た魚,シャチ,（kokuji） | fabulous dolphin-like fish,killer whale,(kokuji)
+9BF0 (鯰): 淡水ナマズ,（kokuji） | fresh-water catfish,(kokuji)
+9C15 (鰕): エビ,エビ,ロブスター | shrimp,prawn,lobster
+9C14 (鰔): カレイ,ターボット,タラ | flatfish,turbot,cod
+9C09 (鰉): チョウザメ | sturgeon
+9C13 (鰓): 鰓,鰓孔 | gills,gill slits
+9C0C (鰌): ドジョウ（魚） | loach (fish)
+9C06 (鰆): サワラ | Spanish mackerel
+9C08 (鰈): 唯一,カレイ,ヒラメ | sole,flatfish,flounder
+9C12 (鰒): アワビ,フグ | abalone,puffer fish
+9C0A (鰊): ニシン | herring
+9C04 (鰄): 魚の種類 | a type of fish
+9C2E (鰮): イワシ | sardine
+9C1B (鰛): イワシ | sardine
+9C25 (鰥): 男やもめ,独身男性 | widower,unmarried man
+9C24 (鰤): ブリ | yellowtail
+9C21 (鰡): 魚の種類,ボラ | type of fish,mullet
+9C30 (鰰): ハタハタ,（kokuji） | sandfish,(kokuji)
+9C47 (鱇): アンコウ | anglerfish
+9C32 (鰲): 巨大なウミガメ | huge sea turtle
+9C46 (鱆): たこ | octopus
+9C3E (鰾): 魚の膀胱 | fish bladder
+9C5A (鱚): sillaginoid,（kokuji） | sillaginoid,(kokuji)
+9C60 (鱠): トカゲ魚 | lizard fish
+9C67 (鱧): 穴子,アナゴ | conger,sea eel
+9C76 (鱶): 鮫 | shark
+9C78 (鱸): シーバス | sea bass
+9CE7 (鳧): 鴨,終わり,サフィックス | wild duck,end,suffix
+9CEC (鳬): 鴨,終わり,サフィックス | wild duck,end,suffix
+9CF0 (鳰): カイツブリ,（kokuji） | grebe,(kokuji)
+9D09 (鴉): カラス,カラス | crow,raven
+9D08 (鴈): 雁 | wild goose
+9CEB (鳫): 雁 | wild goose
+9D03 (鴃): モズ | shrike
+9D06 (鴆): 有毒中国の鳥 | a poisonous Chinese bird
+9D2A (鴪): 高速飛行,急降下 | flying fast,swooping
+9D26 (鴦): 女性のオシドリ | female mandarin duck
+9DAF (鶯): ナイチンゲール | nightingale
+9D23 (鴣): ヤマウズラ | partridge
+9D1F (鴟): 凧 | kite
+9D44 (鵄): 凧,ミミズク,ワインカップ | kite,horned owl,wine cups
+9D15 (鴕): 中国のダチョウ | Chinese ostrich
+9D12 (鴒): セキレイ | wagtail
+9D41 (鵁): ゴイサギ | night heron
+9D3F (鴿): 鳩,寺の鳩 | dove,temple pigeon
+9D3E (鴾): トキ | crested ibis
+9D46 (鵆): 千鳥,（kokuji） | plover,(kokuji)
+9D48 (鵈): 凧（鳥） | kite (bird)
+9D5D (鵝): ガチョウ | goose
+9D5E (鵞): ガチョウ | goose
+9D64 (鵤): シメ,シメ,（kokuji） | grosbeak,hawkfinch,(kokuji)
+9D51 (鵑): カッコウ | cuckoo
+9D50 (鵐): まだらウズラ | unmottled quail
+9D59 (鵙): モズ | shrike
+9D72 (鵲): カササギ | magpie
+9D89 (鶉): ウズラ | quail
+9D87 (鶇): ツグミ | thrush
+9DAB (鶫): ツグミ,（kokuji） | thrush,(kokuji)
+9D6F (鵯): ヒヨドリ | brown eared bulbul
+9D7A (鵺): 素晴らしい夜の鳥,キメラ | fabulous night bird,chimera
+9D9A (鶚): ミサゴ | osprey
+9DA4 (鶤): 黒の歌姫の種類 | type of black songbird
+9DA9 (鶩): アヒル | domestic duck
+9DB2 (鶲): 紋付きヒタキ,おしっこおしっこ | crested flycatcher,peewee
+9DC4 (鷄): チキン | chicken
+9DC1 (鷁): 風に逆らって高ハエではなく、水鳥 | waterfowl which flies high but not against the wind
+9DBB (鶻): ファルコン,鷲 | falcon,eagle
+9DB8 (鶸): マヒワ,アオカワラヒ,光黄緑色 | siskin,greenfinch,light yellow-green
+9DBA (鶺): セキレイ | wagtail
+9DC6 (鷆): 黄白色のまだらの歌姫 | yellow-white mottled songbird
+9DCF (鷏): 黄白色のまだらの歌姫 | yellow-white mottled songbird
+9DC2 (鷂): ハイタカ | sparrow hawk
+9DD9 (鷙): 猛禽,荒涼としました,ラフ,大胆,勇気 | bird of prey,desolate,rough,daring,bravery
+9DD3 (鷓): ヤマウズラ | partridge
+9DF8 (鷸): カワセミ,スナイプ | kingfisher,snipe
+9DE6 (鷦): ミソサザイ | wren

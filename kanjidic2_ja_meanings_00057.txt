@@ -1,0 +1,100 @@
+9DED (鷭): 水編,バンの類の水鳥 | water hen,gallinulle
+9DEF (鷯): ミソサザイ | wren
+9DFD (鷽): ロングテール鳥,鳩,ウソ | long-tailed bird,dove,bullfinch
+9E1A (鸚): 鸚鵡,インコ | parrot,parakeet
+9E1B (鸛): 日本のコウノトリ | Japanese stork
+9E1E (鸞): 素晴らしい神話上の鳥,インペリアル | fabulous mythical bird,imperial
+9E75 (鹵): 塩 | salt
+9E79 (鹹): 塩辛いです | salty
+9E7D (鹽): 塩 | salt
+9E81 (麁): ラフ,原油,粗い | rough,crude,coarse
+9E88 (麈): ムース,司祭の馬の毛フラッパー,ヘラジカ | moose,priest\'s horsehair flapper,elk
+9E8B (麋): トナカイ | reindeer
+9E8C (麌): スタッグ,バック,ハート | stag,buck,hart
+9E92 (麒): 中国のユニコーン,天才,キリン,鮮やか,シャイニング | Chinese unicorn,genius,giraffe,bright,shining
+9E95 (麕): ノロジカ | roe deer
+9E91 (麑): 子鹿 | fawn
+9E9D (麝): ジャコウジカ | musk deer
+9EA5 (麥): 小麦 | wheat
+9EA9 (麩): 光小麦グルテンのパン | light wheat-gluten bread
+9EB8 (麸): 光小麦グルテンのパン | light wheat-gluten bread
+9EAA (麪): 麺,小麦粉 | noodles,wheat flour
+9EAD (麭): もち米ボール | sticky rice ball
+9761 (靡): フラッター,波,靡きます,従う,誘惑します | flutter,wave,bow to,obey,seduce
+9ECC (黌): 学校 | school
+9ECE (黎): ダーク,黒,たくさんの | dark,black,many
+9ECF (黏): にこだわります,粘着質の,スティッキー,のり | stick to,glutinous,sticky,glue
+9ED0 (黐): 鳥ライム | bird-lime
+9ED4 (黔): 黒 | black
+9EDC (黜): 引き戻します | draw back
+9EDE (點): ポイント,マーク,スペック,小数点 | point,mark,speck,decimal pt
+9EDD (黝): 黒 | black
+9EE0 (黠): 狡猾な | crafty
+9EE5 (黥): 刺青 | tatooing
+9EE8 (黨): パーティー,派,徒党 | party,faction,clique
+9EEF (黯): 黒,ダーク | black,dark
+9EF4 (黴): 型,うどん粉病 | mold,mildew
+9EF6 (黶): モル,傷跡,傷 | mole,scar,blemish
+9EF7 (黷): 汚します,汚れます | make dirty,become dirty
+9EF9 (黹): 縫製ラジカル（NO。204） | sewing radical (no. 204)
+9EFB (黻): 膝掛け,刺繍模様 | lap robe,embroidery pattern
+9EFC (黼): 刺繍 | embroidery
+9EFD (黽): 緑のカエル,産業 | green frog,industry
+9F07 (鼇): 大きなウミガメ | great sea turtle
+9F08 (鼈): スッポン,淡水カメ | snapping turtle,fresh-water turtle
+76B7 (皷): ドラム,ビート,ラウズ | drum,beat,rouse
+9F15 (鼕): ドラムの鼓動 | beating of drums
+9F21 (鼡): ラット,マウス,暗灰色 | rat,mouse,dark gray
+9F2C (鼬): イタチ,スカンク,オコジョ | weasel,skunk,ermine
+9F3E (鼾): いびき | snoring
+9F4A (齊): 同様に,等しい,同様の,斎藤 | alike,equal,similar,Saito
+9F52 (齒): 歯,歯 | tooth,cog
+9F54 (齔): 赤ちゃんの歯を失います,子 | losing baby teeth,child
+9F63 (齣): 段落,セクション | a paragraph,section
+9F5F (齟): 平らでありません,一口,同意しません | uneven,bite,disagree
+9F60 (齠): 乳歯,幼児 | baby teeth,young child
+9F61 (齡): 年齢 | age
+9F66 (齦): 歯肉 | gums
+9F67 (齧): かじります,ニブル,ムンク,齧ります | gnaw,nibble,munch,have a smattering of
+9F6C (齬): 不規則な歯 | irregular teeth
+9F6A (齪): 歯を格子 | grating the teeth
+9F77 (齷): 歯を格子,こせこせ | grating the teeth,fretful
+9F72 (齲): 虫歯,空洞 | decayed tooth,cavity
+9F76 (齶): 顎 | jaw
+9F95 (龕): 龕 | alcove for an image
+9F9C (龜): カメ,カメ | turtle,tortoise
+9FA0 (龠): フルート | flute
+582F (堯): 高い,遠く | high,far
+69C7 (槇): 小枝,槇 | twig,Chinese black pine
+9059 (遙): 大きく外れて,遠く,ずっと前に | far off,distant,long ago
+7464 (瑤): 美しい（宝石など） | beautiful (as a jewel)
+51DC (凜): コールド,厳格な,厳しいです | cold,strict,severe
+7199 (熙): 鮮やか,晴れました,豊かな,メリー | bright,sunny,prosperous,merry
+4E02 (丂): それが解放を求めるように息（気）の閉塞,他の文字の変形 | obstruction of breath (qi) as it seeks release,variant of other characters
+4E04 (丄): 上記の | above
+4E05 (丅): 下,下に,以下,ダウン,劣ります,倒す | under,underneath,below,down,inferior,bring down
+4E0C (丌): 表 | table
+4E12 (丒): 1から午前3時までの期間,枝の2文字目 | the period from 1 to 3 am,2nd character of the "branches"
+4E1F (丟): 捨てます,拒否する,失う | discard,reject,lose
+4E23 (丣): 12地上の枝の第十（古代フォーム） | the tenth of the twelve Terrestrial Branches (ancient form)
+4E24 (两): 二,どちらも,ペア,カップル,オンス | two,both,pair,couple,ounce
+4E28 (丨): 一番,ライン,ロッドラジカル（NO 2） | number one,line,rod radical (no. 2)
+4E2B (丫): 分岐,フォーク | bifurcation,fork
+4E2E (丮): キャッチ | catch
+4E2F (丯): 密集 | dense
+4E30 (丰): 豊富な,豊かな,豊富な,たくさん,下脹れ,草の豪華な成長 | abundant,lush,bountiful,plenty,fat face,luxurious growth of grass
+4E35 (丵): 厚い（草） | thick (grass)
+4E40 (乀): ストレッチ | stretch
+4E41 (乁):  | 
+4E44 (乄): 住む場所を見つけるために,和,紙の測定,実行します,合算,バンドル,8.5ポンド,（kokuji） | to find a place to dwell,sum,measurement of paper,to do,adding up,bundle,8.5 lb,(kokuji)
+4E47 (乇): 拠り所にする,で委託します | to depend on,to entrust with
+4E51 (乑): 並んで立ちます,アセンブル | stand side by side,assemble
+4E5A (乚): 隠されました,神秘的な,秘密,隠す,小さい,分,釣り針ラジカルバリアント（なし。5） | hidden,mysterious,secret,to conceal,small,minute,fishhook radical variant (no. 5)
+4E5C (乜): 目を細めします,何？ ハァッ？  （聖歌。） | to squint,what? huh? (Cant.)
+4E63 (乣):  | 
+4E68 (乨): 初め,開始するには,始める,最初にします | the beginning,to start,to begin,to be the first
+4E69 (乩): 神へ | to divine
+4E74 (乴):  | 
+4E75 (乵): 入力します,進捗状況を作るために,進む,前方に促します | to enter,to make progress,to advance,to urge forward
+4E79 (乹): 干ばつ,ドライ,dessicated,飲み干す,天国,天皇 | drought,dry,dessicate,drink up,heaven,emperor
+4E7F (乿): 治癒へ,癒すために | to cure,to heal

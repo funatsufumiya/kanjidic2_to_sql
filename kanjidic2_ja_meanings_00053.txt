@@ -1,0 +1,100 @@
+933A (錺): 金属製のネックレス,（kokuji） | metal jewelry,(kokuji)
+9335 (錵): ホルミウム,刀の刃のパターン | holmium,pattern on sword blade
+933B (錻): ブリキ,（kokuji） | tin plate,(kokuji)
+935C (鍜): アーマーネックプレート | armour neck plates
+9360 (鍠): 鐘や太鼓の音 | sound of bells and drums
+937C (鍼): 針 | needle
+936E (鍮): 真鍮 | brass
+9356 (鍖): 不満足な | unsatisfactory
+93B0 (鎰): 重量単位 | unit of weight
+93AC (鎬): 剣ブレード尾根 | sword-blade ridges
+93AD (鎭): 古代の平和維持センター | ancient peace-preservation centers
+9394 (鎔): ヒューズ,メルト | fuse,melt
+93B9 (鎹): クランプ,（kokuji） | clamp,(kokuji)
+93D6 (鏖): 虐殺,消滅 | massacre,annihilation
+93D7 (鏗): 素晴らしく音 | clinking sound
+93E8 (鏨): 冷たがね | cold chisel
+93E5 (鏥): さび,腐食 | rust,corrosion
+93D8 (鏘): ヒスイまたは金属ペンダントのチリンチリンと鳴ります | tinkling of jade or metal pendants
+93C3 (鏃): 矢じり,バーブ | arrowhead,barb
+93DD (鏝): はんだごて,こて,ヘアアイロン,フラットアイロン | soldering iron,trowel,curling iron,flat iron
+93D0 (鏐): ゴールド | gold
+93C8 (鏈): 鎖,アイアン,接続 | chain,irons,connection
+93E4 (鏤): インレイ,セット,マウント | inlay,set,mount
+941A (鐚): 最小値のコイン | coin of smallest value
+9414 (鐔): 鍔,柄 | sword guard,hilt
+9413 (鐓): フェルール,木口 | ferrule,butt end
+9403 (鐃): ゴング | gong
+9407 (鐇): 斧,バナジウム | hatchet,vanadium
+9410 (鐐): 銀,白金,チェーン | silver,platinum,chains
+9436 (鐶): 金属リング,リンク,引き出しの取っ手 | metal ring,link,drawer pull
+942B (鐫): 彫ります,刻みます,彫刻刀 | carve,engrave,chisel
+9435 (鐵): 鉄 | iron
+9421 (鐡): 鉄 | iron
+943A (鐺): 鎖,鞘の先端,こて | chain,tip of a scabbard,flatiron
+9441 (鑁): 名 | name
+9452 (鑒): 鑑みます,から学びます,パターン,例 | take warning from,learn from,pattern,example
+9444 (鑄): キャスト,ミント | cast,mint
+945B (鑛): 鉱石 | ore
+9460 (鑠): メルト,惚れます,魅了 | melt,be charmed,captivated
+9462 (鑢): ファイル,石目やすり | file,rasp
+945E (鑞): 半田 | solder
+946A (鑪): 健康,暖炉,ファーネス | hearth,fireplace,furnace
+9229 (鈩): 健康,暖炉,ファーネス | hearth,fireplace,furnace
+9470 (鑰): ロック | lock
+9475 (鑵): 蒸気ボイラ | steam boiler
+9477 (鑷): 髪を摘み取ります,ピンセット | pluck hair,tweezers
+947D (鑽): 棒をこすって火を作ります | make fire by rubbing sticks
+945A (鑚): 棒をこすって火を作ります | make fire by rubbing sticks
+947C (鑼): ゴング | gong
+947E (鑾): 皇帝のキャリッジ上の鐘 | bells on emperor\'s carriage
+9481 (钁): 鍬 | hoe
+947F (鑿): 彫刻刀 | chisel
+9582 (閂): ゲートバー | gate bar
+9587 (閇): シャット,閉じる,妨害します,塞ぎます | shut,close,obstruct,block up
+958A (閊): 邪魔します,ブロックされ,（kokuji） | to be obstructed,to be blocked,(kokuji)
+9594 (閔): 悲しみます,悲しみます,同情 | grieve,be sad,pity
+9596 (閖): すすぎながら振ります,金のためにパン,（kokuji） | shake while rinsing,pan for gold,(kokuji)
+9598 (閘): ウォーターゲート事件,ロック | water gate,lock
+9599 (閙): うるさい | noisy
+95A0 (閠): インターカレーション,非嫡出王位 | intercalation,illegitimate throne
+95A8 (閨): ベッドルーム | bedroom
+95A7 (閧): 雄叫び | war cry
+95AD (閭): 農村地域 | rural area
+95BC (閼): 妨害します,隠す | obstruct,conceal
+95BB (閻): タウン | town
+95B9 (閹): 宦官 | eunuch
+95BE (閾): しきい値 | threshold
+95CA (闊): ワイド | wide
+6FF6 (濶): ワイド | wide
+95C3 (闃): 静か,まだ | quiet,still
+95CD (闍): 望楼,音声的に使用 | watchtower,used phonetically
+95CC (闌): 高い上昇,よく一緒になります | rise high,be well along
+95D5 (闕): 欠如,ギャップ,失敗します,皇居 | lack,gap,fail,imperial palace
+95D4 (闔): ドア | doors
+95D6 (闖): 約問い合わせ | inquire about
+95DC (關): 接続,バリア,ゲートウェイ,巻き込みます,について | connection,barrier,gateway,involve,concerning
+95E1 (闡): 明らかにする | clarify
+95E5 (闥): ゲート | gate
+95E2 (闢): 開いた | open
+9621 (阡): 千 | thousand
+9628 (阨): 妨害します,苦痛,狭い | obstruct,distress,narrow
+962E (阮): 地名 | place name
+962F (阯): 財団,サイト,住所 | foundation,site,address
+9642 (陂): 堤防,堤防,丘,スロープ | levee,embankment,hill,slope
+964C (陌): 水田間の東西パス,道路 | east-west path between paddies,road
+964F (陏): メロン,ラップ | melon,wrap
+964B (陋): 狭さ,卑劣,謙虚 | narrowness,meanness,humbleness
+9677 (陷): に落ちる,潰えます,秋（城）,滑り込みます | fall into,cave in,fall (castle),slide into
+965C (陜): 狭い | narrow
+965E (陞): 上がる,登る | go up,climb
+965D (陝): 地名 | place name
+965F (陟): 登る,上昇 | climb,rise
+9666 (陦): 島 | island
+9672 (陲): 境界 | boundary
+966C (陬): コーナー | corner
+968D (隍): ドライ堀 | dry moat
+9698 (隘): 狭い,妨害します | narrow,obstruct
+9695 (隕): 秋 | fall
+9697 (隗): 高い,急な | high,steep
+96AA (險): 険しいです,険しいです,険しいです,鋭い目 | inaccessible place,impregnable position,steep place,sharp eyes

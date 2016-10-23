@@ -1,0 +1,100 @@
+9918 (餘): 余剰,過剰,残り | surplus,excess,remainder
+9921 (餡): あんこ | bean jam
+991D (餝): 飾る,オーナメント,飾る,飾る | decorate,ornament,adorn,embellish
+991E (餞): 餞別 | farewell gift
+9924 (餤): 食べる,フィード,前進,ルアー,駆り立てます,食品生地で焼きました | eat,feed,advance,lure,incite,food baked in dough
+9920 (餠): おもち | rice cake
+992C (餬): 米ブロス | rice broth
+992E (餮): 食欲旺盛な,食いしん坊 | voracious,gluttonous
+993D (餽): 与える,提供します | give,provide
+993E (餾): 蒸しご飯 | steaming rice
+9942 (饂): うどん,（kokuji） | Japanese noodles,(kokuji)
+9949 (饉): 飢え | hunger
+9945 (饅): 豆ジャム団子,manjuu | bean-jam dumpling,manjuu
+9950 (饐): 腐ります,サワー | go bad,sour
+994B (饋): 与える,提供します,提供 | give,provide,offer
+9951 (饑): 飢え,渇き | hunger,thirst
+9952 (饒): 豊富な | abundant
+994C (饌): フード,募集 | food,offering
+9955 (饕): 貪欲です,貪欲です | be greedy,be ravenous
+9997 (馗): 道路 | road
+9998 (馘): 首を切ります,退けます | behead,dismiss
+99A5 (馥): 香水 | perfume
+99AD (馭): 駆動（馬） | driving (horse)
+99AE (馮): 不満,固有名詞 | displeasure,proper name
+99BC (馼): 黄色の目と赤のたてがみとシマウマ | zebra with yellow eyes and red mane
+99DF (駟): 4頭の馬 | four horses
+99DB (駛): 速く走る | run fast
+99DD (駝): せむしの人,負荷 | hunchback,load
+99D8 (駘): 愚か | stupid
+99D1 (駑): 遅い馬,愚かな仲間 | slow horse,foolish fellow
+99ED (駭): びっくりします | be surprised
+99EE (駮): 斑 | spots
+99F1 (駱): 白馬 | white horse
+99F2 (駲): 馬の臀部,馬の尻尾 | horse\'s buttocks,horse\'s tail
+99FB (駻): 激怒,暴れます | rage,run wild
+99F8 (駸): 速度,実行している馬 | speed,horses running
+9A01 (騁): 速く走る,ギャロップ,思いのまま | run fast,gallop,as one pleases
+9A0F (騏): 速い馬 | fast horse
+9A05 (騅): 葦毛 | grey horse
+99E2 (駢): 2-馬車 | two-horse carriage
+9A19 (騙): 欺く | deceive
+9A2B (騫): 持ち上げる,誤ります,跳躍 | lift up,err,hopping
+9A37 (騷): 悩まします,面倒,困らせます,ディスターブ,かき混ぜます,悲しい,悲しみます | harass,bother,annoy,disturb,agitate,sad,grieved
+9A45 (驅): 馬の上に拍車,追い出します,追い払います | spur a horse on,expel,drive away
+9A42 (驂): 余分なドライバや馬 | extra driver or horse
+9A40 (驀): まっすぐ行きます | going straight forward
+9A43 (驃): 白馬 | white horse
+9A3E (騾): ラバ | mule
+9A55 (驕): 誇り,傲慢 | pride,haughtiness
+9A4D (驍): 強い,良い馬,勇敢な,勇敢な,猛烈な | strong,good horse,gallant,brave,ferocious
+9A5B (驛): 駅 | station
+9A57 (驗): 検証,効果,検査 | verification,effect,testing
+9A5F (驟): ラン,突然 | run,suddenly
+9A62 (驢): ロバ | donkey
+9A65 (驥): 速い馬,才能 | fast horse,talent
+9A64 (驤): 頭を持ち上げます | lift one\'s head
+9A69 (驩): 拝啓,幸せになる,祝う | greetings,be happy,celebrate
+9A6B (驫): 多くの馬 | many horses
+9A6A (驪): 黒馬 | black horse
+9AAD (骭): 脚,すね | leg,shin
+9AB0 (骰): サイコロ,骨格 | dice,bones
+9ABC (骼): 漂白骨 | bleached bones
+9AC0 (髀): 大腿 | thigh
+9ACF (髏): 頭蓋骨 | skull
+9AD1 (髑): 頭蓋骨 | skull
+9AD3 (髓): 骨髄,髄 | marrow,pith
+9AD4 (體): ボディ,物質,オブジェクト,現実 | the body,substance,object,reality
+9ADE (髞): 急ぎます,高い | hurry,high
+9ADF (髟): 髪が長いぶら下げ,たてがみ,長い髪のラジカル（no.190） | hair hanging long,mane,long hair radical (no.190)
+9AE2 (髢): かつら | wig
+9AE3 (髣): ぼんやり | dimly
+9AE6 (髦): 前髪,長い髪,優秀 | bangs,long hair,excellence
+9AEF (髯): 髭,口ひげ | beard,mustache
+9AEB (髫): 子供たちの長い髪,小さな子供 | children\'s long hair,small child
+9AEE (髮): ヘア | hair
+9AF4 (髴): ぼんやり | dimly
+9AF1 (髱): トップ結び目,ロールパン,コイル状の毛の結び目 | topknot,bun,coiled hairknot
+9AF7 (髷): トップ結び目 | topknot
+9AFB (髻): 侍のちょんまげ | samurai topknot
+9B06 (鬆): 緩いです,乱れました,細孔,ゆでた大根の上に空洞 | loose,dishevelled,pore,cavity in overboiled daikon
+9B18 (鬘): かつら,ヘアピース | wig,hair piece
+9B1A (鬚): 髭,口ひげ | beard,mustache
+9B1F (鬟): トップ結び目,シニョン,ループポニーテールの男性のヘアスタイル | topknot,chignon,male hairstyle of looped ponytails
+9B22 (鬢): 揉み上げ | sideburns
+9B23 (鬣): たてがみ | mane
+9B25 (鬥): 壊れたゲートラジカル（NO。191） | broken gate radical (no. 191)
+9B27 (鬧): けんか,熱く論争 | quarrel,dispute hotly
+9B28 (鬨): 戦い,雄叫び | fight,war cry
+9B29 (鬩): けんか | quarrel
+9B2A (鬪): 戦闘 | fighting
+9B2E (鬮): 宝くじ,たくさん,抽選 | lottery,lot,raffle
+9B2F (鬯): 香り高いハーブ,スパイスリキュール,成長します,スプレッド | fragrant herbs,spiced liqueur,grow,spread
+9B32 (鬲): 三脚 | tripod
+9B44 (魄): 魂,精神 | soul,spirit
+9B43 (魃): 干ばつ（の神） | (god of) drought
+9B4F (魏): 高い,大 | high,large
+9B4D (魍): 山や小川のスピリッツ | spirits of mountains and streams
+9B4E (魎): 木や岩の精霊 | spirits of trees and rocks
+9B51 (魑): 山の精霊 | mountain spirits
+9B58 (魘): 怯えます | have a nightmare
