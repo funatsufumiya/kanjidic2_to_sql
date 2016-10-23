@@ -1,0 +1,100 @@
+6AA0 (檠): 弓をまっすぐ,ランプスタンド | straighten a bow,lamp stand
+6A84 (檄): 控訴状,マニフェスト | written appeal,manifesto
+6AA2 (檢): チェック,調べます | check,examine
+6AA3 (檣): マスト | mast
+6A97 (檗): アムールや中国のコルクの木 | Amur or Chinese cork tree
+8617 (蘗): 切り株,もやし | stump,sprout
+6ABB (檻): ペン,囲い,細胞,刑務所 | pen,corral,cell,jail
+6AC3 (櫃): 胸,財源,バスタブ | chest,coffer,tub
+6AC2 (櫂): オール,頭蓋骨,パドル | oar,scull,paddle
+6AB8 (檸): レモンの木 | lemon tree
+6AB3 (檳): キンマナット手のひら | betel-nut palm
+6AAC (檬): レモンの木 | lemon tree
+6ADE (櫞): レモンの木の種類 | kind of lemon tree
+6AD1 (櫑): 装飾されたワイン樽,装飾された剣の柄 | decorated wine cask,decorated sword hilt
+6ADF (櫟): 木炭のためのオーク | oak for charcoal
+6AAA (檪): オーク木炭のために使用されます | oak used for charcoal
+6ADA (櫚): マルメロの種類 | kind of quince
+6AEA (櫪): 飼い葉おけ,飼料用トラフ,馬小屋 | manger,fodder trough,horse barn
+6AFB (櫻): チェリー | cherry
+6B05 (欅): ケヤキ,ケヤキ | keyaki,zelkova tree
+8616 (蘖): もやし | sprout
+6AFA (櫺): 格子 | latticework
+6B12 (欒): センダンの木,円形,調和の取れました | chinaberry tree,round,harmonious
+6B16 (欖): 中国のオリーブの木 | Chinese olive tree
+9B31 (鬱): 暗がり,うつ病,憂鬱,華麗な | gloom,depression,melancholy,luxuriant
+6B1F (欟): ケヤキ,ケヤキ,（kokuji） | keyaki,zelkova tree,(kokuji)
+6B38 (欸): 叫び声 | exclamation
+6B37 (欷): 泣く | cry
+76DC (盜): 泥棒,盗むために | thief,to steal
+6B39 (欹): （耳）をアップ刺します | prick up (one\'s ears)
+98EE (飮): ドリンク | drink
+6B47 (歇): 尽きます,から | exhausted,out of
+6B43 (歃): 一口,啜ります,吸います | sip,slurp,suck
+6B49 (歉): 不足,欠如,不足 | insufficiency,lack,shortage
+6B50 (歐): ヨーロッパ | Europe
+6B59 (歙): 一緒になります,大会,片付けます,格納 | come together,meet,put away,store
+6B54 (歔): 泣く | cry
+6B5B (歛): 締め付けます | tighten
+6B5F (歟): 疑問粒子 | interrogative particle
+6B61 (歡): 喜び,喜び | delight,joy
+6B78 (歸): 帰省,到着する,に導く,結果 | homecoming,arrive at,lead to,result in
+6B79 (歹): 裸の骨,悪い,違う,死ラジカル（n個。78） | bare bone,bad,wrong,death radical (n. 78)
+6B7F (歿): 死にます | die
+6B80 (殀): 若い死にかけ | dying young
+6B84 (殄): すべて,完全に | all,completely
+6B83 (殃): 不幸,災害,災害 | misfortune,disaster,calamity
+6B8D (殍): 飢餓で死にます | dying of starvation
+6B98 (殘): 残り,残ります,バランス | leftover,remain,balance
+6B95 (殕): 金型を成長させます | grow mouldy
+6B9E (殞): 秋,死にます | fall,die
+6BA4 (殤): 若い年齢で死んで | dying at a young age
+6BAA (殪): 死にます,埋め込む | die,bury
+6BAB (殫): 疲れ果てます,すべて | become exhausted,all
+6BAF (殯): 状態で横たわっ,埋め込まない棺 | lying in state,unburied coffin
+6BB2 (殲): 虐殺 | massacre
+6BB1 (殱): 虐殺 | massacre
+6BB3 (殳): パイク,風の強い-再びラジカル（NO。79） | pike,windy-again radical (no. 79)
+6BB7 (殷): 繁栄しています | flourishing
+6BBC (殼): 殻,ナットシェル | husk,nut shell
+6BC6 (毆): ビート,拳で戦います,ヒット,ストライキします,乱闘 | beat,fight with fists,hit,to strike,brawl
+6BCB (毋): しない,いけません,ないこと,母親ラジカル（NO。80） | do not,must not,be not,mother radical (no. 80)
+6BD3 (毓): 持ってくる,成長する,レイズ,リア | bring up,grow up,raise,rear
+6BDF (毟): 摘みます,選ぶ,涙,（kokuji） | pluck,pick,tear,(kokuji)
+6BEC (毬): バリ,玉 | burr,ball
+6BEB (毫): 細い髪,みがきます,どういたしまして | fine hair,brush,not at all
+6BF3 (毳): 昼寝,ダウン,綿毛 | nap,down,fluff
+6BEF (毯): ウールの敷物 | wool rug
+9EBE (麾): に手招きします,コマンド | beckon to,command
+6C08 (氈): 毛織物やじゅうたん | woollen cloth or rug
+6C13 (氓): 人 | people
+6C14 (气): 精神,蒸気ラジカル（NO。84） | spirit,steam radical (no. 84)
+6C1B (氛): 空気,雰囲気,天気 | air,atmosphere,weather
+6C24 (氤): 活発な | spirited
+6C23 (氣): 精神,マインド,空気,雰囲気,気分 | spirit,mind,air,atmosphere,mood
+6C5E (汞): 水銀 | mercury
+6C55 (汕): 泳ぐ魚,ネットでの釣り | fish swimming,fishing with a net
+6C62 (汢): 湿地帯,湿地,（kokuji） | wetland,marsh,(kokuji)
+6C6A (汪): フル流れます,水の広がり,ワイド,深い | flowing full,expanse of water,wide,deep
+6C82 (沂): 中国の川の名前 | name of a Chinese river
+6C8D (沍): 閉じる,張り詰めます,凍らせます | close up,freeze over,congeal
+6C9A (沚): 海岸,浅瀬 | shore,shoal
+6C81 (沁): 浸透します,でソーク | penetrate,soak in
+6C9B (沛): 大きな雨,沼地 | big rain,swamp
+6C7E (汾): 中国の川の名前 | name of a Chinese river
+6C68 (汨): 沈む,中国の川の名前 | to sink,name of a Chinese river
+6C73 (汳): 固有名詞 | proper name
+6C92 (沒): しません,してない,なし,溺れるします,シンク | not,have not,none,to drown,sink
+6C90 (沐): ウォッシュ | wash
+6CC4 (泄): リーク | leak
+6CF1 (泱): 大波の雲,深く広いです | billowy clouds,deep and broad
+6CD3 (泓): 深く澄んだ水 | deep clear water
+6CBD (沽): 価格,購入＆; 販売 | price,buying &amp; selling
+6CD7 (泗): 中国の川の名前,鼻水 | name of a Chinese river,snivel
+6CC5 (泅): 泳ぐ | swim
+6CDD (泝): 遡ります | go upstream
+6CAE (沮): やめる,防ぐ,敗れました,落胆しました | stop,prevent,defeated,dejected
+6CB1 (沱): 涙を流します | flowing of tears
+6CBE (沾): 潤します,ぬれました,ソーク,タッチ | moisten,wet,soak,touch
+6CBA (沺): 広大なサージング水域 | vast surging waters
+6CDB (泛): ドリフト,浮く,不注意な,無謀 | to drift,float,careless,reckless

@@ -1,0 +1,100 @@
+7246 (牆): フェンス,ヘッジ,壁 | fence,hedge,wall
+724B (牋): 紙,ラベル,文字,組成 | paper,label,letter,composition
+7258 (牘): 文字 | letter
+7274 (牴): タッチ | touch
+727E (牾): 反します,に反して | go against,be contrary to
+7282 (犂): プラウ | plow
+7281 (犁): プラウ | plow
+7287 (犇): 叫び,混雑しました | clamour,crowded
+7292 (犒): 感謝,褒賞 | thanks,reward
+7296 (犖): ブリンドル模様の牛,鮮やか,エクセル | brindled cow,bright,excel
+72A2 (犢): カーフ | calf
+72A7 (犧): 犠牲 | sacrifice
+72B9 (犹): 調子 | condition
+72B2 (犲): 狼,残酷な,邪悪,平均 | wolf,cruel,wicked,mean
+72C3 (狃): 慣れます,学びます | get used to,learn
+72C6 (狆): ペキニーズ犬,狆 | Pekinese dog,Japanese spaniel
+72C4 (狄): 野蛮人 | barbarian
+72CE (狎): 慣れます,経験豊かな,飼いならさ | get used to,experienced,tamed
+72D2 (狒): ヒヒ | baboon
+72E2 (狢): 狸 | badger
+72E0 (狠): 悪質な,残酷な,ひどく,極端な | vicious,cruel,severely,extreme
+72E1 (狡): 狡猾な,ずる賢いです,狡猾な,けちで | cunning,sly,crafty,niggardly
+72F9 (狹): 狭い,契約する,減らします,タイト,限られました | narrow,contract,reduce,tight,limited
+72F7 (狷): 短気 | short-tempered
+500F (倏): クイック,プロンプト | quick,prompt
+7317 (猗): 繁茂,穏やか,おとなしいです | luxuriant growth,gentle,docile
+730A (猊): ライオン,有名な司祭の座 | lion,the seat of a famous priest
+731C (猜): 羨望,嫉妬,疑問に思う | envy,jealousy,doubt
+7316 (猖): 非常識なこと,厳しいです,暴力 | be insane,severe,violence
+731D (猝): 突然 | sudden
+7334 (猴): モンキー | monkey
+732F (猯): イノシシ | wild boar
+7329 (猩): オランウータン | orangutan
+7325 (猥): わいせつな | obscene
+733E (猾): 狡猾な | crafty
+734E (獎): 賞,褒賞,に賞を与えます | prize,reward,give award to
+734F (獏): バク | tapir
+9ED8 (默): サイレント,静か,まだ,ダーク | silent,quiet,still,dark
+7357 (獗): 周りの嵐,夢中になります | storm around,be crazy
+736A (獪): 狡猾な | crafty
+7368 (獨): 一人で,自発的に,ドイツ | alone,spontaneously,Germany
+7370 (獰): 悪い | bad
+7378 (獸): 獣,動物,野蛮な | beast,animal,bestial
+7375 (獵): ハント,野外スポーツ | hunt,field sports
+737B (獻): 提供,現在,ショー,表示 | offer,present,show,display
+737A (獺): カワウソ | otter
+73C8 (珈): かんざし | ornamental hairpin
+73B3 (玳): 亀の甲 | tortoise shell
+73CE (珎): 貴重な,貴重な,レア | precious,valuable,rare
+73BB (玻): ガラス | glass
+73C0 (珀): アンバー | amber
+73E5 (珥): 耳の安物の宝石,柄 | ear bauble,hilt
+73EE (珮): 安物の宝石,宝石 | bauble,jewel
+73DE (珞): ネックレス | necklace
+74A2 (璢): 宝石 | precious stone
+7405 (琅): 宝石 | a precious stone
+746F (瑯): 宝石 | precious stone
+7425 (琥): 宝石で飾られた器具 | jewelled utensil
+73F8 (珸): 宝石 | jewel
+7432 (琲): 多くの真珠の文字列 | string of many pearls
+743A (琺): エナメル | enamel
+7455 (瑕): 欠陥,傷 | flaw,blemish
+743F (琿): 宝石 | jewel
+745F (瑟): 大琴 | large koto
+7459 (瑙): 瑪瑙,オニキス | agate,onyx
+7441 (瑁): 古代中国の皇帝の宝石 | ancient Chinese imperial jewels
+745C (瑜): 宝石 | jewel
+7469 (瑩): クリア | clear
+7470 (瑰): 奇妙な | strange
+7463 (瑣): 小さい,鎖 | small,chain
+746A (瑪): 瑪瑙,オニキス | agate,onyx
+7476 (瑶): 宝石のように美しいです | beautiful as a jewel
+747E (瑾): 宝石 | jewel
+748B (璋): 儀式の宝石は、実装します | ceremonial jeweled implement
+749E (璞): ノーカット宝石,玄米宝石 | uncut gem,unpolished gem
+74A7 (璧): 球,玉 | sphere,ball
+74CA (瓊): 赤い宝石,美しい宝石 | red jewel,beautiful jewel
+74CF (瓏): 明快,宝石の音 | clarity,sound of jewels
+74D4 (瓔): 宝石ネックレス | jewelled necklace
+73F1 (珱): 貴重な石で作られたネックレス | a necklace made of precious stones
+74E0 (瓠): ヒョウタン | gourd
+74E3 (瓣): 花弁,バルブ | petal,valve
+74E7 (瓧): 10グラム,（kokuji） | ten grams,(kokuji)
+74E9 (瓩): キログラム,（kokuji） | kilogram,(kokuji)
+74EE (瓮): ジャー,水差し,コンテナ | jar,jug,container
+74F2 (瓲): トン,千キロ,（kokuji） | tonne,thousand kilograms,(kokuji)
+74F0 (瓰): decigram,（kokuji） | decigram,(kokuji)
+74F1 (瓱): ミリグラム,（kokuji） | milligram,(kokuji)
+74F8 (瓸): hectogram,百グラム,（kokuji） | hectogram,hundred grams,(kokuji)
+74F7 (瓷): 高品質の磁器 | high quality porcelain
+7504 (甄): 磁器,はっきりさせます,間の区別 | porcelain,make clear,distinguish between
+7503 (甃): 床のタイル | floor tile
+7505 (甅): 100分の1グラム,（kokuji） | centigram,(kokuji)
+750C (甌): 小さな瓶,水差し | small jar,jug
+750E (甎): 床のタイル | floor tiles
+750D (甍): 瓦,瓦屋根 | roof tile,tiled roof
+7515 (甕): ジャー,水差し,バット | jar,jug,vat
+7513 (甓): 床のタイル | floor tiles
+751E (甞): なめます,なめ尽くします,燃え尽きます,味,受けます,過小評価されました,軽蔑します | lick,lap up,burn up,taste,undergo,underrate,despise
+7526 (甦): 蘇ります,復活 | be resuscitated,revived

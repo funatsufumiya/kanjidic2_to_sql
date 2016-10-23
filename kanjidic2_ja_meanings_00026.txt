@@ -1,0 +1,100 @@
+5340 (區): 区,地区 | ward,district
+5346 (卆): 兵士,プライベート,死にます | soldier,private,die
+5345 (卅): 30 | thirty
+4E17 (丗): 30 | thirty
+5349 (卉): 草 | grass
+534D (卍): 卍,ガメイディオン,卍形 | swastika,gammadion,fylfot
+51D6 (凖): 対応する,に比例,合わせます,模倣します | correspond to,proportionate to,conform,imitate
+535E (卞): 法律,ルール,発疹,性急な | law,rule,rash,hasty
+5369 (卩): 密封ラジカル（NO。26） | seal radical (no. 26)
+536E (卮): 大ゴブレット,適切な,フィッティング | large goblet,apt,fitting
+5918 (夘): 野ウサギやウサギの兆候,干支の第四の兆候,5-7AM,東 | sign of the hare or rabbit,fourth sign of Chinese zodiac,5-7AM,east
+537B (卻): 代わりに,それどころか,むしろ | instead,on the contrary,rather
+5377 (卷): ボリューム,本,部 | volume,book,part
+5382 (厂): 雁,末尾の崖ラジカル（NO。27） | wild goose,trailing cliff radical (no. 27)
+5396 (厖): 大,ミックス | large,mix
+53A0 (厠): 当事者,トイレ | privy,toilet
+53A6 (厦): 家 | house
+53A5 (厥): それ | that
+53AE (厮): カット,分割,コンパニオン,フォロワー | cut,divide,companion,follower
+53B0 (厰): ワークショップ | workshop
+53B6 (厶): 私,私自身,カタカナミューラジカル（NO。28） | I,myself,katakana mu radical (no. 28)
+53C3 (參): 三,行き,到来,訪問 | three,going,coming,visiting
+7C12 (簒): 奪います | rob
+96D9 (雙): ペア,セット,比較,ペアのためのカウンタ | pair,set,comparison,counter for pairs
+53DF (叟): 老人 | old person
+66FC (曼): ワイド,綺麗な | wide,beautiful
+71EE (燮): 適度な,軽減する,弱火で沸騰 | moderate,alleviate,boil over low heat
+53EE (叮): 礼儀 | courtesy
+53E8 (叨): 真に,優雅に,根拠もなく,貪欲に | truly,graciously,gratuitously,ravenously
+53ED (叭): 開いた | open
+53FA (叺): 俵,（kokuji） | straw bag,(kokuji)
+5401 (吁): 叫び声 | exclamation
+543D (吽): 樹皮,うなり声 | bark,growl
+5440 (呀): 口を開く,裸の自分の歯,空の | open one\'s mouth,bare one\'s teeth,empty
+542C (听): 口の広い笑い,聞く,ポンド（スターリング,ポンド） | open-mouthed laughter,listen to,pound (sterling, lb)
+542D (吭): 喉,ネック,ピボット | throat,neck,pivot
+543C (吼): 樹皮,ベイ,遠ぼえ,怒鳴ります,とどろき,泣く | bark,bay,howl,bellow,roar,cry
+542E (吮): 吸います | suck
+5436 (吶): スタッター | stutter
+5429 (吩): 命令を出します,前後もやし | give an order,sprout forth
+541D (吝): けちな,けちな,スペアリング | miserly,stingy,sparing
+544E (呎): 足 | foot
+548F (咏): 朗読,詩,歌,構成します | recitation,poem,song,composing
+5475 (呵): 叱る,上吹き,たしなめます | scold,blow on,reprove
+548E (咎): 非難,酷評,戒告 | blame,censure,reprimand
+545F (呟): つぶやき,愚痴,つぶやき | mutter,grumble,murmur
+5471 (呱): 泣く | cry
+5477 (呷): 一口,うるさい,騒々しさ | sip,noisy,quack
+5470 (呰): 非難,酷評,損傷,この | blame,censure,damage,this
+5492 (咒): スペル,呪い,のろいです | spell,curse,malediction
+547B (呻): うめき声,うめき声 | moan,groan
+5480 (咀): 一口,食べる | bite,eat
+5476 (呶): うるさい | noisy
+5484 (咄): フフンと鼻であしらいます,神が禁じます | pshaw,god forbid
+5490 (咐): ブロー,コマンド | blow,command
+5486 (咆): 樹皮,とどろき,怒る | bark,roar,get angry
+54C7 (哇): へつらう子供の声,笑い子供の声 | fawning child\'s voice,laughing child\'s voice
+54A2 (咢): outspokenly | outspokenly
+54B8 (咸): すべて,同じ | all,same
+54A5 (咥): 笑い,かみます,食べる | laugh,chew,eat
+54AC (咬): 一口,かじります,かみます,噛み合います,波打ちます | bite,gnaw,chew,gear with,dash against
+54C4 (哄): 鳴り響きます,反響します | resound,reverberate
+54C8 (哈): 魚の学校,魚の口に移動,呼気音 | school of fish,fish\'s mouth moving,exhaling sound
+54A8 (咨): 調査する | investigate
+54AB (咫): ショート,スパン | short,span
+54C2 (哂): 冷笑するような笑い,冷笑 | derisive laugh,sneer
+54A4 (咤): （舌で）をクリック,アップブレイド,同情,げっぷ | clicking (with tongue),upbraid,pity,belch
+54BE (咾): 音声 | voice
+54BC (咼): 曲がった口,悪の,不正直 | crooked mouth,evil,dishonest
+54D8 (哘): （kokuji）,招待,誘惑します | (kokuji),invite,entice
+54E5 (哥): 兄 | big brother
+54E6 (哦): 歌う | sing
+550F (唏): 嘆く,悲しみます | lament,grieve
+5514 (唔): 読み上げ音声 | reading voice
+54FD (哽): すすり泣き,詰まっます | sob,get choked up
+54EE (哮): とどろき,遠ぼえ,うなり声,怒鳴ります | roar,howl,growl,bellow
+54ED (哭): 泣きます,うめき声,悲しみます | weep,moan,wail
+54FA (哺): ナース,乳を飲みます | nurse,suckle
+54E2 (哢): チャープ,さえずり,さえずり | chirp,twitter,warble
+5539 (唹): 笑い,笑顔 | laugh,smile
+5540 (啀): 口論,でうなり声 | wrangle,growl at
+5563 (啣): 口の中や歯の間に開催 | hold in mouth or between teeth
+554C (啌): 怒った声,うがい,喉 | angry voice,gargle,throat
+552E (售): 売る,人気があります | sell,be popular
+555C (啜): 吸います,一口 | suck,sip
+5545 (啅): うるさい,つつきます,チャーピング,さえずり | noisy,peck at,chirping,twittering
+5556 (啖): 食べる | eat
+5557 (啗): 魅力,誘惑します | allure,entice
+5538 (唸): うめき声,とどろき | groan,roar
+5533 (唳): 泣く,鳥の警笛,蝉のdroning | cry,honking of birds,droning of cicadas
+555D (啝): 続きます,子供のいません | follow,childless
+5599 (喙): 嘴 | beak
+5580 (喀): 嘔吐 | vomit
+54AF (咯): けんか | quarrel
+558A (喊): 泣く,コール | cry,call
+559F (喟): うめき声 | moan
+557B (啻): 比類のありません,単に | incomparable,merely
+557E (啾): 泣く,泣きます,いななき | cry,whimper,neigh
+5598 (喘): パンツ,あえぎ,喘ぎます | pant,gasp,breathe hard
+559E (喞): 憤慨話します | speak resentfully

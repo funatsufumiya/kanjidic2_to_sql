@@ -1,0 +1,100 @@
+5D90 (嶐): 山の形状 | shape of a mountain
+5DB7 (嶷): 賢いです | wise
+5DBC (嶼): 島 | island
+5DC9 (巉): 急激に上昇,急激に上昇 | rising precipitously,rising steeply
+5DCD (巍): 高い | high
+5DD3 (巓): サミット | summit
+5DD2 (巒): 小さなピーク | small peak
+5DD6 (巖): 岩,険しい岩山,玉石 | rock,crag,boulder
+5DDB (巛): 湾曲川ラジカル（no.47） | curving river radical (no.47)
+5DEB (巫): ソーサラー,ミディアム,巫女 | sorcerer,medium,shrine maiden
+5DF2 (已): やめる,停止,以前に,既に,ずっと前に | stop,halt,previously,already,long ago
+5DF5 (巵): 大winecup,適切な,フィッティング | large winecup,apt,fitting
+5E0B (帋): 紙,定常,資料 | paper,stationary,document
+5E1A (帚): ほうき | broom
+5E19 (帙): 日本のブックカバー | Japanese book cover
+5E11 (帑): お金リポジトリ | money repository
+5E1B (帛): 布 | cloth
+5E36 (帶): ベルト,ガードル,バンド,ストラップ,ゾーン | belt,girdle,band,strap,zone
+5E37 (帷): カーテン,画面 | curtain,screen
+5E44 (幄): カーテン | curtain
+5E43 (幃): バッグ | bag
+5E40 (幀): 本や巻物を作ります | making books or scrolls
+5E4E (幎): 布カバー | cloth covering
+5E57 (幗): 女性の頭部カバー,ベール | woman\'s head covering,veil
+5E54 (幔): カーテン | curtain
+5E5F (幟): フラグ,バナー,ストリーマー | flag,banner,streamer
+5E62 (幢): フラグ,バナー | flag,banner
+5E64 (幤): 神道ジグザグ紙製品,悪癖,謙虚な接頭辞,贈り物 | Shinto zigzag paper offerings,bad habit,humble prefix,gift
+5E47 (幇): 助けて | help
+5E75 (幵): まとめる | put together
+5E76 (并): まとめる | put together
+5E7A (幺): 短いスレッドラジカル（NO。52） | short thread radical (no. 52)
+9EBC (麼): ロープ | rope
+5E7F (广): 点線の崖ラジカル（NO。53） | dotted cliff radical (no. 53)
+5EA0 (庠): 学校 | school
+5EC1 (廁): トイレ,トイレ,との交流 | toilet,lavatory,mingle with
+5EC2 (廂): ひさし,キャノピー,バイザー,廊下 | eaves,canopy,vizor,hallways
+5EC8 (廈): 家 | house
+5ED0 (廐): 納屋,安定しました | barn,stable
+5ECF (廏): 納屋,安定しました | barn,stable
+5ED6 (廖): 空の,名 | empty,name
+5EE3 (廣): 広いです,ワイド,広々とした | broad,wide,spacious
+5EDD (廝): サーバント | servant
+5EDA (廚): キッチン | kitchen
+5EDB (廛): ファインレジデンス,ショップ,格納 | fine residence,shop,store
+5EE2 (廢): 廃止します,終了します,捨てます | abrogate,terminate,discard
+5EE1 (廡): 軒下歩きます | walking under the eaves
+5EE8 (廨): 役所 | government office
+5EE9 (廩): 米の倉庫 | rice storehouse
+5EEC (廬): 庵 | hermitage
+5EF1 (廱): マイルド,合います,ブロック,妨害します | mild,congenial,block,obstruct
+5EF3 (廳): ホール,中央の部屋 | hall,central room
+5EF0 (廰): 役所 | government office
+5EF4 (廴): 長いストライドやストレッチラジカル（NO。54） | long stride or stretching radical (no. 54)
+5EF8 (廸): パス,方法,ガイド,鉛,進みます,前進,リーチ,到着します | path,way,guide,lead,proceed,advance,reach,arrive
+5EFE (廾): 20,20または文字Hラジカル（NO。55） | twenty,twenty or letter H radical (no. 55)
+5F03 (弃): 拒否する,放棄します,捨てます | reject,abandon,discard
+5F09 (弉): 大,強力な,スタウト,厚いです | large,powerful,stout,thick
+5F5D (彝): 道徳的原則 | moral principle
+5F5C (彜): 道徳的原則 | moral principle
+5F0B (弋): 杭打ち,式典ラジカル（NO。56） | piling,ceremony radical (no. 56)
+5F11 (弑): 殺人1 \ 'sの領主や父親 | murder one\'s lord or father
+5F16 (弖): 音素のみ,（kokuji） | phoneme only,(kokuji)
+5F29 (弩): 弓（矢印） | bow (arrow)
+5F2D (弭): やめる,やめます,巾着は弓に取り付けられている。ノッチ | stop,cease,notches where drawstring is attached to the bow
+5F38 (弸): ストロング,フル | strong bow,full
+5F41 (彁): （なし既知の意味; S＆＃038; Hはジャバウォックの単語を使用しています） | (no known meaning; S&amp;H uses jabberwocky words)
+5F48 (彈): 弾丸,鼻声訛り,フリップ,スナップ | bullet,twang,flip,snap
+5F4C (彌): 広範囲,フル,埋めます,コンプリート | extensive,full,fill,complete
+5F4E (彎): 曲線,弓を伸ばします | curve,stretching a bow
+5F2F (弯): 曲線,弓を伸ばします | curve,stretching a bow
+5F51 (彑): 豚の頭ラジカルバリアント（なし。58） | pig\'s head radical variant (no. 58)
+5F56 (彖): 占い | divination
+5F57 (彗): 彗星 | comet
+5F59 (彙): 同種,収集します,分類します,カテゴリー,ハリネズミ | same kind,collect,classify,category,hedgehog
+5F61 (彡): 三,頭飾り,ショートヘアや毛皮ラジカル（NO。59） | three,hair ornament,short hair or fur radical (no. 59)
+5F6D (彭): 腫れ,ドラムの音 | swelling,sound of drum
+5F73 (彳): やめる,リンガー,ぶらつきます,行く人ラジカル（NO。60） | stop,linger,loiter,going man radical (no. 60)
+5F77 (彷): ストレイ,さまよいます,ぶらつきます | stray,wander,loiter
+5F83 (徃): 旅,追い払う,手放す,行き,旅行 | journey,chase away,let go,going,travel
+5F82 (徂): 行きます | go
+5F7F (彿): ぼんやり | dimly
+5F8A (徊): 放浪 | wandering
+5F88 (很): 背きます,紛争,非常に,反します,に反して | disobey,dispute,very,go against,be contrary to
+5F91 (徑): パス,直径,方法 | path,diameter,method
+5F87 (徇): ヘラルド,アナウンス,続きます,従う,シーク,自分の命を捨てます | herald,announce,follow,obey,seek,lay down one\'s life
+5F9E (從): から,によって,から,そこから,スルー | from,by,since,whence,through
+5F99 (徙): 移動 | move
+5F98 (徘): さまよいます | wander
+5FA0 (徠): 誘発します,来ることを奨励 | induce,encourage to come
+5FA8 (徨): 放浪 | wandering
+5FAD (徭): 状態に強制サービス,賦役 | compulsory service to the state,corvee
+5FBC (徼): シーク,問い合わせます,行き渡る,境界 | seek,enquire,go around,border
+5FD6 (忖): 推測 | conjecture
+5FFB (忻): 喜びます,打ち明けます | rejoice,open one\'s heart
+5FE4 (忤): 反抗的な,頑固な,違う | insubordinate,stubborn,wrong
+5FF8 (忸): 恥 | shame
+5FF1 (忱): 誠実 | sincere
+5FDD (忝): 感謝します,借りがある | grateful,indebted
+60B3 (悳): 倫理,道徳,美徳 | ethics,morality,virtue

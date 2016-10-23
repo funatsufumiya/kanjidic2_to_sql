@@ -1,0 +1,100 @@
+5FFF (忿): 怒ります | be angry
+6021 (怡): 喜びます,楽しみます | rejoice,enjoy
+6060 (恠): 疑わしい,神秘,幻影 | suspicious,mystery,apparition
+6019 (怙): 左右される,に頼る,お父さん | depend,rely on,father
+6010 (怐): 愚かな,恐れ | foolish,fear
+6029 (怩): 恥 | shame
+600E (怎): なぜ,どうやって | why,how
+6031 (怱): ラッシュ,急ぎます,慌てふためきます | rush,hurry,be flustered
+601B (怛): 悲しみます,悄気る,恐れ | be sad,be dejected,fear
+6015 (怕): オーク | oak
+602B (怫): 怒り | anger
+6026 (怦): 急いで,励起されました,攪拌 | in a hurry,excited,agitated
+600F (怏): 不満,恨み | dissatisfaction,grudge
+603A (怺): 耐える,（kokuji） | endure,(kokuji)
+605A (恚): 怒り | anger
+6041 (恁): このような,このようにして | like this,thus
+606A (恪): 注意深さ | carefulness
+6077 (恷): に反して,良い,すてきな | be contrary to,good,nice
+605F (恟): 恐れ | fear
+604A (恊): 脅かす | threaten
+6046 (恆): 定数,レギュラー,しつこいです | constant,regular,persistent
+604D (恍): 不明瞭な,老人性,愚か,冗談で | unclear,senile,stupid,joke
+6063 (恣): 利己的,任意 | selfish,arbitrary
+6043 (恃): 頼ります | depend on
+6064 (恤): 和らげます,どうかご慈悲を | relieve,have mercy
+6042 (恂): 誠実,恐れ,突然,点滅します | sincere,fear,sudden,blinking
+606C (恬): 落ち着き | composure
+606B (恫): 痛いです,恐ろしいです | painful,fearful
+6059 (恙): 病気 | illness
+6081 (悁): 怒り,心配,焦り | anger,worry,impatience
+608D (悍): ラフ,不器用な,暴力的な | rough,clumsy,violent
+60E7 (惧): 恐れ,を恐れている,恐怖 | fear,be afraid of,dread
+6083 (悃): 誠実 | sincerity
+609A (悚): 恐れ | fear
+6084 (悄): 不安 | anxiety
+609B (悛): 修正します | amend
+6096 (悖): 捻れます | be contrary
+6097 (悗): 当惑します | be perplexed
+6092 (悒): 落ち込んで | be depressed
+60A7 (悧): 賢いです | clever
+608B (悋): けちな | stingy
+60E1 (惡): 悪い,悪の | bad,evil
+60B8 (悸): 翻ります,身震い | pulsate,shudder
+60E0 (惠): 祝福,グレース,好意,親切 | blessing,grace,favor,kindness
+60D3 (惓): 尊重します,飽きます | be respectful,grow tired
+60B4 (悴): 凋悴,息子 | becoming emaciated,son
+5FF0 (忰): 苦しみます,痩せ衰えます,やつれました | suffer,become emaciated,haggard
+60BD (悽): 悲しみます,悲しいこと | be sad,be sorrowful
+60C6 (惆): 嘆きます,がっかりする | grieve over,be disappointed
+60B5 (悵): 悲しみます | be sad
+60D8 (惘): 不明瞭な,驚き入ります | unclear,be astonished
+614D (慍): （興奮）怒っています | be angry (excited)
+6115 (愕): 驚きました,驚きました | surprised,frightened
+6106 (愆): 間違い,障害,犯罪 | mistake,fault,offence
+60F6 (惶): 恐れ | fear
+60F7 (惷): 混乱,愚かな | confusion,foolish
+6100 (愀): 尊敬 | respect
+60F4 (惴): 恐れ,怖がる | fear,be afraid
+60FA (惺): 実現します | realize
+6103 (愃): 豊富な,寛大な | abundant,generous
+6121 (愡): 無意味な,かけっこ | meaningless,foot race
+60FB (惻): 悲しみます | be sad
+60F1 (惱): 怒り,憎しみで満たさ | angered,filled with hate
+610D (愍): 同情,慈悲,思いやり | pity,mercy,compassion
+610E (愎): 反します,背きます | go against,disobey
+6147 (慇): 礼儀 | courtesy
+613E (愾): 怒り,息切れ | anger,breathlessness
+6128 (愨): 敬意を表します,心から | respectful,sincerely
+6127 (愧): 恥ずかしいと思います,シャイ | feel ashamed,shy
+614A (慊): 満足 | satisfaction
+613F (愿): 敬意を表します,正直な | respectful,honest
+613C (愼): お手入れ,貞操 | care,chastity
+612C (愬): 不平を言います | complain of
+6134 (愴): 悲しい,哀れな | sad,pathetic
+613D (愽): 嘆き | grieving
+6142 (慂): 直接,アドバイス | direct,advise
+6144 (慄): 恐れ | fear
+6173 (慳): 後悔,吝嗇 | regret,stinginess
+6177 (慷): 泣きます,悲しみます | weep,grieve
+6158 (慘): 悲しい,哀れな,悲惨な,残酷な | sad,pitiful,wretched,cruel
+6159 (慙): 恥ずかしい,恥をかきます,恥ずべき | ashamed,humiliated,shameful
+615A (慚): 恥ずかしいと思います | feel ashamed
+616B (慫): アドバイス,説得します | advise,persuade
+6174 (慴): 恐れ,脅かす | fear,threaten
+616F (慯): 悲しみます,悲しみます | be sad,grieve
+6165 (慥): 確かに,確かに | certainly,doubtless
+6171 (慱): 嘆き | grieving
+615F (慟): 悲しみます,悲しみます | be sad,grieve
+615D (慝): 悪い,悪の,災害 | bad,evil,disaster
+6153 (慓): 速いです,クイック | fast,quick
+6175 (慵): 気だるいです | languid
+6199 (憙): 喜びます,以下のような,好む,叫び声 | rejoice,like,prefer,exclamation
+6196 (憖): 軽率に | thoughtlessly
+6187 (憇): 残り,休息を取る | rest,take rest
+61AC (憬): 憧れます,を熱望,感心します | yearn for,aspire to,admire
+6194 (憔): 痩せます | get thin
+619A (憚): ためらいます,シュリンク,畏敬の念 | hesitate,shrink,awe
+618A (憊): 疲労 | fatigue
+6191 (憑): 左右される,頼ります,証拠,証明,による,所有します,出没します | depend,rely,evidence,proof,according to,possess,haunt
+61AB (憫): 不安,慈悲 | anxiety,mercy

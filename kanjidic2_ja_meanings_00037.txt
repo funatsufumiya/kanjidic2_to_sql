@@ -1,0 +1,100 @@
+6CEF (泯): 廃れます,薄暗いです | die out,dim
+6CD9 (泙): 押し寄せる水 | surging water
+6CEA (泪): 涙,泣きます,泣く | tears,weep,cry
+6D1F (洟): 涙,鼻汁 | tear,nasal discharge
+884D (衍): あふれます | overflowing
+6D36 (洶): 湧きます,サージ | gush forth,surge
+6D2B (洫): 溝 | ditch
+6D3D (洽): 広範囲に | far and wide
+6D38 (洸): 炭酸水 | sparkling water
+6D19 (洙): 中国の川の名前 | name of a Chinese river
+6D35 (洵): 同様に,真実 | alike,truth
+6D33 (洳): ぬれました | wet
+6D12 (洒): ウォッシュ,振りかけます | wash,sprinkle
+6D0C (洌): ピュア | pure
+6D63 (浣): ウォッシュ | wash
+6D93 (涓): ドロップ,ピュア | drop,pure
+6D64 (浤): 上昇水域,澄んだ深層水 | rising waters,clear deep water
+6D5A (浚): ドレッジ,ドラッグ,クリーン | dredge,drag,clean
+6D79 (浹): 広範囲に,サイクル,期間 | far and wide,cycle,period
+6D59 (浙): 中国の川の名前 | name of a Chinese river
+6D8E (涎): 唾液,よだれ | saliva,slobber
+6D95 (涕): 涙,同情 | tears,sympathy
+6FE4 (濤): 波浪,大波 | waves,billows
+6D85 (涅): 黒土 | black soil
+6DF9 (淹): 浸漬,ソーク,浸します,やめる,リンガー | dip,soak,immerse,stop,linger
+6E15 (渕): エッジ | edge
+6E0A (渊): エッジ | edge
+6DB5 (涵): 浸します | immerse
+6DC7 (淇): 中国の川の名前 | name of a Chinese river
+6DE6 (淦): ビルジ水 | bilge water
+6DB8 (涸): 干上がります,成熟しました | dry up,mature
+6DC6 (淆): 濁り,混合 | turbidity,mixing
+6DEC (淬): 焼きなまし,クエンチ,気性 | anneal,quench,temper
+6DDE (淞): 中国の川の名前 | name of a Chinese river
+6DCC (淌): フロー | flow
+6DE8 (淨): ピュア,クリーン,昔のままの | pure,clean,unspoiled
+6DD2 (淒): 厳寒,悲惨な,退屈な | bitter cold,miserable,dreary
+6DC5 (淅): ウォッシュ米 | wash rice
+6DFA (淺): 浅い,深くありません,表面的な | shallow,not deep,superficial
+6DD9 (淙): 流水の音 | sound of running water
+6DE4 (淤): 泥,シルト,詰まらせます,妨害します | mud,silt,clog up,obstruct
+6DD5 (淕): みぞれ,スラッシュ,湿地の名前 | sleet,slush,name of a wetland
+6DEA (淪): シンク,リップル | sink,ripple
+6DEE (淮): 中国の川の名前 | name of a Chinese river
+6E2D (渭): 中国の川の名前 | name of Chinese river
+6E6E (湮): シンク | sink
+6E2E (渮): 中国の川の名前 | name of Chinese river
+6E19 (渙): スキャッター | scatter
+6E72 (湲): 流水 | flowing water
+6E5F (湟): 堀,湿地帯,中国の川の名前 | moat,wetland,name of Chinese river
+6E3E (渾): すべて,濁り | all,turbidity
+6E23 (渣): 滓 | dregs
+6E6B (湫): 湿原,湿地 | wetlands,marsh
+6E2B (渫): 浚渫,掃除 | dredging,cleaning out
+6E76 (湶): 春,水源,ソース | spring,fountain-head,source
+6E4D (湍): 早瀬 | rapids
+6E1F (渟): やめる | stop
+6E43 (湃): 波の音 | sound of waves
+6E3A (渺): 小さな,無限の | tiny,boundless
+6E4E (湎): 溺れ死にます,浸漬すること | drown,be immersed
+6E24 (渤): 地名 | place name
+6EFF (滿): 埋めます,フル,満足 | fill,full,satisfied
+6E1D (渝): 変化する,変形します | change,be transformed
+6E38 (游): 浮く,泳ぐ | float,swim
+6E82 (溂): 反対,バイアスされました | opposed,biased
+6EAA (溪): 谷 | valley
+6E98 (溘): 突然,予期しません | sudden,unexpected
+6EC9 (滉): 深く広いです | deep and broad
+6EB7 (溷): 泥だらけになります | get muddy
+6ED3 (滓): 滓,敷地 | dregs,grounds
+6EBD (溽): 湿気の多いです | humid
+6EAF (溯): 遡ります,過去をたどります | go upstream,retrace the past
+6EC4 (滄): 海洋 | ocean
+6EB2 (溲): 尿 | urine
+6ED4 (滔): あふれます | overflowing
+6ED5 (滕): 上昇水 | rising water
+6E8F (溏): 泥 | mud
+6EA5 (溥): 広範囲に | far and wide
+6EC2 (滂): 流れます,広大な | flowing,vast
+6E9F (溟): ダーク,海洋 | dark,ocean
+6F41 (潁): 中国の川の名前 | name of a Chinese river
+6F11 (漑): 注ぐ | pour
+704C (灌): 注ぐ | pour
+6EEC (滬): 堰,上海のための別の名前 | weir,another name for Shanghai
+6EF8 (滸): 近傍 | vicinity
+6EFE (滾): フロー,沸騰 | flow,boil
+6F3F (漿): ドリンク | a drink
+6EF2 (滲): 染み込ん | imbued with
+6F31 (漱): うがい,含嗽 | gargle,rinse mouth
+6EEF (滯): 塞ぎます,妨害します,よどみました | block up,obstruct,stagnant
+6F32 (漲): オーバーフロー | overflow
+6ECC (滌): リンス,ウォッシュ | rinse,wash
+6F3E (漾): ドリフト,フロー | drift,flow
+6F13 (漓): 落下,でソーク | dropping,soak in
+6EF7 (滷): 塩水 | brine
+6F86 (澆): 振りかけます,事,浅い,軽薄 | sprinkle,thing,shallow,frivolous
+6F7A (潺): 流れる水の音 | sound of flowing water
+6F78 (潸): 涙を流します | flowing of tears
+6F81 (澁): 渋いです,厳しいです,平らでありません,ラフ | astringent,harsh,uneven,rough
+6F80 (澀): 渋いです,厳しいです,平らでありません,ラフ | astringent,harsh,uneven,rough

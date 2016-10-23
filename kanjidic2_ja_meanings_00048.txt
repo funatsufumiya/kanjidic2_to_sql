@@ -1,0 +1,100 @@
+8708 (蜈): 百足 | centipede
+8700 (蜀): 芋虫,四川 | green caterpillar,Szechwan
+8703 (蜃): アサリ | clam
+86FB (蛻): 昆虫の脱皮 | insect moulting
+8711 (蜑): 卵 | egg
+8709 (蜉): アリの種類,カゲロウ | kind of ant,may fly
+870D (蜍): ヒキガエル | toad
+86F9 (蛹): 蛹,蛹 | chrysalis,pupa
+870A (蜊): 二枚貝の一種 | a kind of bivalve
+8734 (蜴): トカゲ | lizard
+873F (蜿): 蛇行 | meandering
+8737 (蜷): 食用川のカタツムリ | an edible river snail
+873B (蜻): トンボ | dragonfly
+8725 (蜥): トカゲ | a lizard
+8729 (蜩): 明確なトーンの蝉 | clear-toned cicada
+871A (蜚): 甲虫,ゴキブリ | beetle,cockroach
+8760 (蝠): コウモリ | bat
+875F (蝟): ハリネズミ | hedgehog
+8778 (蝸): カタツムリ | snail
+874C (蝌): オタマジャクシ | tadpole
+874E (蝎): サソリ | scorpion
+8774 (蝴): バタフライ | butterfly
+8757 (蝗): イナゴ | locust
+8768 (蝨): 虱,害虫 | lice,vermin
+876E (蝮): まむし,加算器,ASP | viper,adder,asp
+8759 (蝙): コウモリ | bat
+8753 (蝓): ナメクジ,カタツムリ | slug,snail
+8763 (蝣): カゲロウ | mayfly
+876A (蝪): トカゲ | lizard
+8805 (蠅): 飛ぶ | fly
+87A2 (螢): ホタル | firefly
+879F (螟): 有害寄生虫 | injurious parasite
+8782 (螂): カマキリ | mantis
+87AF (螯): 爪 | claws
+87CB (蟋): クリケット,バッタ | cricket,grasshopper
+87BD (螽): バッタ | grasshopper
+87C0 (蟀): クリケット,バッタ | cricket,grasshopper
+87D0 (蟐): ヒキガエル,カマキリ,（kokuji） | toad,mantis,(kokuji)
+96D6 (雖): しかし,しかしながら | although,however
+87AB (螫): ハチ刺され | bee sting
+87C4 (蟄): 昆虫の冬眠 | hibernation of insects
+87B3 (螳): カマキリ | mantis
+87C7 (蟇): ヒキガエル | toad
+87C6 (蟆): ヒキガエル | toad
+87BB (螻): ケラ | mole cricket
+87EF (蟯): 腸内寄生虫 | intestinal worm
+87F2 (蟲): 昆虫,バグ,気性 | insect,bug,temper
+87E0 (蟠): 巻き上げ | coiled up
+880F (蠏): カニ | crab
+880D (蠍): サソリ | scorpion
+87FE (蟾): ヒキガエル | toad
+87F6 (蟶): 蟶貝 | razor clam
+87F7 (蟷): カマキリ | mantis
+880E (蠎): パイソン,ボア・コンストリクター | python,boa constrictor
+87D2 (蟒): ボア・コンストリクター,パイソン | boa constrictor,python
+8811 (蠑): イモリ,サザエ | newt,turban shell
+8816 (蠖): シャクトリムシ,幾何 | inchworm,geometer
+8815 (蠕): ワームのクロール | crawling of a worm
+8822 (蠢): リグル | wriggle
+8821 (蠡): 虫に食われました,巻き貝 | worm-eaten,conch
+8831 (蠱): 米ワーム,惑わせます | rice worm,lead astray
+8836 (蠶): カイコ | silkworms
+8839 (蠹): 蛾,血塊に食べる虫 | moth,insects which eat into clot
+8827 (蠧): 虫に食われました | worm-eaten
+883B (蠻): 野蛮人 | barbarian
+8844 (衄): 鼻血 | nosebleed
+8842 (衂): 鼻血 | nosebleed
+8852 (衒): 見せびらかす,表示,装います | show off,display,pretend
+8859 (衙): 役所 | government office
+885E (衞): 防衛 | defense
+8862 (衢): 交差点 | crossroads
+886B (衫): 薄い着物 | thin kimono
+8881 (袁): 長い着物 | long kimono
+887E (衾): キルト,寝具 | quilt,bedding
+889E (袞): 袞龍 | imperial robes
+8875 (衵): 日常の衣類,下着 | everyday clothing,underwear
+887D (衽): 衣服の首,ガセット,ゴア | neck of a garment,gusset,gore
+88B5 (袵): 衣服の首,ガセット,ゴア | neck of a garment,gusset,gore
+8872 (衲): 修理,斎服,祭司 | mend,priestly vestments,priest
+8882 (袂): スリーブ,（丘の）足,エッジ | sleeve,foot (of hill),edge
+8897 (袗): 薄い着物,刺繍 | thin kimono,embroidery
+8892 (袒): 肩をむき出し,腰へのストリップ | baring the shoulder,strip to waist
+88AE (袮): 先祖の神社,刺繍 | ancestral shrine,embroidery
+8899 (袙): 戦士のヘッドバンド | warrior\'s headband
+88A2 (袢): 夏の着物,短い服 | summer kimono,short clothing
+888D (袍): コート | coat
+88A4 (袤): 長さ | length
+88B0 (袰): フード,上,オーニング,カバー,（kokuji） | hood,top,awning,cover,(kokuji)
+88BF (袿): 古代普通の着物 | ancient ordinary kimono
+88B1 (袱): クロスラッパー | cloth wrapper
+88C3 (裃): 古い儀式の服装,武士の服装,（kokuji） | old ceremonial garb,samurai garb,(kokuji)
+88C4 (裄): 袖丈,（kokuji） | sleeve length,(kokuji)
+88D4 (裔): 子孫,境界 | descendant,border
+88D8 (裘): 革の服 | leather clothing
+88D9 (裙): 裾,下着 | hem,underwear
+88DD (裝): ドレス,装います,変装,公言します | dress,pretend,disguise,profess
+88F9 (裹): ラップ,荷造りする,カバー,隠す | wrap,pack up,cover,conceal
+8902 (褂): 古代普通の着物 | ancient ordinary kimono
+88FC (裼): 肩を露出します | to bare the shoulder
+88F4 (裴): 長いローブ | long robes

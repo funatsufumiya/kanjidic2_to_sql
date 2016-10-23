@@ -1,0 +1,100 @@
+5B45 (孅): 繊細な | delicate
+5B40 (孀): 寡婦 | widow
+5B51 (孑): 蚊のボウフラ | mosquito wriggler
+5B55 (孕): 妊娠します | become pregnant
+5B5A (孚): 誠実,育てます,包みます | sincere,nourish,encase
+5B5B (孛): 彗星,ダーク,曖昧な | comet,dark,obscure
+5B65 (孥): 子,妻子,サーバント,スレーブ | child,wife and children,servant,slave
+5B69 (孩): 赤ちゃん,幼少 | baby,infancy
+5B70 (孰): これ,どうやって,誰 | which,how,who
+5B73 (孳): 増加する,子どもを産みます | increase,bear children
+5B75 (孵): ハッチ,インキュベート | hatch,incubate
+5B78 (學): 学習,知識,学校 | learning,knowledge,school
+6588 (斈): 学習,知識,学校 | learning,knowledge,school
+5B7A (孺): 子 | child
+5B80 (宀): 形の王冠,カタカナのuラジカル（NO。40） | shaped crown,katakana u radical (no. 40)
+5B83 (它): 他の | other
+5BA6 (宦): 公式 | official
+5BB8 (宸): ひさし,宮殿,皇室の礼儀 | eaves,palace,imperial courtesy
+5BC3 (寃): 苦情,不正,違う | grievance,injustice,wrong
+5BC7 (寇): 山賊,泥棒,敵,侵入します | bandits,thieves,enemy,invade
+5BC9 (寉): クレーン（鳥） | crane (bird)
+5BD4 (寔): リアル,純正,実際 | real,genuine,actual
+5BD0 (寐): 睡眠 | sleep
+5BE4 (寤): 起きている,わかる | awake,understand
+5BE6 (實): 真実,現実 | truth,reality
+5BE2 (寢): 睡眠,残り,寝室 | sleep,rest,bed chamber
+5BDE (寞): 寂しい,静か | lonely,quiet
+5BE5 (寥): 寂しい | lonely
+5BEB (寫): 撮影されます,コピー,説明します | be photographed,copy,describe
+5BF0 (寰): 王土,世界 | imperial domain,world
+5BF6 (寶): 宝,宝石,貴重な,レア | treasure,jewel,precious,rare
+5BF3 (寳): 宝,宝石,貴重な,レア | treasure,jewel,precious,rare
+5C05 (尅): 征服します,破壊する,克服します | subdue,destroy,overcome
+5C07 (將): 司令官,一般的な,提督 | commander,general,admiral
+5C08 (專): 専門,排他的,主に,もっぱら | specialty,exclusive,mainly,solely
+5C0D (對): 正しい,右,向い,反対 | correct,right,facing,opposed
+5C13 (尓): 君は,それ | you,that
+5C20 (尠): 少なくとも,少なからず | at least,not a little
+5C22 (尢): 曲がったビッグラジカル（NO。43） | crooked-big radical (no. 43)
+5C28 (尨): シャギー毛や犬 | shaggy hair or dog
+5C38 (尸): 死体,遺跡,フラグラジカル（NO。44） | corpse,remains,flag radical (no. 44)
+5C39 (尹): 尹 | an official rank
+5C41 (屁): おなら,通過するガス | fart,passing gas
+5C46 (屆): リーチ,到着します,報告する,通知します,フォワード | reach,arrive,report,notify,forward
+5C4E (屎): たわごと,糞 | shit,excrement
+5C53 (屓): 強さを発揮（合気道） | exerting strength (aikido)
+5C50 (屐): クロッグ | clog
+5C4F (屏): 壁,フェンス | wall,fence
+5B71 (孱): 弱い,急な | weak,steep
+5C6C (屬): 属,下役,属する,付属 | genus,subordinate official,belong,affiliated
+5C6E (屮): 左手,古い草ラジカル（NO。45） | left hand,old grass radical (no. 45)
+4E62 (乢): 山のサドル | mountain saddle
+5C76 (屶): 固有名詞で使用,（kokuji） | used in proper names,(kokuji)
+5C79 (屹): そびえ立つ山々 | towering mountains
+5C8C (岌): 高い,危険な | high,dangerous
+5C91 (岑): ピーク,山の頂 | peak,mountaintop
+5C94 (岔): 道路の分岐点 | fork in a road
+599B (妛): 軽蔑します,軽蔑,醜い,と同じ | despise,contempt,ugly,same as
+5CAB (岫): 渓谷,渓谷,山中に,ケープ,岬 | gorge,ravine,in the mountains,cape,promontory
+5CBB (岻): 山の名前 | name of a mountain
+5CB6 (岶): 密な山の植生 | dense mountain vegetation
+5CBC (岼): 山のレベルのスポット部ウェイアップ,（kokuji） | level spot part-way up a mountain,(kokuji)
+5CB7 (岷): 中国の川の名前,中国の山の名前 | name of a Chinese river,name of a Chinese mountain
+5CC5 (峅): 山の中の神社,（kokuji） | shrine in the mountains,(kokuji)
+5CBE (岾): 山 | mountain
+5CC7 (峇): 山の洞窟 | mountain cave
+5CD9 (峙): タワー,舞い上がります | tower,soar
+5CE9 (峩): 高尚な | lofty
+5CFD (峽): 渓谷,海峡,渓谷,地峡 | gorge,strait,ravine,isthmus
+5CFA (峺): 妨害します | obstruct
+5CED (峭): 高いと; 急な | high &amp; steep
+5D8C (嶌): 島 | island
+5CEA (峪): 渓谷 | ravine
+5D0B (崋): 山の名前 | name of mountain
+5D15 (崕): 崖,はったり,絶壁 | cliff,bluff,precipice
+5D17 (崗): 丘 | hill
+5D5C (嵜): 急な,岬 | steep,promontory
+5D1F (崟): ピーク,山の頂,急な,高尚な | peak,mountaintop,steep,lofty
+5D1B (崛): 高いと; 高尚（山） | high &amp; lofty (mountains)
+5D11 (崑): 地名 | place name
+5D14 (崔): 崖,はったり,絶壁 | cliff,bluff,precipice
+5D22 (崢): 高い,急な | high,steep
+5D1A (崚): 行にそびえる山々 | mountains towering in a row
+5D19 (崙): 地名 | place name
+5D18 (崘): 江蘇省でのクンルン山脈 | Kunlun mountains in Jiangsu
+5D4C (嵌): に入る,プランジ,インレイ | go into,plunge,inlay
+5D52 (嵒): 岩 | rock
+5D4E (嵎): 山奥 | mountain recesses
+5D4B (嵋): 地名 | place name
+5D6C (嵬): 高いとフラット | high and flat
+5D73 (嵳): 高い,そびえ立ちます,不規則な,険しいです | high,towering,irregular,rugged
+5D76 (嵶): 峠 | mountain pass
+5D87 (嶇): 急な | steep
+5D84 (嶄): 急なまたは高い山 | steep or high mountain
+5D82 (嶂): 急な,高尚な | steep,lofty
+5DA2 (嶢): 高い,そびえ立ちます | high,towering
+5D9D (嶝): 丘,上り坂のパス | hill,uphill path
+5DAC (嶬): 高い,急な | high,steep
+5DAE (嶮): 険しいです,険しいです,険しいです,鋭い目 | inaccessible place,impregnable position,steep place,sharp eyes
+5DBD (嶽): ピーク | peak

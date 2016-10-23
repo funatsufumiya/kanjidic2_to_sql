@@ -1,0 +1,100 @@
+61AE (憮): 失望 | disappointment
+61CC (懌): 喜びます | rejoice
+61CA (懊): 苦しんでいます,挑発,刺激性の,せっかち,イライラしました | in distress,provoking,irritating,impatient,vexed
+61C9 (應): 回答,はい,[OK],応答,受け入れます | answer,yes,OK,reply,accept
+61F7 (懷): ポケット,感情,ハート,憧れます,誰かを逃します,に付着,懐,乳 | pocket,feelings,heart,yearn,miss someone,become attached to,bosom,breast
+61C8 (懈): 怠惰 | laziness
+61C3 (懃): 礼儀 | courtesy
+61C6 (懆): 不安 | unease
+61BA (憺): 穏やかな,静か,移動 | calm,quiet,move
+61CB (懋): 努力します,栄えます | strive,flourish
+7F79 (罹): キャッチ,取得する | catch,get
+61CD (懍): 恐れ,震える | fear,tremble
+61E6 (懦): 弱点,臆病 | weakness,cowardice
+61E3 (懣): 心配,苦しみ,怒り | worry,agony,anger
+61F6 (懶): 気だるいです,だらけます,怠慢です | languid,be lazy,be negligent
+61FA (懺): 後悔,悔い改めます,罪を告白 | regret,repent,confess sins
+61F4 (懴): 自責の念 | remorse
+61FF (懿): 綺麗な,素晴らしい | beautiful,splendid
+61FD (懽): 喜びます | rejoice
+61FC (懼): 恐れ,位負けします | fear,overawed
+61FE (懾): 恐れ | fear
+6200 (戀): 恋愛中,憧れます,ミス,ダーリン | in love,yearn for,miss,darling
+6208 (戈): 薙刀,武器,山車,浮く,タッセル槍ラジカル（NO。62） | halberd,arms,festival car,float,tasselled spear radical (no. 62)
+6209 (戉): 戦士,武器,野蛮な,アイヌ | warrior,arms,savage,Ainu
+620D (戍): 保護 | protection
+620C (戌): 犬の兆候,7-9PM,干支の第十一の兆候 | sign of the dog,7-9PM,eleventh sign of Chinese zodiac
+6214 (戔): 損傷,残ります,わずかな | damage,remain,slight
+621B (戛): 薙刀 | halberd
+621E (戞): ランス,タップするか軽く打ちます | lance,tap or strike lightly
+6221 (戡): 勝利 | victory
+622A (截): 断つ,断ちます | cut off,sever
+622E (戮): 殺します | kill
+6230 (戰): 戦争,戦闘,戦い | war,fighting,battle
+6232 (戲): 遊びます,戯れる,スポーツ | play,frolic,sport
+6233 (戳): ポーク,突きます | poke,prod
+6241 (扁): レベル,小さい | level,small
+624E (扎): 引く,タイアップ,刺します,刺します | pull,tie up,prick,stab
+625E (扞): 抑えます | restrain
+6263 (扣): ノック,ストライク,ラップ,タップ,ボタン | knock,strike,rap,tap,button
+625B (扛): レイズ | raise
+6260 (扠): よく,今 | well,now
+6268 (扨): よく,今,（kokuji） | well,now,(kokuji)
+627C (扼): コマンド,支配します,防ぐ,妨害します | command,dominate,prevent,obstruct
+6282 (抂): 障害 | disorder
+6289 (抉): えぐります,くりぬきます,ボア,てこ | gouge,hollow out,bore,pry
+627E (找): 探す,シーク,変更を行います | look for,seek,make change
+6292 (抒): 伝えます,10 ** 24 | tell,10**24
+6293 (抓): 選ぶ,ピンチ,まとめます | pick,pinch,summarize
+6296 (抖): 振ります,軽い揺れ | shake,jiggle
+62D4 (拔): エキス,引き出す,くすねます,見積もり,削除します,省きます | extract,pull out,pilfer,quote,remove,omit
+6283 (抃): 手でストライキ | strike with hand
+6294 (抔): など | and so forth
+62D7 (拗): ゆがみました,ねじれました,歪,倒錯の,クロス | crooked,twisted,distorted,perverted,cross
+62D1 (拑): 鉗みます | shut one\'s mouth
+62BB (抻): ストレッチ,延長する | stretch,extend
+62CF (拏): キャッチ,逮捕 | catch,arrest
+62FF (拿): キャッチ,逮捕 | catch,arrest
+62C6 (拆): 離れて分割します,解散します,開く | to split apart,to break up,to open
+64D4 (擔): キャリー,くま,undertale | carry,bear,undertake
+62C8 (拈): クルクル回します,ねじれ,ひねり,絞ります | twirl,twist,twiddle,wring
+62DC (拜): 崇拝,崇拝します,祈ります | worship,adore,pray to
+62CC (拌): かき混ぜると混ぜます | stir and mix
+62CA (拊): 平手打ち,ストライク | slap,strike
+62C2 (拂): 空にする,一掃 | clear out,sweep away
+62C7 (拇): 親指 | thumb
+629B (抛): 投げます | hurl
+62C9 (拉): ラテン,誘拐,クラッシュ | Latin,kidnap,crush
+630C (挌): ストライク,ヒット,戦い | strike,hit,fight
+62EE (拮): 差し迫ったこと | be imminent
+62F1 (拱): アーチ,腕を組みます | arch,fold arms
+6327 (挧): 日本のトチノキ | Japanese horse chestnut
+6302 (挂): ハング | hang
+6308 (挈): 手で運びます | carry by hand
+62EF (拯): 助けて | help
+62F5 (拵): 作ります,準備します,アレンジ | make,prepare,arrange
+6350 (捐): 捨てる | throw away
+633E (挾): 間に置きます,インサート,ジャム,捕まる,サンドイッチ | put between,insert,jam,get caught,sandwich
+634D (捍): 守る,守ります | defend,protect
+641C (搜): サーチ,シーク,調査する | search,seek,investigate
+634F (捏): こねます,ミックス | knead,mix
+6396 (掖): （体の）側,掻き込みます | side (of body),carry under arm
+638E (掎): 引く,引き止めます | pull,hold back
+6380 (掀): レイズ,ホイスト | raise,hoist
+63AB (掫): 宿直,レーキ | night watch,rake
+6376 (捶): ストライク,ホイップ,平手打ち | strike,whip,slap
+63A3 (掣): 引き戻します,抑えます | pull back,restrain
+638F (掏): すり | pickpocket
+6389 (掉): 振ります＆; 移動 | shake &amp; move
+639F (掟): 法律,戒め,規則 | law,commandments,regulations
+63B5 (掵): 沖積段々土地 | alluvial terraced land
+636B (捫): ストローク | to stroke
+6369 (捩): スクリュー,ねじれ,レンチ,歪めます | screw,twist,wrench,distort
+63BE (掾): 助けて,下役,廃止された政府サービスのランク | help,subordinate official,obsolete government service rank
+63E9 (揩): ワイプ | wipe
+63C0 (揀): 選択します | select
+63C6 (揆): カテゴリー,計画,ドラムスティック | category,plan,drumstick
+63E3 (揣): 推測 | conjecture
+63C9 (揉): こする,マッサージ,シャンプー,精力的に議論,列車,コーチ,心配,トラブルに巻き込まれる | rub,massage,shampoo,debate vigorously,train,coach,worry,get in trouble
+63D2 (插): インサート,突き刺さります,工場 | insert,stick into,plant
+63F6 (揶): からかう,と遊ぶ | tease,play with

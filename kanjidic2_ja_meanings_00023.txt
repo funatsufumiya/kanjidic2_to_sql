@@ -1,0 +1,100 @@
+985E (類): ソート,種類,多様,クラス,属 | sort,kind,variety,class,genus
+4EE4 (令): 受注,古制,コマンド,法令 | orders,ancient laws,command,decree
+4F36 (伶): 俳優 | actor
+4F8B (例): 例,カスタム,使用法,先例 | example,custom,usage,precedent
+51B7 (冷): クール,冷たい（ビール,人）,チル | cool,cold (beer, person),chill
+52B1 (励): 奨励します,勤めます,インスパイア | encourage,be diligent,inspire
+5DBA (嶺): ピーク,サミット | peak,summit
+601C (怜): 賢いです | wise
+73B2 (玲): 宝石の音 | sound of jewels
+793C (礼): 敬礼,弓,式,感謝,報酬 | salute,bow,ceremony,thanks,remuneration
+82D3 (苓): 工場,ハーブ,キノコ | plant,herb,mushroom
+9234 (鈴): 小さな鐘,ブザー | small bell,buzzer
+96B7 (隷): スレーブ,サーバント,囚人,犯罪者,フォロワー | slave,servant,prisoner,criminal,follower
+96F6 (零): ゼロ,流出,オーバーフロー,何も,暗号 | zero,spill,overflow,nothing,cipher
+970A (霊): スピリッツ,魂 | spirits,soul
+9E97 (麗): 美しい,綺麗な,優美な,まばゆいです | lovely,beautiful,graceful,resplendent
+9F62 (齢): 年齢 | age
+66A6 (暦): カレンダー,アルマナック | calendar,almanac
+6B74 (歴): カリキュラム,継続,時間が経つ | curriculum,continuation,passage of time
+5217 (列): ファイル,行,ランク,層,カラム | file,row,rank,tier,column
+52A3 (劣): 劣等,に劣ります,悪化します | inferiority,be inferior to,be worse
+70C8 (烈): 熱心な,暴力的な,猛烈な,猛烈な,厳しいです,極端な | ardent,violent,vehement,furious,severe,extreme
+88C2 (裂): スプリット,引き裂きます,涙 | split,rend,tear
+5EC9 (廉): バーゲン,理由,電荷,疑い,ポイント,アカウント,純度,正直な,低価格,安いです,休養,満足しました,穏やかな | bargain,reason,charge,suspicion,point,account,purity,honest,low price,cheap,rested,contented,peaceful
+604B (恋): ロマンス,恋愛中,憧れます,ミス,ダーリン | romance,in love,yearn for,miss,darling
+6190 (憐): 同情,どうかご慈悲を,同情します,思いやり | pity,have mercy,sympathise,compassion
+6F23 (漣): 波紋 | ripples
+7149 (煉): 金属を絞り込みます,火で混練 | refine metals,kneading over fire
+7C3E (簾): 簾,簾 | bamboo screen,rattan blind
+7DF4 (練): 練習,光沢,列車,ドリル,研磨,リファイン | practice,gloss,train,drill,polish,refine
+806F (聯): パーティー,ギャング,徒党 | party,gang,clique
+84EE (蓮): 蓮 | lotus
+9023 (連): 連れていく,鉛,参加します,接続します,パーティー,ギャング,徒党 | take along,lead,join,connect,party,gang,clique
+932C (錬): 焼き戻し,リファイン,ドリル,列車,研磨 | tempering,refine,drill,train,polish
+5442 (呂): 脊椎,背骨 | spine,backbone
+9B6F (魯): 愚かな,ロシア | foolish,Russia
+6AD3 (櫓): オール,タワー | oar,tower
+7089 (炉): 健康,ファーネス,窯,原子炉 | hearth,furnace,kiln,reactor
+8CC2 (賂): 賄賂 | bribe
+8DEF (路): パス,ルート,道路,距離 | path,route,road,distance
+9732 (露): 露,涙,晒す,ロシア | dew,tears,expose,Russia
+52B4 (労): 労働,感謝,報酬,労苦,トラブル | labor,thank for,reward for,toil,trouble
+5A41 (婁): 頻繁に,ネクタイ | frequently,tie
+5ECA (廊): 廊下,ホール,タワー | corridor,hall,tower
+5F04 (弄): と遊ぶ,改ざんします,で弄ん | play with,tamper,trifle with
+6717 (朗): メロディアス,クリア,鮮やか,穏やかな,陽気な | melodious,clear,bright,serene,cheerful
+697C (楼): 望楼,外を見る,高い建物 | watchtower,lookout,high building
+6994 (榔): キンマのヤシの木 | betel palm tree
+6D6A (浪): 放浪,波浪,大波,無謀,気ままな | wandering,waves,billows,reckless,unrestrained
+6F0F (漏): リーク,エスケープ,時間 | leak,escape,time
+7262 (牢): 刑務所,刑務所,硬度 | prison,jail,hardness
+72FC (狼): 狼 | wolf
+7BED (篭): 垂れ篭めます,ケージ,コープ,暗黙の | seclude oneself,cage,coop,implied
+8001 (老): 老人,老齢,年を取る | old man,old age,grow old
+807E (聾): 難聴,ろう者,聾します | deafness,deaf person,deafen
+874B (蝋): ワックス | wax
+90CE (郎): 息子,息子のためのカウンタ | son,counter for sons
+516D (六): 6 | six
+9E93 (麓): 山のふもと | foot of a mountain
+7984 (禄): 封土,手当,年金,付与,幸福 | fief,allowance,pension,grant,happiness
+808B (肋): リブ | rib
+9332 (録): 記録 | record
+8AD6 (論): 引数,談話 | argument,discourse
+502D (倭): ヤマト,倭 | Yamato,ancient Japan
+548C (和): 調和,和風,平和,和らげます,日本 | harmony,Japanese style,peace,soften,Japan
+8A71 (話): 物語,トーク | tale,talk
+6B6A (歪): ワープ,ベンド,緊張しました,歪めます | warp,bend,strained,distort
+8CC4 (賄): 賄賂,ボード,供給,ファイナンス | bribe,board,supply,finance
+8107 (脇): 脇の下,反対に,他の場所,脇腹,サポート役 | armpit,the other way,another place,flank,supporting role
+60D1 (惑): 欺きます,妄想,当惑 | beguile,delusion,perplexity
+67A0 (枠): フレーム,フレームワーク,スピンドル,スプール,バウンディングボックス,（kokuji） | frame,framework,spindle,spool,bounding-box,(kokuji)
+9DF2 (鷲): 鷲 | eagle
+4E99 (亙): 範囲,リーチ,延長する,カバー | range,reach,extend,cover
+4E98 (亘): スパン,範囲,広がります | span,range,extend over
+9C10 (鰐): アリゲーター,クロコダイル | alligator,crocodile
+8A6B (詫): 謝ります | apologize
+85C1 (藁): ストロー | straw
+8568 (蕨): ワラビ,シダの茂み | bracken,fernbrake
+6900 (椀): 木製や漆塗りのお椀 | wooden or lacquered bowl
+6E7E (湾): 湾,ベイ,インレット | gulf,bay,inlet
+7897 (碗): 丼,茶碗 | porcelain bowl,tea cup
+8155 (腕): 腕,能力,才能 | arm,ability,talent
+5F0C (弌): 1 | one
+4E10 (丐): 乞食,頼みます,与える | beggar,beg,give
+4E15 (丕): 大,すばらしいです,壮大な,輝かしいです,優れました | large,great,grand,glorious,distinguished
+4E2A (个): 記事のためのカウンタ,個人 | counter for articles,individual
+4E31 (丱): サワロのような漢字,髪のラッパ状のロック,若い,入札 | saguaro-like kanji,horn-shaped locks of hair,young,tender
+4E36 (丶): ドット,ダニやラジカルドット（なし。3） | dot,tick or dot radical (no. 3)
+4E3C (丼): ボウル,食品のボウル | bowl,bowl of food
+4E3F (丿): カタカナのないラジカル（NO。4） | katakana no radical (no. 4)
+4E42 (乂): 刈る,草を刈ります,征服します | mow,cut grass,subdue
+4E56 (乖): 反対します,背きます | oppose,disobey
+4E58 (乘): パワー,乗算,記録,車のためのカウンタ | power,multiplication,record,counter for vehicles
+4E82 (亂): 戦争,障害,暴動,ディスターブ | war,disorder,riot,disturb
+4E85 (亅): 羽スティック,バーブラジカル（NO。6） | feathered stick,barb radical (no. 6)
+8C6B (豫): リラックスしました,快適,安心して | relaxed,comfortable,at ease
+4E8A (亊): 事件,問題,ビジネス,機能します,事故,入射 | affair,matter,business,to serve,accident,incident
+8212 (舒): ストレッチ,緩む,開いた,リラックス,言及 | stretch,loosen,open,relax,mention
+5F0D (弍): 二 | two
+4E8E (于): 行き,から | going,from

@@ -1,0 +1,100 @@
+55AE (單): 1,シングル,シンプル | one,single,simple
+557C (啼): 樹皮,チャープ,泣く | bark,chirp,cry
+5583 (喃): おしゃべり,上のガラガラ | chatter,rattle on
+55A9 (喩): メタファー,比較します | metaphor,compare
+5587 (喇): おしゃべり,上のガラガラ | chatter,rattle on
+55A8 (喨): 澄んだ声 | clear voice
+55DA (嗚): 泣きます,ああ,悲しいかな | weep,ah,alas
+55C5 (嗅): 香り,スニッフ,香り | smell,sniff,scent
+55DF (嗟): 満足すること,悲しみます,ああ | be satisfied,grieve,ah
+55C4 (嗄): ハスキー | hoarse
+55DC (嗜): 以下のような,味,控えめな | like,taste,modest
+55E4 (嗤): 笑い,冷やかし | laugh,ridicule
+55D4 (嗔): 怒ります | be angry
+5614 (嘔): 嘔吐,吐き気 | vomit,nauseated
+55F7 (嗷): うるさい | noisy
+5616 (嘖): 叱る,苦しめる,懲らしめます | scold,torment,chastise
+55FE (嗾): SIC \ '日,卵の上,扇動します | sic\'em,egg on,instigate
+55FD (嗽): リンス,ウォッシュ,うがい | rinse,wash,gargle
+561B (嘛): 小麦 | wheat
+55F9 (嗹): バリュアブル,とりとめのありません | voluble,garrulous
+564E (噎): チョーク,もみ消します | choke,smother
+5650 (噐): 容器,レセプタクル,実装します,楽器,能力 | vessel,receptacle,implement,instrument,ability
+71DF (營): キャンプ,実行します,ビルド,実施（ビジネス） | camp,perform,build,conduct (business)
+5634 (嘴): 嘴,ビル | beak,bill
+5636 (嘶): いななき,泣き言を言います | neigh,whinny
+5632 (嘲): 冷やかし,侮辱 | ridicule,insult
+5638 (嘸): どうやって,確かに,私が言ってみます | how,indeed,I dare say
+566B (噫): 叫び声,げっぷ,げっぷ | exclamation,burp,belch
+5664 (噤): 黙れ | shut up
+562F (嘯): とどろき,遠ぼえ,感情的に暗唱,無関心を装います | roar,howl,recite emotionally,feign indifference
+566C (噬): 一口 | bite
+566A (噪): うるさいこと | be noisy
+5686 (嚆): コール | call
+5680 (嚀): 親切 | kindness
+568A (嚊): 鼻から呼吸,鼻息,妻,1 \ 'sの老婦人 | breathing through the nose,snorting,wife,one\'s old lady
+56A0 (嚠): クリアな音声 | a clear sound
+5694 (嚔): くしゃみ | sneeze
+568F (嚏): くしゃみ | sneeze
+56A5 (嚥): 飲み込む | swallow
+56AE (嚮): ガイド,直接,傾向がある,好意 | guide,direct,incline to,favor
+56B6 (嚶): チャーピング,一緒に鳥のさえずり | chirping,birds singing together
+56B4 (嚴): 厳密性,重症度,剛性 | strictness,severity,rigidity
+56C2 (囂): うるさい,騒々しいです | noisy,boisterous
+56BC (嚼): 一口 | bite
+56C1 (囁): ささやきます,つぶやき | whisper,murmur
+56C3 (囃): 音楽を再生）,同行します,時間を打ちます,冷やかし,冷やかす,拍手を送ります | play (music),accompany,beat time,banter,jeer,applaud
+56C0 (囀): 歌う,チャープ,さえずり,おしゃべり | sing,chirp,warble,chatter
+56C8 (囈): 馬鹿話 | foolish talk
+56CE (囎): 地名で使用,（kokuji） | used in place names,(kokuji)
+56D1 (囑): 要求,メッセージを送ります | request,send a message
+56D3 (囓): かじります | gnaw
+56D7 (囗): ボックス,（なし。31）ラジカルを箱またはエンクロージャ | box,box or enclosure radical (no. 31)
+56EE (囮): デコイ,ルアー,スツール鳩 | decoy,lure,stool pigeon
+56F9 (囹): 刑務所 | prison
+5700 (圀): 国 | country
+56FF (囿): ゲーム保存,牧草地,庭園 | game preserve,pasture,garden
+5704 (圄): 刑務所,逮捕 | prison,arrest
+5709 (圉): 刑務所,馬の入札,きゅう務員 | prison,horse tender,ostler
+5708 (圈): 球,サークル,半径,範囲 | sphere,circle,radius,range
+570B (國): 国 | country
+570D (圍): 同封します,囲む,取り囲みます,保存します,格納,キープ | enclose,surround,encircle,preserve,store,keep
+5713 (圓): 円,サークル,円形 | yen,circle,round
+5718 (團): 協会 | association
+5716 (圖): お絵かき,計画 | drawing,plan
+55C7 (嗇): けちな,けちな,スペアリング | miserly,stingy,sparing
+571C (圜): 円形,行き渡る | round,go around
+5726 (圦): 水門,注ぎ口,水門,水圧管,（kokuji） | sluice,spout,floodgate,penstock,(kokuji)
+5737 (圷): 低地,（kokuji） | low-lying land,(kokuji)
+5738 (圸): 急斜面,（kokuji） | steep slope,(kokuji)
+574E (坎): 落とし穴 | pitfall
+573B (圻): 首都を囲む領域 | region surrounding the capital
+5740 (址): 廃墟 | ruins
+574F (坏): ボウル | bowl
+5769 (坩): ジャー,ポット | jar,pot
+57C0 (埀): 失望させる,サスペンド,ハンド,ダウン | let down,suspend,hand,down
+5788 (垈): 沼地,湿原,泥だらけのフィールド,（kokuji） | swamp,wetlands,muddy fields,(kokuji)
+5761 (坡): 堤防,ダム,スロープ,バンク | dike,dam,slope,bank
+577F (坿): スロープ,丘 | slope,hill
+5789 (垉): 崩壊,ブレーク | collapse,break
+5793 (垓): 境界,境界,階段,百京 | border,boundary,staircase,hundred quintillion
+57A0 (垠): リミット,境界 | limit,boundary
+57B3 (垳): 崖,固有名詞で使用,（kokuji） | cliff,used in proper names,(kokuji)
+57A4 (垤): 蟻塚,丘 | anthill,hill
+57AA (垪): 固有名詞で使用 | used in proper names
+57B0 (垰): 峠,古代のくに,低地,（kokuji） | mountain pass,ancient kuni,low ground,(kokuji)
+57C3 (埃): ほこり | dust
+57C6 (埆): 不毛の土地 | barren land
+57D4 (埔): 中国の地名で使用 | used in Chinese place names
+57D2 (埒): ピケット,境界,解決します | picket,limits,be settled
+57D3 (埓): 淡いです,杭柵,境界,終わります | pale,picket fence,limits,come to an end
+580A (堊): ごまかし | whitewash
+57D6 (埖): ごみ,ごみ,（kokuji） | garbage,refuse,(kokuji)
+57E3 (埣): 不毛の土地 | barren land
+580B (堋): 埋め込む,アーチェリーターゲットマウンド | bury,archery target mound
+5819 (堙): 閉じる,塞ぎます | close up,stop up
+581D (堝): 坩堝,るつぼ | crucible,melting pot
+5872 (塲): オープンスペース,フィールド,市場 | open space,field,market
+5821 (堡): 砦 | fort
+5862 (塢): 要塞堤防,村 | fortress embankment,village
+584B (塋): 墓地 | cemetery
