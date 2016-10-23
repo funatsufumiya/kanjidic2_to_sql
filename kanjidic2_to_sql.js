@@ -34,12 +34,16 @@ function get_sql(data){
 }
 
 let data = {};
+let count = 0;
 
 lineReader.on('line', line => {
   if( line.startsWith('<character>') ){
-    console.log(get_sql(data));
+    if(count > 0){
+      console.log(get_sql(data));
+    }
     // console.log(data);
     data = {};
+    ++count;
   }else if( line.startsWith('<literal>') ){
     let m = line.match(/^<literal>(.*)<\/literal>/);
     data['kanji'] = m[1];

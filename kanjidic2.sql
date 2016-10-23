@@ -14,7 +14,6 @@ CREATE TABLE kanjidic2 (
   key strokes (strokes)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('undefined', 'undefined', undefined, , '', '', '');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('4e9c', '亜', 7, 8, 'Asia,rank next,come after,-ous', 'ア', 'つ.ぐ');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5516', '唖', 10, , 'mute,dumb', 'アク', 'おし');
 INSERT INTO kanjidic2 (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('5a03', '娃', 9, 9, 'beautiful', 'ワ', 'うつく.しい');
