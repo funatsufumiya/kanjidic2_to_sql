@@ -32,7 +32,7 @@ function get_sql(data){
   let mean = (d.meanings)? d.meanings.join(','): '';
   let utf = d.utf.toUpperCase();
   mean = mean.replace(/'/g, "\\'");
-  let s = `INSERT INTO ${table} (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('${utf}', '${d.kanji}', ${d.strokes}, ${(d.grade)? d.grade: 'NULL'}, '${mean}', '${(d.ja_on)? d.ja_on: ''}', '${(d.ja_kun)? d.ja_kun: ''}');`
+  let s = `INSERT INTO ${table} (utf, kanji, strokes, grade, meanings, ja_on, ja_kun) VALUES ('${utf}', '${d.kanji}', ${d.strokes}, ${(d.grade)? d.grade: 'NULL'}, '${mean}', '${(d.ja_on)? d.ja_on.join(','): ''}', '${(d.ja_kun)? d.ja_kun.join(','): ''}');`
   return s;
 }
 
@@ -61,10 +61,16 @@ lineReader.on('line', line => {
     data['utf'] = m[1];
   }else if( line.startsWith('<reading r_type="ja_on">') ){
     let m = line.match(/^<reading r_type="ja_on">(.*)<\/reading>/);
-    data['ja_on'] = m[1];
+    if(data['ja_on'] == null){
+      data['ja_on'] = [];
+    }
+    data['ja_on'].push( m[1] );
   }else if( line.startsWith('<reading r_type="ja_kun">') ){
     let m = line.match(/^<reading r_type="ja_kun">(.*)<\/reading>/);
-    data['ja_kun'] = m[1];
+    if(data['ja_kun'] == null){
+      data['ja_kun'] = [];
+    }
+    data['ja_kun'].push( m[1] );
   }else if( line.startsWith('<meaning>') ){
     let m = line.match(/^<meaning>(.*)<\/meaning>/);
     if(data['meanings'] == null){
