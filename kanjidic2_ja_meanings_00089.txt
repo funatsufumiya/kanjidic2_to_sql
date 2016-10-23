@@ -1,0 +1,100 @@
+7A35 (稵):  | 
+7A38 (稸):  | 
+7A39 (稹):  | 
+7A3A (稺): 幼少 | infancy
+7A44 (穄): panicledキビ | panicled millet
+7A45 (穅): チャフ,ふすま,穀物の殻,（そこから来る：悪いです,怠慢） | chaff,bran,husks of grain,(from which comes: poor, remiss)
+7A47 (穇): デカン草,イヌエビ | deccan grass,barnyard grass
+7A48 (穈): キビ | millet
+7A4C (穌): 復活させます,再び上昇します,収集します | revive,to rise again,collect
+7A55 (穕):  | 
+7A56 (穖):  | 
+7A59 (穙):  | 
+7A5C (穜): 米 | rice
+7A5D (穝):  | 
+7A5F (穟): 穀物の耳,熟した穀物 | ear of grain,ripe grain
+7A60 (穠): 厚いです,豊かな,クラスタ内の | thick,lush,in clusters
+7A65 (穥):  | 
+7A67 (穧): 束 | sheaf
+7A6A (穪): 賞賛へ | to praise
+7A6D (穭): 野生の穀物 | wild grain
+7A75 (穵): 深い中空,えぐります,掘り出す | deep hollow,gouge,dig out
+7A78 (穸): 墓の暗がり,墓や墓,死 | the gloom of the grave,tomb or grave,death
+7A7E (穾):  | 
+7A80 (窀): 埋葬します | to bury
+7A82 (窂):  | 
+7A85 (窅): 遠く,深い,くぼんだ目,悲しい | far,deep,sunken eyes,sad
+7A86 (窆): 墓に棺を置くために | to put a coffin in a grave
+7A8A (窊): ピット,ボールト,ピット内の店舗 | pit,vault,store in pit
+7A8B (窋):  | 
+7A90 (窐):  | 
+7A91 (窑): 窯,炭鉱ピット | kiln,coal mine pit
+7A94 (窔): コーナー | corner
+7A9E (窞): ピット | pit
+7AA0 (窠): ネスト,穴,インデント,デン | nest,hole,indentation,den
+7AA3 (窣): デンの外に殺到します,さらさら,ささやき | to rush out of a den,rustling,whispering
+7AAC (窬): 小さなドアや窓,壁の穴,壁を通してカットします,掘るまたはボアホール | small door or window,hole in the wall,to cut through a wall,dig or bore hole
+7AB3 (窳): 汚れた,無用な,弱い,無力な,割れた,欠陥 | dirty,useless,weak,powerless,cracked,flaw
+7AB5 (窵): 深い,遠く | deep,distant
+7AB9 (窹):  | 
+7ABB (窻):  | 
+7ABC (窼):  | 
+7AC6 (竆): 尽きます,貧しいです,貧しいです | exhausted,impoverished,poor
+7AC9 (竉): 穴,割れ目,空の | hole,cleft,empty
+7ACC (竌):  | 
+7ACE (竎):  | 
+7AD1 (竑): 広大で無限のこと,広いです | be vast and endless,broad
+7ADB (竛):  | 
+7AE8 (竨):  | 
+7AE9 (竩):  | 
+7AEB (竫):  | 
+7AEC (竬):  | 
+7AF1 (竱):  | 
+7AF4 (竴):  | 
+7AFB (竻):  | 
+7AFD (竽): 古代の木管楽器 | ancient woodwind instrument
+7AFE (竾): フルート | flute
+7B07 (笇):  | 
+7B14 (笔): 筆,書きます,ストローク | writing brush,write,stroke
+7B1F (笟):  | 
+7B23 (笣):  | 
+7B27 (笧): 巻き付きます,（堰付き）電流をチェック | twine around,check a current (with a weir)
+7B29 (笩):  | 
+7B2A (笪): ラッシュや竹の粗いマット | coarse mat of rushes or bamboo
+7B2B (笫):  | 
+7B2D (笭): 簾 | bamboo screen
+7B2E (笮): 屋根の上にタイルをサポートするボード | boards which support tiles on roof
+7B2F (笯): バードケージ | bird-cage
+7B30 (笰): カーテン | curtain
+7B31 (笱): 魚のためのバスケットトラップ,堰の開口部に配置され | basket trap for fish, placed in the opening of a weir
+7B34 (笴): 矢印シャフト | arrow shaft
+7B3D (笽):  | 
+7B3F (笿):  | 
+7B40 (筀):  | 
+7B41 (筁): 蚕が彼らの繭を回す上で竹のフレーム | bamboo frame on which silkworms spin their cocoons
+7B47 (筇): 竹の名前,竹のスタッフ | bamboo name,bamboo staff
+7B4E (筎):  | 
+7B55 (筕):  | 
+7B60 (筠): 竹の皮,竹 | bamboo skin,bamboo
+7B64 (筤): 若竹 | young bamboo
+7B66 (筦): キー,担当します,パイプ | key,to be in charge,pipe
+7B69 (筩): 竹管やパイプ,釣り針 | bamboo tube or pipe,fish hook
+7B6A (筪):  | 
+7B6D (筭): 数字を操作するための古代のデバイス,カウント,計算します,フィギュア | an ancient device for working with numbers,count,calculate,figure
+7B6F (筯): 箸,トング | chop-sticks,tongs
+7B72 (筲): バスケット,バケツ | basket,bucket
+7B73 (筳): ごちそう | feast
+7B77 (筷): 箸 | chopsticks
+7B84 (箄):  | 
+7B89 (箉):  | 
+7B8E (箎): 古代の木管楽器 | ancient woodwind instrument
+7B90 (箐): 竹弓やクロスボウを描画します | to draw a bamboo bow or cross-bow
+7B91 (箑): ファン | fan
+7B96 (箖):  | 
+7B9B (箛): ラッパ | bugle
+7B9E (箞):  | 
+7BA0 (箠): 馬の鞭,フログ | horse whip,flog
+7BA5 (箥):  | 
+7BAC (箬): 竹のキューティクル広葉樹竹 | the cuticle of the bamboo a broad-leaved bamboo
+7BAF (箯): 竹の駕籠 | bamboo palanquin
+7BB0 (箰):  | 

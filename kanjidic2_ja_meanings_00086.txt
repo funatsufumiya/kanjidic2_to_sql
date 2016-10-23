@@ -1,0 +1,100 @@
+7649 (癉): ひどく嫌いに,干ばつ,ドライ | to hate bitterly,drought,dry
+764B (癋):  | 
+7655 (癕): 嗅覚の損失 | loss of the sense of smell
+7659 (癙): 病気で | ill
+765F (癟): アップしなび,干上がる,イライラしました | shrivelled up,dried up,vexed
+7664 (癤): にきび,痛いです,沸騰 | pimple,sore,boil
+7665 (癥): 腸の閉塞 | obstruction of bowels
+766D (癭): 腫れ,甲状腺腫 | swelling,goitre
+766E (癮): 発疹,中毒,渇望,習慣 | rash,addiction,craving,habit
+766F (癯): 薄いです,やつれました,着用,疲れました | thin,emaciated,worn,tired
+7671 (癱): 麻痺,麻痺,痺れ | paralysis,palsy,numbness
+7674 (癴):  | 
+7681 (皁): 黒,警察のランナー（旧彼らが着用している黒服から） | black,police runners (from the black clothes formerly worn by them)
+7685 (皅):  | 
+768C (皌):  | 
+768D (皍):  | 
+7695 (皕):  | 
+769B (皛):  | 
+769C (皜): 白,鮮やか,クリア,ピュア | white,bright,clear,pure
+769D (皝): 明るいです,明るい白髪,白 | luminous,bright hoary,white
+769F (皟):  | 
+76A0 (皠):  | 
+76A2 (皢):  | 
+76A3 (皣):  | 
+76A4 (皤): 白,グレー,ぼってり | white,grey,corpulent
+76A5 (皥): 鮮やか,ブリリアント | bright,brilliant
+76A6 (皦): 明るい白色,鮮やか,クリア | bright white,bright,clear
+76A7 (皧):  | 
+76A8 (皨):  | 
+76AA (皪):  | 
+76AD (皭): 白,鮮やか,クリア,クリーン | white,bright,clear,clean
+76BD (皽): ふけ | scurf
+76C1 (盁):  | 
+76C5 (盅): 猪口,小鉢 | small cup,small bowl
+76C9 (盉):  | 
+76CB (盋):  | 
+76CC (盌): ボウル,流域,カップ | bowl,basin,cup
+76CE (盎): カップ,ポット,ボウル,豊富な | cup,pot,bowl,abundant
+76D4 (盔): ヘルメット,ボウル,流域 | helmet,bowl,basin
+76D9 (盙): バスケット,外側と丸い内側の正方形,国家崇拝中で煮沸穀物を保持するために使用されます | basket,square outside and round inside,used to hold boiled grain in State worship
+76E0 (盠):  | 
+76E6 (盦): 釜の蓋,仏教の回廊 | lid of a cauldron,Buddhist cloister
+76E8 (盨):  | 
+76EC (盬): 塩ピット,余暇,ポット,ドリンク | salt pit,leisure,pot,drink
+76F0 (盰):  | 
+76F1 (盱): 大きく開いた目,驚いて凝視します | wide open eyes,to gaze in astonishment
+76F6 (盶):  | 
+76F9 (盹): 居眠りします,昼寝へ,うなずきへ | to doze,to nap,to nod
+76FC (盼): 見ます,視線,期待します,望む | look,gaze,expect,hope for
+7700 (眀):  | 
+7706 (眆): 不明瞭な | indistinct
+770A (眊): 暗く、晴眼,目がはっきりと見ていません | dim-sighted,eyes not seeing clearly
+770E (眎): 見る,検査します,観察する,見る | look at,inspect,observe,see
+7712 (眒):  | 
+7714 (眔):  | 
+7715 (眕): 拘束 | restraint
+7717 (眗):  | 
+7719 (眙): 凝視します | to gaze at
+771A (眚): 目の病気,犯罪,障害 | disease of the eyes,crime,fault
+771C (眜):  | 
+7722 (眢): 明るさのない目 | eyes without brightness
+7728 (眨): ウィンク | wink
+772D (眭):  | 
+772E (眮):  | 
+772F (眯): 盲検化され | be blinded
+7734 (眴): 目がくらむ,目の信号 | dazzled,signal with eyes
+7735 (眵): 目の病気や薄暗いです | eyes diseased and dim
+7736 (眶): 眼窩,目のリム,まぶた | eye socket,rim of eye,eyelid
+7739 (眹): 瞳 | pupil
+773D (眽): 視線へ,色目へ,を見て | to gaze,to ogle,to look at
+773E (眾): 大衆,人,多数,群集 | masses,people,multitude,crowd
+7742 (睂):  | 
+7745 (睅): 大きな目をしました | big-eyed
+7746 (睆): 鮮やか | bright
+774A (睊): 見る,見ます,眺めます,不信感を持って | see,look,gaze at,askance
+774D (睍): 恐怖で見て,オーバー慎重 | look at with fear,over-cautious
+774E (睎): 長期のための,凝視します | to long for,to gaze at
+774F (睏): 疲れています,眠いです | be tired,sleepy
+7752 (睒): 一瞥します,のぞき見します,きらびやかな,輝く | to glance at,to peep,glittering,to shine
+7756 (睖): 直進凝視します | to stare straight ahead
+7757 (睗):  | 
+775C (睜): 開いた目,見詰める | open eyes,stare
+775E (睞): 目を細め,流し目 | squint at,sidelong glance
+775F (睟): 明敏な | clear-eyed
+7760 (睠): 世話をします,愛 | to care for,love
+7762 (睢): 眺めます,ガン見する,奔放,オープン目を大きく | gaze at,stare at,uninhibited,open eyes wide
+7764 (睤):  | 
+7767 (睧):  | 
+776A (睪): 上のスパイ | spy on
+776C (睬): 通知,注意を払う | notice,pay attention to
+7770 (睰):  | 
+7772 (睲):  | 
+7773 (睳):  | 
+7774 (睴):  | 
+777A (睺):  | 
+777D (睽): 見つめ | staring
+7780 (瞀): でよく見るします,近視,薄暗いです,不明瞭なビジョン | to look at closely,nearsighted,dim,indistinct vision
+7784 (瞄): 狙います,見る | take aim at,look at
+778C (瞌): うとうとする,眠いです | doze off,sleepy
+778D (瞍): ブラインド,目には瞳ません | blind,no pupil in the eye

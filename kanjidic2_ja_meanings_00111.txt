@@ -1,0 +1,100 @@
+9933 (餳): シュガー,シロップ,麦芽糖,スティッキー | sugar,syrup,malt sugar,sticky
+9934 (餴):  | 
+9935 (餵): フィードへ,調達します | to feed,to raise
+9939 (餹): シュガー,砂糖で甘くしました,キャンディ,結晶化した砂糖菓子 | sugar,sugared,candy,crystallized sweetmeats
+993A (餺): おもち | rice cake
+993B (餻): ケーキ,ペストリー | cakes,pastry
+993C (餼): 犠牲の犠牲者,贈り物,粒 | sacrificial victim,gift,grain
+9940 (饀):  | 
+9941 (饁): フィールド内の労働者に食事を運びます | carry meal to workers in field
+9946 (饆):  | 
+9947 (饇): あまりを食べます,surfeited,授与します | to eat too much,surfeited,to confer
+9948 (饈): フード,お食事,食べる,提供 | food,meal,eat,offer
+994D (饍): 食事,条文,ボード | meals,provisions,board
+994E (饎): ワインと一緒に食べるワインと食べ物 | wine and food eaten with wine
+9954 (饔): 朝ごはん,準備された食べ物を食べます | breakfast,eat prepared food
+9958 (饘): 粥 | gruel
+9959 (饙):  | 
+995B (饛):  | 
+995C (饜): 満腹します,1 \ 'sのフルを食べます | be satiated,eat one\'s full
+995E (饞): 食いしん坊,貪欲,みだらな,好色漢 | gluttenous,greedy,lewd,lecher
+995F (饟): 比率と兵士のための賃金,乾燥した米 | rations and pay for soldiers,dried rice
+9960 (饠): おもち | rice cake
+999B (馛): 香り,香り高いです | fragrance,fragrant
+999D (馝): 香り | fragrance
+999F (馟): 香り高いです | fragrant
+99A6 (馦):  | 
+99B0 (馰):  | 
+99B1 (馱): 背負います,馬の負荷 | carry on back,horse load
+99B2 (馲):  | 
+99B5 (馵): 白バック足と馬 | horse with white back legs
+99B9 (馹): 伝馬,リレー馬 | post horse,relay horse
+99BA (馺):  | 
+99BD (馽):  | 
+99BF (馿): 尻,ロバ | ass,donkey
+99C3 (駃): ギャロップ | gallop
+99C9 (駉): 大きい | big
+99D3 (駓): ギャロップ | gallop
+99D4 (駔): 上馬,高貴な馬 | excellent horse,noble steed
+99D9 (駙): 余分な馬,帝国の義理の息子 | extra horse,imperial son-in-law
+99DA (駚):  | 
+99DC (駜): 強い馬 | strong horse
+99DE (駞): キャメル | camel
+99E7 (駧):  | 
+99EA (駪): 群集 | crowd
+99EB (駫):  | 
+99EC (駬): 伝説の迅速な馬の名前 | name of a legendary swift horse
+99F0 (駰): 葦毛 | grey horse
+99F4 (駴): ドラム | drum
+99F5 (駵):  | 
+99F9 (駹): 白い顔をして黒馬 | black horse with a white face
+99FD (駽): グレー | grey
+99FE (駾): 逃げる | run away
+9A02 (騂): 赤,褐色,ベイ,ニート,調和の取れました | red,brown,bay,neat,harmonious
+9A03 (騃): 愚か,愚かな | stupid,foolish
+9A04 (騄): 伝説の迅速な馬の名前 | name of a legendary swift horse
+9A0B (騋): 背の高い（7カイ）馬 | tall (7 chi) horse
+9A0C (騌): 馬\ 'sのたてがみ,剛毛 | horse\'s mane,bristles
+9A10 (騐): 真実へ,満たすため,検討します,審問を保持します | to verity,to fulfill,to examine,to hold an inquest
+9A11 (騑): うま,ラン | horse,run
+9A16 (騖): ギャロップ,約急ぎます,追求します,ラン | gallop,rush about,pursue,run
+9A1E (騞):  | 
+9A20 (騠): うま | horse
+9A22 (騢): ベイ | bay
+9A23 (騣): たてがみ | mane
+9A24 (騤): （馬の）活発な,活発な | (of a horse) lively,vigorous
+9A27 (騧): 日焼け馬 | tan horse
+9A2D (騭): 種馬,推進します | stallion,promote
+9A2E (騮): 有名な馬 | famous horse
+9A33 (騳): ラン,レース | run,race
+9A35 (騵): ベイ | bay
+9A36 (騶): 取り付けられた護衛,新郎 | mounted escort,groom
+9A38 (騸): 弱らせます,宦官 | geld,castrate
+9A47 (驇): 重い馬,なぜならツイストの脚の動くことができない馬,コツコツと進めます | heavy horse,horse unable to move because of twisted leg,plodding
+9A41 (驁): 野生の馬,マスタング,野生 | wild horse,mustang,wild
+9A44 (驄): 青みがかった白色と馬 | horse with a bluish white color
+9A4A (驊): 上馬 | an excellent horse
+9A4B (驋):  | 
+9A4C (驌): 有名な馬の名前 | name of a famous horse
+9A4E (驎):  | 
+9A51 (驑):  | 
+9A54 (驔): 黒馬 | black horse
+9A56 (驖): 黒（馬） | black (horse)
+9A5D (驝):  | 
+9AAA (骪): 曲がった骨 | crooked bones
+9AAC (骬):  | 
+9AAE (骮):  | 
+9AAF (骯): 汚れた | dirty
+9AB2 (骲):  | 
+9AB4 (骴): 腐敗死体 | putrid carcass
+9AB5 (骵):  | 
+9AB6 (骶): 尾骨,背骨,ヒップ | coccyx,backbone,hips
+9AB9 (骹):  | 
+9ABB (骻):  | 
+9ABE (骾): 喉にこだわったオブジェクト,骨の | any object that sticks in throat,bony
+9ABF (骿):  | 
+9AC1 (髁): 大腿骨,股関節の骨,膝蓋骨 | thigh bone,hipbone,kneecap
+9AC3 (髃): 肩の骨 | shoulder bone
+9AC6 (髆): 肩甲骨 | shoulder blade
+9AC8 (髈): 骨盤,股関節の骨,上腕骨 | pelvis,hip-bone,humerus
+9ACE (髎): 股関節の骨 | hip-bone

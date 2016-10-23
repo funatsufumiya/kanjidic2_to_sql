@@ -1,0 +1,100 @@
+93F7 (鏷): プロトアクチニウム（要素） | Protactinium (element)
+93F8 (鏸):  | 
+93FA (鏺):  | 
+93FB (鏻): ホスホニウム（要素）,リン | Phosphonium (element),phosphorus
+93FD (鏽): さび,腐食 | rust,corrode
+9401 (鐁):  | 
+9402 (鐂):  | 
+9404 (鐄): 鐘 | bell
+9408 (鐈):  | 
+9409 (鐉):  | 
+940D (鐍):  | 
+940E (鐎):  | 
+940F (鐏): キャップ | cap
+9415 (鐕):  | 
+9416 (鐖):  | 
+9417 (鐗):  | 
+941F (鐟): チタン（要素） | Titanium (element)
+942E (鐮): 鎌 | sickle
+942F (鐯):  | 
+9431 (鐱):  | 
+9432 (鐲): ブレスレット,腕章,小さな鐘 | bracelet,arm-band,small bell
+9433 (鐳): ドジョウ,ドジョウ属anguillicaudatus,ラジウム（要素） | loach,misgurnus anguillicaudatu,Radium (element)
+9434 (鐴):  | 
+943B (鐻): ドラムスティック | drumstick
+943F (鐿): イッテルビウム（要素） | Ytterbium (element)
+943D (鐽):  | 
+9443 (鑃):  | 
+9445 (鑅):  | 
+9448 (鑈):  | 
+944A (鑊): 大釜,大きな鉄鍋 | cauldron,large iron pot
+944C (鑌): 高品質の鉄 | high quality iron
+9455 (鑕): タングステン（要素）,ウォルフラム | Tungsten (element),Wolfram
+9459 (鑙):  | 
+945C (鑜):  | 
+945F (鑟):  | 
+9461 (鑡):  | 
+9463 (鑣): 馬のビット,手綱,ライド | horse\'s bit,bridle,ride
+9468 (鑨):  | 
+946B (鑫): 名前に使用 | used in names
+946D (鑭): ランタン（要素） | Lanthanum (element)
+946E (鑮):  | 
+946F (鑯):  | 
+9471 (鑱): スペード,こて | spade,trowel
+9472 (鑲): インサート,インレイ,セット,マウント,埋めます,収まる | insert,inlay,set,mount,fill,fit into
+9484 (钄):  | 
+9483 (钃):  | 
+9578 (镸): 長いラジカル（NO。168） | long radical (no. 168)
+9579 (镹):  | 
+957E (镾):  | 
+9584 (閄):  | 
+9588 (閈): 村 | village
+958C (閌): ドア | door
+958D (閍):  | 
+958E (閎): ゲート,バリア,ワイド,広大な,拡大します | gate,barrier,wide,vast,expand
+959D (閝):  | 
+959E (閞):  | 
+959F (閟): 隠す,黙秘します,隠れ家 | hide,keep secret,hideaway
+95A1 (閡): ブロックされました,分離しました,防ぐために | blocked,separated,to prevent
+95A6 (閦): 群集,サンスクリットKSOの音訳,例えば akSobhya | crowd,transliteration of Sanskrit "kSo",e.g. akSobhya
+95A9 (閩): 福建省,川,部族 | Fujian province,river,tribe
+95AB (閫): しきい値,女性の宿舎 | threshold,women\'s quarters
+95AC (閬): ハイドア,高いゲート,高い,ロフト | high door,high gate,high,loft
+95B4 (閴): 静か | quiet
+95B6 (閶): 天国の門,宮殿の正門 | gate of heaven,main gate of palace
+95BA (閺):  | 
+95BD (閽): 門番,ゲート,ドア | gatekeeper,gate,door
+95BF (閿): ウェン翔,河南省 | Wen Xiang,Henan province
+95C6 (闆): ボス,所有者,担当者 | boss,the owner,person in charge
+95C8 (闈): ゲート,ドア,宿舎 | gate,door,living quarters
+95C9 (闉): 湾曲しました,曲がりました,湾曲した壁の囲い | curved,bent,curved wall enclosure
+95CB (闋): 閉じる,シャット,望楼,残り | close,shut,watch-tower,rest
+95D0 (闐): 新疆地域での場所 | place in Xinjiang province
+95D1 (闑): 敷居 | the doorsill
+95D2 (闒): 上部の階のドアや窓 | upper-story door or window
+95D3 (闓): 開いた,穏やかな | open,peaceful
+95D9 (闙):  | 
+95DA (闚): フラッシュ,点滅します,鋼の外観 | flash,flashing,steal look
+95DD (闝):  | 
+95DE (闞): 一目,のぞき,とどろき,うなり声 | glance,peep,roar,growl
+95DF (闟): 平和的に,静かに | peacefully,quietly
+95E0 (闠): 市場のゲート | gate of a market
+95E4 (闤): 市場の周りの壁 | wall around market place
+95E6 (闦):  | 
+961D (阝): 場所,ラジカル左村 -  2ストローク形（なし170。） | place,left village radical - 2 stroke form (no. 170)
+961E (阞): 静脈 | vein
+9622 (阢):  | 
+9624 (阤): 丘 | hill
+9625 (阥):  | 
+9626 (阦):  | 
+962C (阬): ピット,穴,軸 | pit,hole,shaft
+9631 (阱): 落とし穴,トラップ,スネア | pitfall,trap,snare
+9633 (阳): 男性の原則,光,太陽 | "male" principle,light,sun
+9637 (阷):  | 
+9638 (阸): 苦痛,困難 | distress,difficulty
+9639 (阹): ペン,サラウンドへ | pen,to surround
+963A (阺):  | 
+963C (阼): 東のドアや王位を導くステップ | steps leading to the eastern door or throne
+963D (阽):  | 
+9641 (陁): 険しい土手,下り傾斜 | steep bank,declivity
+9652 (陒):  | 

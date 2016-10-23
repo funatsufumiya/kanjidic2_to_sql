@@ -1,0 +1,100 @@
+9BBF (鮿): 干物 | dried fish
+9BC1 (鯁): 魚の骨,正直な,直立 | fish bones,honest,upright
+9BC7 (鯇): 鯉 | carp
+9BC8 (鯈): 魚 | fish
+9BCE (鯎): 日本舞踊 | Japanese dace
+9BD0 (鯐):  | 
+9BD7 (鯗): 干物 | dried fish
+9BD8 (鯘):  | 
+9BDD (鯝): 魚の内臓 | fish guts
+9BDF (鯟):  | 
+9BE5 (鯥):  | 
+9BE7 (鯧): マナガツオ,stromateus argenteus | pomfret,stromateoides argenteus
+9BEA (鯪): 鯉 | carp
+9BEB (鯫): 雑魚,小さい,ミノウ | small fish,small,minnow
+9BEF (鯯):  | 
+9BF3 (鯳):  | 
+9BF7 (鯷): アンチョビ | anchovy
+9BF8 (鯸): フグ | blowfish
+9BF9 (鯹):  | 
+9BFA (鯺): フグ | blowfish
+9BFD (鯽): キンギョ,フナ,サーフパーチ | carassius auratus,crucian carp,surf perch
+9BFF (鯿): ブリーム | bream
+9C00 (鰀):  | 
+9C02 (鰂): コウイカ | cuttlefish
+9C0B (鰋): sheat | sheat
+9C0F (鰏):  | 
+9C11 (鰑):  | 
+9C16 (鰖):  | 
+9C18 (鰘):  | 
+9C19 (鰙):  | 
+9C1A (鰚):  | 
+9C1C (鰜): ビッグ口のカレイ | big-mouthed flounder
+9C1E (鰞): イカ | squid
+9C22 (鰢):  | 
+9C23 (鰣): リーブス\ 'シャッド,hilsaニシン | Reeves\' shad,hilsa herring
+9C26 (鰦):  | 
+9C27 (鰧):  | 
+9C28 (鰨): 唯一 | sole
+9C29 (鰩): オウムガイ,線 | the nautilus,the ray
+9C2A (鰪):  | 
+9C31 (鰱): ハクレン,ハクレン属 | silver carp,hypophthalmiathys
+9C35 (鰵): タラ | codfish
+9C36 (鰶):  | 
+9C37 (鰷): ミノウ | minnow
+9C3D (鰽): ニシン | herring
+9C41 (鱁):  | 
+9C43 (鱃):  | 
+9C44 (鱄): アンチョビ | anchovy
+9C45 (鱅): テンチの種類 | kind of tench
+9C49 (鱉): カメ | turtle
+9C4A (鱊):  | 
+9C4E (鱎):  | 
+9C4F (鱏): 線,スケート | ray,skate
+9C50 (鱐): 干物 | dried fish
+9C53 (鱓): ウツボ | Moray eel
+9C54 (鱔): ウナギ | eel
+9C56 (鱖): ニシキテグリ | mandarin fish
+9C58 (鱘): チョウザメ | sturgeon
+9C5B (鱛): 魚の名前 | fish name
+9C5D (鱝):  | 
+9C5E (鱞):  | 
+9C5F (鱟): タラバガニ | king crab
+9C63 (鱣): チョウザメ | sturgeon
+9C69 (鱩):  | 
+9C6A (鱪):  | 
+9C5C (鱜):  | 
+9C6B (鱫):  | 
+9C68 (鱨): タラ | codfish
+9C6E (鱮): ブリーム,ミノウ | bream,minnow
+9C70 (鱰):  | 
+9C72 (鱲):  | 
+9C75 (鱵):  | 
+9C77 (鱷): クロコダイル,アリゲーター | crocodile,alligator
+9C7B (鱻): 新鮮な,新しい,おいしい,レア,少数 | fresh,new,delicious,rare,few
+9CE6 (鳦): 飲み込む | swallow
+9CF2 (鳲): キジバト,カッコウ | turtledove,cuckoo
+9CF7 (鳷): 鳥 | bird
+9CF9 (鳹):  | 
+9D0B (鴋):  | 
+9D02 (鴂): テーラー鳥作業鳥 | the tailor-bird the working bird
+9D11 (鴑):  | 
+9D17 (鴗):  | 
+9D18 (鴘):  | 
+9D1C (鴜):  | 
+9D1D (鴝): ミナ | mynah
+9D1E (鴞): フクロウ | owl
+9D2F (鴯): 飲み込む | swallow
+9D30 (鴰): カラス | the crow
+9D32 (鴲):  | 
+9D33 (鴳): ウズラ | quail
+9D34 (鴴):  | 
+9D3A (鴺): ペリカン | the pelican
+9D3C (鴼):  | 
+9D45 (鵅):  | 
+9D3D (鴽): ウズラに似た鳥の種 | species of bird resembling quail
+9D42 (鵂): ミミズク,scopsキネンシス,病気の前兆の鳥 | horned owl,scops chinensis,bird of ill omen
+9D43 (鵃):  | 
+9D47 (鵇):  | 
+9D4A (鵊):  | 
+9D53 (鵓): ハトの種 | species of pigeon

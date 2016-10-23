@@ -1,0 +1,100 @@
+7BB2 (箲):  | 
+7BB5 (箵):  | 
+7BB6 (箶):  | 
+7BBA (箺):  | 
+7BBB (箻):  | 
+7BBC (箼):  | 
+7BBD (箽):  | 
+7BC2 (篂):  | 
+7BC5 (篅):  | 
+7BC8 (篈):  | 
+7BCA (篊):  | 
+7BD4 (篔): 背の高い竹 | tall bamboo
+7BD6 (篖):  | 
+7BD7 (篗):  | 
+7BD9 (篙): ポール使用パントボート | pole used punt boat
+7BDA (篚): 短い足を持つ円形または楕円形のカバーされ、バスケット | round or oval covered-baskets with short legs
+7BDB (篛): 竹の植物のクチクラ | cuticle of bamboo plant
+7BE8 (篨): 粗竹マット,醜い | coarse bamboo mat,ugly
+7BEA (篪): 7穴と尺八 | bamboo flute with seven holes
+7BF2 (篲): ほうきの柄 | broomstick
+7BF4 (篴): 竹笛,ホイッスル | bamboo flute,whistle
+7BF5 (篵):  | 
+7BF8 (篸):  | 
+7BF9 (篹): 奪い取ること,集める,編集します,ざる | to rob,to collect,to edit,bamboo basket
+7BFA (篺):  | 
+7BFC (篼): セダン | sedan
+7BFE (篾): 竹スプリントまたはスラット | bamboo splints or slats
+7C01 (簁): ふるい,取捨選択します,歪み | sieve,to sift,to strain
+7C02 (簂):  | 
+7C03 (簃): サイドルーム | side room
+7C04 (簄):  | 
+7C06 (簆): リード | reed
+7C09 (簉): 副,下位,側室 | deputy,subordinate,concubine
+7C0B (簋): 犠牲で使用される穀物を保持するための竹の正方形のバスケット,ごちそう | square basket of bamboo for holding grain used at sacrifices,feast
+7C0C (簌): 落下（花びらの） | (of flower petals) falling
+7C0E (簎):  | 
+7C0F (簏): ボックス,バスケット | box,basket
+7C19 (簙):  | 
+7C1B (簛): ふるい,取捨選択します,歪み | sieve,to sift,to strain
+7C20 (簠): 古代の容器 | an ancient vessel
+7C25 (簥):  | 
+7C26 (簦): 長いハンドルを持つ大規模な傘,露店に使用 | large umbrella with a long handle,used for street stalls
+7C28 (簨): ドラムのための鐘をぶら下げためのビーム | beam for hanging bells or drums
+7C2C (簬):  | 
+7C31 (簱):  | 
+7C33 (簳): 矢印のシャフト | shaft of an arrow
+7C34 (簴):  | 
+7C36 (簶):  | 
+7C39 (簹): 背の高い竹 | tall bamboo
+7C3A (簺):  | 
+7C46 (籆):  | 
+7C4A (籊): 長いです | long
+7C55 (籕):  | 
+7C51 (籑): フィードへ,料理を提供します,dainties | to feed,to provide for delicacies,dainties
+7C52 (籒):  | 
+7C53 (籓):  | 
+7C59 (籙): 本 | book
+7C5A (籚): 竹,槍の柄 | bamboo,the handle of the spear
+7C5B (籛): 姓 | surname
+7C5C (籜): 竹の鞘,筍 | bamboo sheath,bamboo shoots
+7C5D (籝): 箸を保持するためのチューブ | tube to hold chopsticks
+7C5E (籞):  | 
+7C61 (籡):  | 
+7C63 (籣): ケース弓 | bow case
+7C67 (籧): 粗製の竹マット | crude bamboo mat
+7C69 (籩): 食品用の竹のコンテナ | bamboo container for food
+7C6D (籭):  | 
+7C6E (籮): ざる | bamboo basket
+7C70 (籰):  | 
+7C72 (籲): アピール,要求,請います | appeal,request,implore
+7C79 (籹): ケーキ | Cake
+7C7C (籼): 非もち米長粒米 | non-glutinous long grain rice
+7C7D (籽): シード,斑点,ピット,石 | seed,pip,pit,stone
+7C86 (粆):  | 
+7C87 (粇):  | 
+7C8F (粏):  | 
+7C94 (粔): リングにねじれた米粉から作られたケーキ | cakes made from rice flour twisted into rings
+7C9E (粞):  | 
+7CA0 (粠):  | 
+7CA6 (粦): リン | phosphorus
+7CB0 (粰):  | 
+7CB6 (粶):  | 
+7CB7 (粷):  | 
+7CBA (粺): 白米や雑穀 | polished rice or millet
+7CBB (粻): 条文 | provisions
+7CBC (粼):  | 
+7CBF (粿): おもち | rice cake
+7CC4 (糄):  | 
+7CC7 (糇): 乾燥した米,乾物 | dried rice,dry provisions
+7CC8 (糈): 犠牲米,食料,支払う | sacrificial rice,rations,pay
+7CC9 (糉): もち米で作られた餃子 | dumpling made of glutinous rice
+7CCD (糍): 粉砕し、ご飯で作られた食品 | food made of crushed and cooked rice
+7CCF (糏): 籾摺り後に残った米粒 | rice grits left after hulling
+7CD3 (糓): 粒,トウモロコシ | grain,corn
+7CD4 (糔): ジュース | juice
+7CD5 (糕): ケーキ,ペストリー | cakes,pastry
+7CD7 (糗): 乾いた小麦や米,壊れた穀物 | parched wheat or rice,broken grain
+7CD9 (糙): 粗い,厳しいです,ラフ,玄米 | coarse,harsh,rough,unpolished rice
+7CDA (糚):  | 
+7CDD (糝): 散乱（米粒）,ミックス | scattered (grains of rice),mixed

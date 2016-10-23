@@ -1,0 +1,100 @@
+7517 (甗): 二つの部分での土器 | earthenware vessel in two parts
+7520 (甠):  | 
+7521 (甡): 豊富な,多数の,群集 | abundant,numerous,crowd
+7524 (甤): 垂れ葉,フリンジソフト,繊細な | drooping leaves,fringe soft,delicate
+7527 (甧):  | 
+7529 (甩): 捨てる,捨てます | throw away,discard
+752A (甪):  | 
+752F (甯): 穏やかな | peaceful
+7536 (甶):  | 
+7539 (甹):  | 
+753D (甽): フィールド間のドレイン,かんがい | drain between fields,irrigation
+753E (甾): 一年間栽培されている地上,悪の,災害 | ground that has been under cultivation for one year,evil,calamity
+753F (甿): 農業人口 | farming population
+7540 (畀): 与えるために | to give
+7543 (畃):  | 
+7547 (畇): 土地 | land
+7548 (畈):  | 
+754E (畎): フィールド間のドレイン,かんがい | drain between fields,irrigation
+7550 (畐): 埋める,匹 | to fill,roll of cloth
+7552 (畒): 中国の土地対策,フィールド | Chinese land measure,fields
+7557 (畗):  | 
+755E (畞):  | 
+755F (畟): プラウ | plough
+7561 (畡):  | 
+756F (畯): 素朴な,原油 | rustic,crude
+7571 (畱): 拘留します,もてなす,保つ,によって置くために | to detain,to entertain,to keep,to put by
+7579 (畹):  | 
+757A (畺): 境界,境界 | boundary,border
+757B (畻):  | 
+757C (畼):  | 
+757D (畽): 接地 | ground
+757E (畾): 堤防で割ったフィールド | fields divided by dikes
+7581 (疁):  | 
+7585 (疅):  | 
+7590 (疐): 秋,つまずきます,つまずきます,妨げ | fall,stumble,falter,hindered
+7592 (疒): 末尾の病気,原文ラジカル（NO。104） | trailing sickness,sick radical (no. 104)
+7593 (疓):  | 
+7595 (疕): ヘッドただれ | head sores
+7599 (疙): にきび,痛いです,沸騰,いぼ,膿疱 | pimple,sore,boil,wart,pustule
+759C (疜):  | 
+75A2 (疢): 手足の痛み,筋肉の痛み | aching of limbs,muscular pains
+75A4 (疤): 傷跡,瘢痕,母斑 | scar,cicatrix,birth-mark
+75B4 (疴): 病気,病気,疾患,痛み | illness,sickness,disease,pain
+75BA (疺):  | 
+75BF (疿): あせも,発疹 | prickly heat,rash
+75C0 (痀): しゃがみます,せむしの人 | crouch,hunchback
+75C1 (痁): 慢性マラリア | chronic malaria
+75C4 (痄): 退廃的な腫れやただれ | scrofulous swellings and sores
+75C6 (痆):  | 
+75CC (痌): 痛み,痛みであること,痛いです | ache,be in pain,painful
+75CE (痎):  | 
+75CF (痏): あざ,挫傷 | bruise,contusion
+75D7 (痗): 病気で | ill
+75DC (痜): うろこ状のはげ頭 | scabby bald head
+75DF (痟):  | 
+75E0 (痠): 手足の痛み,筋肉の痛み | aching of limbs,muscular pains
+75E1 (痡): 疾患,病気 | disease,ailment
+75E4 (痤): リンパ腺の腫れ | swelling of the lymph glands
+75E7 (痧): コレラ,疝痛 | cholera,colic
+75EC (痬):  | 
+75EE (痮): 腫れ腹,水腫の,膨潤します,膨張しました | swelled belly,dropsical,to swell,inflated
+75EF (痯): 病気 | sick
+75F1 (痱): あせも,あせも,潰瘍 | heat rash,prickly heat,ulcers
+75F9 (痹): 麻痺,痺れ | paralysis,numbness
+7600 (瘀): 血腫,挫傷,溢出 | hematoma,contusion,extravasated
+7602 (瘂): ダム | dumb
+7603 (瘃): 寒さから傷 | sores from cold
+7604 (瘄):  | 
+7607 (瘇):  | 
+7608 (瘈): 長引く発熱,慢性マラリア | prolonged fever,chronic malaria
+760A (瘊): いぼ,にきび | warts,pimples
+760C (瘌): 厳しいです,有毒,危険な,かゆみおよび他の皮膚疾患 | severe,poisonous,dangerous,itch and other skin diseases
+760F (瘏): 病気で | ill
+7612 (瘒):  | 
+7613 (瘓): 麻痺,手足のしびれ | paralysis,numbness of limbs
+7615 (瘕): 喘息,腸の疾患 | asthma,disease of the bowels
+7616 (瘖): ダム,ミュート,できない話します | dumb,mute,unable speak
+7619 (瘙): かゆみ | itch
+761B (瘛):  | 
+761C (瘜): polypus | polypus
+761D (瘝): 病気,痛み,ネグレクト,無用な | illness,pain,neglect,useless
+761E (瘞): 埋め込む,インター | bury,inter
+7623 (瘣):  | 
+7625 (瘥): あらゆる病気から回復します,流行 | to recover from any disease,an epidemic
+7626 (瘦): 薄いです,やつれました,リーン,貧弱 | thin,emaciated,lean,meager
+7629 (瘩): にきび | pimples
+762D (瘭): ひょう疽 | whitlow
+7632 (瘲): 幼い子供のけいれんやけいれん,消化不良に起因します | spasms or convulsions in young children,caused by indigestion
+7633 (瘳): 癒されます,改革へ | to be healed,to reform
+7635 (瘵): 消耗性疾患 | wasting disease
+7638 (瘸): 跛行,手の麻痺,脚 | lameness,paralysis of hands,leg
+7639 (瘹):  | 
+763A (瘺): 痔瘻,腫瘍,痛いです | anal fistula,tumor,sore
+763C (瘼): 病気,苦痛 | sickness,distress
+764A (癊): 心の病気 | disease of the heart
+7640 (癀): 黄疸 | jaundice
+7641 (癁):  | 
+7643 (癃): 弱点,虚弱,尿の貯留 | weakness,infirmity,retention of urine
+7644 (癄):  | 
+7645 (癅):  | 

@@ -1,0 +1,100 @@
+9EED (黭):  | 
+9EEE (黮): 黒,ダーク,不明瞭な,プライベート | black,dark,unclear,private
+9EF0 (黰): 若い女の子の髪型 | young girl\'s hair style
+9EF1 (黱):  | 
+9EF2 (黲): グレー、ブラック | grey black
+9EF5 (黵):  | 
+9EF8 (黸):  | 
+9EFF (黿): 大きな亀,ウミガメ | large turtle,sea turtle
+9F02 (鼂): ウミガメの一種,姓 | kind of sea turtle,surname
+9F03 (鼃): 食用水カエル | the edible water-frog
+9F09 (鼉): 大型爬虫類,水トカゲ | large reptile,water lizard
+9F0F (鼏): 三脚の大釜のカバー | cover of tripod cauldron
+9F10 (鼐): 香三脚 | incense tripod
+9F11 (鼑):  | 
+9F12 (鼒): 小さなと大きな三脚大釜 | large tripod cauldron with small
+9F14 (鼔): ドラム,ドラムへ,そこから来ている：ラウズへ,膨潤します,膨らみへ | drum,to drum, from whence comes: to rouse,to swell,to bulge
+9F16 (鼖): ドラム | drum
+9F17 (鼗): ノブと小さな回転ドラム | small revolving drum with knobs
+9F19 (鼙): 馬に乗って運ばドラム | drum carried on horseback
+9F1A (鼚): ドラミング | drumming
+9F1B (鼛): ドラム | drum
+9F1F (鼟):  | 
+9F22 (鼢): モルの様々な | variety of mole
+9F26 (鼦):  | 
+9F2A (鼪): イタチ | weasel
+9F2B (鼫): マーモット,リス | marmot,squirrel
+9F2F (鼯): ムササビ | flying squirrel
+9F31 (鼱):  | 
+9F32 (鼲):  | 
+9F34 (鼴): 食虫げっ歯類の種類 | kind of insectivorous rodent
+9F37 (鼷): マウス | mouse
+9F39 (鼹): 食虫げっ歯類の種類,モル | kind of insectivorous rodent,mole
+9F3A (鼺):  | 
+9F3C (鼼):  | 
+9F3D (鼽): 詰まった鼻 | clogged nose
+9F3F (鼿):  | 
+9F41 (齁): 大声でいびきをかきます,非常に,極めて | snore loudly,very,extremely
+9F43 (齃):  | 
+9F44 (齄): 鼻の上に赤いただれ | red sores on nose
+9F45 (齅): 香り,匂いへ | smell,to smell
+9F46 (齆): 鼻詰まり | stuffed nose
+9F47 (齇):  | 
+9F53 (齓):  | 
+9F55 (齕): かじります,一口,ニブル | gnaw,bite,nibble
+9F56 (齖):  | 
+9F57 (齗): 歯茎（歯の）,紛争へ | gums (of the teeth),to dispute
+9F58 (齘):  | 
+9F5A (齚): かむため | to chew
+9F5D (齝): 反すうをかみます | chew the cud
+9F5E (齞): 歯を表示します | to display the teeth
+9F68 (齨):  | 
+9F69 (齩): かむため,かむ | to chew,to bite
+9F6D (齭): 歯痛 | tooth-ache
+9F6E (齮): 一口 | bite
+9F6F (齯): 古い時代に成長している歯 | teeth grown in old age
+9F70 (齰): かむ | to bite
+9F71 (齱):  | 
+9F73 (齳): 歯がありません | toothless
+9F75 (齵): 不均一（歯） | uneven (teeth)
+9F7A (齺):  | 
+9F7D (齽):  | 
+9F8F (龏):  | 
+9F90 (龐): 無秩序に,乱雑な,巨大,大きい | disorderly,messy,huge,big
+9F91 (龑): 高いと明るいです | high and bright
+9F92 (龒):  | 
+9F94 (龔): 与える,現在,参照の | give,present,referential
+9F96 (龖): 竜の飛行,移動龍 | flight of a dragon,dragons moving
+9F97 (龗):  | 
+9F9E (龞): カメ | turtle
+9FA1 (龡): 爆破します,息を吐き出します | to blow,exhale
+9FA2 (龢): 調和しました,穏やかな,穏やかな | in harmony,calm,peaceful
+9FA3 (龣):  | 
+9FA5 (龥): 頼みます,助けを訴えます | beg,appeal for help
+2000B (𠀋):  | 
+20089 (𠂉):  | 
+200A2 (𠂢): ブランチへ | to branch
+200A4 (𠂤): 最大保存します,積み重なるします | to store up,to pile up
+201A2 (𠆢):  | 
+20213 (𠈓):  | 
+2032B (𠌫):  | 
+20371 (𠍱):  | 
+20381 (𠎁):  | 
+203F9 (𠏹):  | 
+2044A (𠑊):  | 
+20509 (𠔉):  | 
+205D6 (𠗖):  | 
+20628 (𠘨):  | 
+2074F (𠝏):  | 
+20807 (𠠇):  | 
+2083A (𠠺):  | 
+208B9 (𠢹):  | 
+2097C (𠥼):  | 
+2099D (𠦝):  | 
+20AD3 (𠫓):  | 
+20B1D (𠬝):  | 
+20B9F (𠮟):  | 
+20D45 (𠵅):  | 
+20DE1 (𠷡):  | 
+20E64 (𠹤):  | 
+20E6D (𠹭):  | 

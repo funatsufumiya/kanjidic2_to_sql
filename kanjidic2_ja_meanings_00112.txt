@@ -1,0 +1,100 @@
+9AD0 (髐):  | 
+9AD2 (髒): 汚れた,当社,脂肪 | dirty,firm,fat
+9AD5 (髕): 膝蓋骨 | kneecap
+9AD6 (髖): 股関節の骨,ヒップ | hipbone,hip
+9AD7 (髗): 頭蓋骨,額 | the skull,the forehead
+9ADB (髛):  | 
+9ADC (髜):  | 
+9AE0 (髠): 罰として頭を剃ります,プルーン | shave head as punishment,prune
+9AE4 (髤):  | 
+9AE5 (髥): 髭,口ひげ | beard,mustache
+9AE7 (髧): 長い髪 | long hair
+9AE9 (髩):  | 
+9AEC (髬):  | 
+9AF2 (髲): かつら | wig
+9AF3 (髳): 状態 | state
+9AF5 (髵): 髭,動物の顎の毛 | whiskers,bristles on the jaws of an animal
+9AF9 (髹):  | 
+9AFA (髺): 髪は乱れ,喪服のように | the hair disheveled,as in mourning
+9AFD (髽): 髪をドレスアップします | to dress the hair
+9AFF (髿):  | 
+9B00 (鬀): 剃るします | to shave
+9B01 (鬁): 黄癬 | favus
+9B02 (鬂): 寺院の毛 | the hair on the temples
+9B03 (鬃): たてがみ,首の剛毛 | mane,neck bristles
+9B04 (鬄):  | 
+9B05 (鬅): ボサボサの髪,緩いです,たなびく髪の毛 | unkempt hair,loose,flowing hair
+9B08 (鬈): 髪毛の微成長 | fine growth of hair curly hair
+9B09 (鬉):  | 
+9B0B (鬋): 前髪,前髪 | forelock,bangs
+9B0C (鬌):  | 
+9B0D (鬍): 髭,口ひげ,髭 | beard,mustache,whiskers
+9B0E (鬎): 黄癬,疥癬 | favus,scabies
+9B10 (鬐): 馬\ 'sのたてがみ,フィン | horse\'s mane,fins
+9B12 (鬒): 黒,光沢のある髪 | black,glossy hair
+9B16 (鬖): 乱れた髪 | wild hair
+9B19 (鬙): もつれた髪 | matted hair
+9B1B (鬛):  | 
+9B1C (鬜): はげ行きます | to go bald
+9B20 (鬠): トップ結び目を作るために | to make a top knot
+9B26 (鬦): 闘争,戦い,競争します,争います | struggle,fight,compete,contend
+9B2B (鬫):  | 
+9B2D (鬭): 闘争,戦い,競争します,争います | struggle,fight,compete,contend
+9B33 (鬳):  | 
+9B34 (鬴): ポット | pot
+9B35 (鬵): 大きな鉄鍋,大釜 | big iron pot,cauldron
+9B37 (鬷): ポット | pot
+9B39 (鬹):  | 
+9B3A (鬺):  | 
+9B3D (鬽):  | 
+9B48 (魈): いたずら好きな,山の中に宿る1足の精神 | mischievous,one footed spirit that dwells in the mountains
+9B4B (魋): くま | bear
+9B4C (魌):  | 
+9B55 (魕):  | 
+9B56 (魖):  | 
+9B57 (魗):  | 
+9B5B (魛): ボラ | the mullet
+9B5E (魞): 簗 | fish trap
+9B61 (魡):  | 
+9B63 (魣): バラクーダ | barracuda
+9B65 (魥):  | 
+9B66 (魦): サメの家族,いくつかの線やスケートなど、 | shark family,including some rays and skates
+9B68 (魨): フグ,河豚,バーミキュラをspheroides | blowfish,globefish,spheroides vermicular
+9B6A (魪):  | 
+9B6B (魫): 魚の若いです | the young of fish
+9B6C (魬): ソールやカレイ | sole or flounder
+9B6D (魭):  | 
+9B6E (魮):  | 
+9B73 (魳): バラクーダ | barracuda
+9B75 (魵): エビ | shrimp
+9B77 (魷): コウイカ | cuttlefish
+9B78 (魸):  | 
+9B79 (魹):  | 
+9B7F (魿):  | 
+9B80 (鮀): ヘビの魚 | snakefish
+9B84 (鮄):  | 
+9B85 (鮅):  | 
+9B86 (鮆): 魚 | fish
+9B87 (鮇):  | 
+9B89 (鮉): ブリーム | bream
+9B8A (鮊):  | 
+9B8B (鮋):  | 
+9B8D (鮍):  | 
+9B8F (鮏):  | 
+9B90 (鮐): フグ,河豚,tetraodon | blowfish,globefish,tetraodon
+9B94 (鮔):  | 
+9B9A (鮚): アサリ,カキ | clam,oyster
+9B9D (鮝): 干物 | dried fish
+9B9E (鮞): 卵,白子,魚の卵 | roe,milt,fish eggs
+9BA6 (鮦): ヘビの魚 | snakefish
+9BA7 (鮧): sheat魚 | the sheat fish
+9BA9 (鮩):  | 
+9BAC (鮬):  | 
+9BB0 (鮰): チョウザメの小さい種類,長江で発見 | small kind of sturgeon, found in the Yangtze
+9BB1 (鮱):  | 
+9BB2 (鮲):  | 
+9BB7 (鮷):  | 
+9BB8 (鮸):  | 
+9BBB (鮻):  | 
+9BBC (鮼):  | 
+9BBE (鮾):  | 

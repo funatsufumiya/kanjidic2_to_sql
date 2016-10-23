@@ -1,0 +1,100 @@
+9D54 (鵔):  | 
+9D5F (鵟): ノスリ | buzzard
+9D63 (鵣):  | 
+9D62 (鵢):  | 
+9D65 (鵥):  | 
+9D69 (鵩): フクロウのような鳥,ノスリ | owl-like bird,buzzard
+9D6A (鵪): ウズラ | quail
+9D6B (鵫): キジ | pheasant
+9D70 (鵰): 鷲 | eagle
+9D76 (鵶):  | 
+9D77 (鵷): 同僚 | co-worker
+9D7B (鵻): 鳩 | pigeon
+9D7C (鵼):  | 
+9D7E (鵾): クレーンに似た鳥 | bird resembling the crane
+9D83 (鶃): タカ | hawk
+9D84 (鶄):  | 
+9D86 (鶆):  | 
+9D8A (鶊): コウライウグイス | oriole
+9D8D (鶍): イスカ | crossbill
+9D8E (鶎):  | 
+9D92 (鶒):  | 
+9D93 (鶓):  | 
+9D95 (鶕):  | 
+9D96 (鶖): 裸の頭を持つ大規模な水鳥 | large waterfowl with naked head
+9D97 (鶗): 鷹の種類 | kind of hawk
+9D98 (鶘): ペリカン | pelican
+9DA1 (鶡): イスカ,ナイチンゲールの種 | crossbill,species of nightingale
+9DAA (鶪):  | 
+9DAC (鶬): コウライウグイス | oriole
+9DAE (鶮):  | 
+9DB1 (鶱): 舞い上がります | soar
+9DB5 (鶵): ひよこ,駆け出し,幼児,幼児 | chick,fledging,infant,toddler
+9DB9 (鶹): フクロウ | the owl
+9DBC (鶼): 素晴らしい神話上の鳥 | fabulous mythical bird
+9DBF (鶿): 鵜 | cormorant
+9DC3 (鷃): ウズラ | quail
+9DC7 (鷇): 雛,fledglings | chicks,fledglings
+9DC9 (鷉):  | 
+9DCA (鷊): キジ | pheasant
+9DD4 (鷔):  | 
+9DD5 (鷕): コール | call
+9DD6 (鷖): 鴎 | seagull
+9DD7 (鷗): 鴎,アジサシ | seagull,tern
+9DDA (鷚): anthus,ヒバリ | anthus,skylark
+9DDE (鷞): ターコイズカワセミ | the turquoise kingfisher
+9DDF (鷟): フェニックス | phoenix
+9DE0 (鷠):  | 
+9DE5 (鷥): 白鷺 | the egret
+9DE7 (鷧): 鵜 | cormorant
+9DE9 (鷩): キジ | pheasant
+9DEB (鷫): ターコイズカワセミ | turquoise kingfisher
+9DEE (鷮):  | 
+9DF0 (鷰):  | 
+9DF3 (鷳): ハッカン,キジ属nycth | silver pheasant,phasianus nycth
+9DF4 (鷴): 5年生の市民の職員が着用銀キジバッジ | silver pheasant badge worn by civil officials of the 5th grade
+9DFE (鷾): 飲み込む | swallow
+9E0A (鸊):  | 
+9E02 (鸂): 水の鳥の種類 | kind of water bird
+9E07 (鸇): 獲物の鳥の種類,タカ | kind of bird of prey,hawk
+9E0E (鸎): マンゴー、鳥,中国オリオール | the mango-bird,the Chinese oriole
+9E10 (鸐):  | 
+9E11 (鸑): 赤と大きな水鳥の種類 | kind of large waterfowl with red
+9E12 (鸒): 東のカラス | the eastern jackdaw
+9E15 (鸕): 鵜 | cormorant
+9E16 (鸖):  | 
+9E19 (鸙):  | 
+9E1C (鸜): 九官鳥の種 | species of mynah
+9E1D (鸝): 中国オリオール | Chinese oriole
+9E7A (鹺): 塩辛いです,塩 | salty,salt
+9E7B (鹻): ナトロンのナトリウムの不純な炭酸 | impure carbonate of sodium of natron
+9E7C (鹼): アルカリ性,アルカリ,あきます,塩 | alkaline,alkali,lye,salt
+9E80 (麀): 雌鹿,雌 | female deer,doe
+9E82 (麂): 鹿の種 | species of deer
+9E83 (麃): 迄,プラウ | till,plow
+9E84 (麄): 粗い,ラフ,無礼な | coarse,rough,rude
+9E85 (麅): N.中国で見つかった小さな斑点鹿 | small spotted deer found in N. China
+9E87 (麇): 角のない鹿の総称,集める,団結します | general name for the hornless deer,to collect,to band together
+9E8E (麎):  | 
+9E8F (麏):  | 
+9E96 (麖):  | 
+9E98 (麘): 香り | scent
+9E9B (麛): 子鹿 | fawn
+9E9E (麞): ローバック,モスコス顎トイレ | roebuck,moschus chinloo
+9EA4 (麤): ラフ,粗い,大きい | rough,coarse,big
+9EA8 (麨):  | 
+9EAC (麬):  | 
+9EAE (麮): ポリッジ | porridge
+9EAF (麯): 酵母,パン種 | yeast,leaven
+9EB0 (麰): 大麦 | barley
+9EB3 (麳):  | 
+9EB4 (麴): 酵母,パン種,姓 | yeast,leaven,surname
+9EB5 (麵): フラワー,パン生地,麺 | flour,dough,noodles
+9EC6 (黆):  | 
+9EC8 (黈): 黄,増強,増加する | yellow,augment,increase
+9ECB (黋):  | 
+9ED5 (黕): 赤 | red
+9EDF (黟): 黒と輝きます,黒檀 | black and shining,ebony
+9EE4 (黤): ブルーブラック | blue-black
+9EE7 (黧): ダーク,黄ばんだ色 | dark, sallow colour
+9EEC (黬):  | 

@@ -1,0 +1,100 @@
+9654 (陔): ステップ,テラス,グレード,レッジ | step,terrace,grade,ledge
+9656 (陖):  | 
+9657 (陗): 急な丘,険しいです | steep hill,precipitous
+9658 (陘): 汚します,峠,渓谷 | defile,mountain pass,gorge
+9661 (陡): 急な,傾斜しました,突然,突然 | steep,sloping,abruptly,sudden
+966E (陮):  | 
+9674 (陴): 街の壁に欄干 | parapet on a city wall
+967B (陻): 小さな丘,マウンド,埋め込む,ダム | small hill,mound,bury,dam
+967C (陼): 小島 | islet
+967E (陾): ファイル内の | in file
+967F (陿):  | 
+9681 (隁):  | 
+9682 (隂): いかがわしいです,秘密,ダーク,神秘的な,コールド,自然の中で女性原理の負 | shady,secret,dark,mysterious,cold,the negative of female principle in nature
+9683 (隃): 超えます,山西省での状態 | to exceed,state in Shanxi province
+9684 (隄): 堤防,堤防 | dike,embankment
+9689 (隉): 障害で,国家の危険な状態 | in disorder,dangerous condition of the State
+9691 (隑):  | 
+9696 (隖): 塹壕,バンク,低い壁 | entrenchment,bank,low wall
+969A (隚):  | 
+969D (隝):  | 
+969F (隟):  | 
+96A4 (隤): 遺跡に落ちます,崩壊します | to fall in ruins,to collapse
+96A5 (隥):  | 
+96A6 (隦):  | 
+96A9 (隩): 深遠,微妙,暖かいです,阻害 | profound,subtle,warm,inhabited
+96AE (隮): 立ち上がるします,虹,落下します | to rise up,rainbow,to fall
+96AF (隯):  | 
+96B3 (隳): 破壊する,打倒へ | to destroy,to overthrow
+96BA (隺): 鳥の飛行,高い野心 | bird flying,high ambition
+96CA (雊): 男性のキジのカラス | the crow of a male pheasant
+96D2 (雒): 白いたてがみのある黒い馬 | black horse with white mane
+5DB2 (嶲): 四川省の旧市街の名前,カッコウ,ホイールの回転 | name of an old town in Sichuan,cuckoo,revolution of a wheel
+96D8 (雘): 赤い土から作られた染料,黄土 | dye made from red soil,ochre
+96DA (雚): 鷺,猪口 | heron,small cup
+96DD (雝): 湿地,プール,調和の取れました | marsh,pool,harmonious
+96DE (雞): 鶏,家禽 | chickens,domestic fowl
+96DF (雟): スズメ,回転します,地名 | sparrow,revolve,place name
+96E9 (雩): 雨のために犠牲を提供しています | offer sacrifice for rain
+96EF (雯): 雲パターン,雲の着色 | cloud patterns,coloring of cloud
+96F1 (雱): 重く雪 | snowing heavily
+96FA (雺):  | 
+9702 (霂): 細かい雨,霧雨 | fine rain,drizzle
+9703 (霃): 長く続けて雨 | long continued rains
+9705 (霅): サンダー | thunder
+9709 (霉): うどん粉病,型,かびの生えました,かびの生えました | mildew,mold,moldy,mildewed
+971A (霚):  | 
+971B (霛):  | 
+971D (霝): 雨の滴,滴に落ちます | drops of rain,to fall in drops
+9721 (霡): 小雨の雨,（使用図。好意の）ソークします | drizzling rain,to soak (used fig. of favours)
+9722 (霢): ほこり | dust
+9723 (霣): 秋 | fall
+9728 (霨): 曇り | clouding
+9731 (霱): 雲 | cloud
+9733 (霳):  | 
+9741 (靁): 厚いです,強い | thick,strong
+9743 (靃):  | 
+974A (靊):  | 
+974E (靎):  | 
+974F (靏):  | 
+9755 (靕):  | 
+9757 (靗):  | 
+9758 (靘):  | 
+975A (靚): 化粧顔,オーナメント,静か | make up face,ornament,quiet
+975B (靛): インジゴ,任意の青（植物）染料 | indigo,any blue (plant) dye
+9763 (靣):  | 
+9767 (靧): 洗顔 | wash face
+976A (靪): しくじります,パッチへ | to cobble,to patch
+976E (靮): 手綱 | bridle
+9773 (靳): 襟の下で観賞彩ります | ornamental trappings under collar
+9776 (靶): ターゲット,戦車上の泥よけ | target,splashboard on chariot
+9777 (靷): 時間を接続革ベルト | the leather belts that connect h
+9778 (靸): 子供の靴,スリッパ | child\'s shoes,slippers
+977B (靻):  | 
+977D (靽):  | 
+977F (靿): ブーツの脚 | the leg of a boot
+9780 (鞀): ドラム | drum
+9789 (鞉): ドラム | drum
+9795 (鞕):  | 
+9796 (鞖):  | 
+9797 (鞗): 手綱 | reins
+9799 (鞙): 罰金 | fine
+979A (鞚): 手綱 | bridle
+979E (鞞): シース | sheath
+979F (鞟): 肌 | skin
+97A2 (鞢):  | 
+97AC (鞬): 馬に乗って矢筒,格納 | quiver on a horse,store
+97AE (鞮): 革靴 | leather shoes
+97B1 (鞱):  | 
+97B2 (鞲): 革アームガード | leather arm guard
+97B5 (鞵): 靴,ブーツ | shoes,boots
+97B6 (鞶): 大きな革ベルト | big leather belt
+97B8 (鞸): 革アームガード | leather arm guard
+97B9 (鞹): 肌 | skin
+97BA (鞺): ドラムの音 | sound of drums
+97BC (鞼):  | 
+97BE (鞾): ブーツ | boots
+97BF (鞿):  | 
+97C1 (韁): 手綱,ホルター,手綱 | reins,halter,bridle
+97C4 (韄):  | 
+97C5 (韅): ハーネス | harness

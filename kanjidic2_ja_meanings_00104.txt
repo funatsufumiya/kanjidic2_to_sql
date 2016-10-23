@@ -1,0 +1,100 @@
+8FC0 (迀):  | 
+8FC1 (迁): 移動,シフト,変化する,移転,首都移転 | move,shift,change,transfer,relocate a capital city
+8FC6 (迆): 風,ストレートパスの外に歩きます | wind,walk out of straight path
+8FCA (迊): ラウンド行きます,回路を作るために,革命を作るために,ラウンドオンにします | to go round,to make a circuit,to make a revolution,to turn round
+8FCB (迋): 旅行,に行きます,欺く,恐怖 | travel,go to,deceive,scare
+8FCD (迍): つまずきます,ためらいます | falter,hesitate
+8FD0 (运): ラン,運用漢字の簡略化した形,幸運,船,輸送 | run,simplified form of kanji for luck,fortune,ship,transport
+8FD2 (迒):  | 
+8FD3 (迓): 満たすために行きます,受信します,ゲストとして | to go to meet,to receive,as a guest
+8FD5 (迕): 頑固な,ひねくれました | obstinate,perverse
+8FE0 (迠):  | 
+8FE3 (迣): 以上の跳躍します | to leap over
+8FE4 (迤): 風,ストレートパスの外に歩きます | wind,walk out of straight path
+8FE8 (迨): まで,いつ,つかみます,逮捕 | until,when,seize,arrest
+8FEE (迮):  | 
+8FF1 (迱):  | 
+8FF5 (迵):  | 
+8FF6 (迶):  | 
+8FFB (迻): シフトします,乗り換え,翻訳すること | to shift,to transfer,to translate
+8FFE (迾):  | 
+9002 (适): 行きます,リーチ,適切な,適切な | go,reach,appropriate,suitable
+9004 (逄): 姓 | surname
+9008 (逈): 遠く,遠く,分離しました,異なります | distant,far,separated,different
+900C (逌): お願いします,にこやか,無関心な | please,smiling,complacent
+9018 (逘):  | 
+901B (逛): ランブル,散歩,ローム,さまよいます | ramble,stroll,roam,wander
+9028 (逨):  | 
+9029 (逩): すぐに実行します | to run quickly
+902F (逯): 理由もなく去ります,姓 | leave without reason,surname
+902A (逪):  | 
+902C (逬): 散布へ,追放します,亀裂へ,分割します,ジャンプする | to scatter,to expel,to crack,to split,to jump
+902D (逭): から脱出します,逃げる,避けるために | to escape from,to flee,to avoid
+9033 (逳):  | 
+9034 (逴): 主張します,けんか,つまらないけんか,遠く | argue,quarrel,squabble,far
+9037 (逷): 遠く,遠く | distant,far away
+903F (逿):  | 
+9043 (遃):  | 
+9044 (遄): 急ぐ,行くとあちこちにします | to hurry,to go to and fro
+904C (遌):  | 
+905B (遛): 散歩をします,散歩 | take walk,stroll
+905D (遝): ミックス,豊富な,詰め合わせ | mixed,abundant,assorted
+9062 (遢): 不注意な,怠慢,手を抜きました | careless,negligent,slipshod
+9066 (遦):  | 
+9067 (遧):  | 
+906C (遬):  | 
+9070 (遰): 豚のブタの鳴き声のような音,衝突 | grunting sound of pigs,clash
+9074 (遴): 選択します,選ぶ,姓 | select,choose,surname
+9079 (遹): に適応,従う,避けます,避ける | comply with,obey,shun,avoid
+9085 (邅): ためらって,よろめいています | hesitant,faltering
+9088 (邈): 遠く,遠く,リモート,わずかな | far,distant,remote,slight
+908B (邋): 古着 | rags
+908C (邌): パレード,ゆっくり歩く | parade,walk slowly
+908E (邎):  | 
+9090 (邐): 蛇行,巻き取り | meandering,winding
+9095 (邕): ナニーの元や文学名前 | former or literary name for Nann
+9097 (邗): 呉の状態にある古代場所 | an ancient place in the state of Wu
+9098 (邘): 河南省の状態 | state in Henan province
+9099 (邙): 河南省の山 | mountain in Henan province
+909B (邛): 苦しんでいます,マウンド | in distress,mound
+90A0 (邠): 陝西省の郡 | county in Shaanxi province
+90A1 (邡):  | 
+90A2 (邢): 姓,今日の河北省での状態 | surname,state in today\'s Hebei
+90A5 (邥):  | 
+90B0 (邰): 姓,今日の陝西省の状態 | surname,state in today\'s Shaanxi
+90B2 (邲): ハンサム,場所の名前 | good-looking,name of a place
+90B3 (邳): 呂州の部門,今シャンタンまたはN、中国が何であるかで | department in the State of Lu, in what is now Shantung or N. China
+90B4 (邴): 今山東あるものでソングの古代国家の都市の名前,喜んで | name of a city in the ancient state of Song in what is now Shandong,pleased
+90B6 (邶): 今日の河南省の場所 | place in today\'s Henan province
+90BD (邽): 漢王朝における郡の名前 | name of a county in Han dynasty
+90CC (郌): 現代の甘粛省/陝西地域の古代シェンロンの名前 | name of an ancient Hsien in modern Gansu/Shaanxi area
+90BE (邾): 700から469 BC存在していた封建的な状態,今山東省 | feudal state which existed BC 700-469, now in Shandong
+90C3 (郃): 陝西省の郡 | county in Shaanxi province
+90C4 (郄): 姓 | surname
+90C5 (郅): まで行きます,最上級の繁栄 | to go up to,flourishing a superlative
+90C7 (郇): 陝西省の古代封建国家 | an ancient feudal State in Shaanxi
+90C8 (郈): 山東省の場所 | place in Shandong province
+90D5 (郕): 山東省の状態 | state in Shandong province
+90D7 (郗): 周Dynの下に都市。,姓 | city under the Chou Dyn.,surname
+90D8 (郘):  | 
+90D9 (郙): 追放します,支払いを遅らせます | to be exiled,delay payment for
+90DC (郜): 山東省の領地の名前は、温家宝王の長男に授け | name of fief in Shandong bestowed on the eldest son of Wen Wang
+90DD (郝): 姓,今日の山西省での場所 | surname,place in today\'s Shanxi
+90DF (郟): 河南省の郡,姓 | county in Henan province,surname
+90E5 (郥):  | 
+90D2 (郒):  | 
+90F6 (郶):  | 
+90EB (郫):  | 
+90EF (郯): 今シャンタンとこうその一部であるものの中に位置していた小さな古代公国の名前 | name of a small ancient principality which was situated in what is now part of Shantung and Kiangsu
+90F0 (郰): 孔子の生誕地,Shantongに置きます | birthplace of Confucius,place in Shantong
+90F4 (郴): 湖南省の郡,姓 | county in Hunan province,surname
+90FE (郾): 河南省の郡 | county in Henan province
+90FF (郿): 陝西省の郡 | county in Shaanxi province
+9100 (鄀): 河南省の状態 | state in Henan province
+9104 (鄄):  | 
+9105 (鄅):  | 
+9106 (鄆): 姓,古代の町\ 'sの名前 | surname,an ancient town\'s name
+9108 (鄈): スリッパ,サンダル,ダンスシューズ | slippers,sandals,dance shoes
+910D (鄍): 山東省にある町 | town in Shandong province
+9110 (鄐): 河南省の町 | town in Henan province
+9114 (鄔): さまざまな場所の名前,姓,サンスクリット語のuの音訳 | various place names,surname,transliteration of Sanskrit "u"

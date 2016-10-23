@@ -1,0 +1,100 @@
+8307 (茇): 草,サッチ | grass,thatch
+8308 (茈): 赤色染料を得た植物 | plant yielding a red dye
+830A (茊):  | 
+830B (茋):  | 
+8354 (荔): ライチ | lychee
+831B (茛):  | 
+831D (茝):  | 
+831E (茞): 香りの良い植物,アンジェリカ | fragrant plant,angelica
+831F (茟):  | 
+8321 (茡):  | 
+8322 (茢): スゲ,ラッシュ | sedges,rushes
+832C (茬): 収穫 | harvest
+832D (茭): 水生草,茎は野菜として食べられています | an aquatic grass,the stalks of which are eaten as a vegetable
+832E (茮):  | 
+8330 (茰):  | 
+8333 (茳):  | 
+8337 (茷): フラッター,花 | flutter,flower
+833A (茺):  | 
+833C (茼):  | 
+833D (茽):  | 
+8342 (荂):  | 
+8343 (荃): 芳香族ハーブ,細かい布 | aromatic herb,fine cloth
+8344 (荄): ルーツ | roots
+8347 (荇): 水生植物,アサザ | water plant,nymphoides peltalum
+834D (荍): そば,漢方薬 | buckwheat,herbal medicine
+834E (荎):  | 
+8351 (荑): もやし,風袋 | sprouts,tares
+8355 (荕):  | 
+8356 (荖):  | 
+8357 (荗):  | 
+8370 (荰):  | 
+8378 (荸): ヒシ | water chestnut
+837D (荽): コリアンダー | coriander
+837F (荿):  | 
+8380 (莀): ファームへ,農家,農業 | to farm,farmer,agriculture
+8382 (莂):  | 
+8384 (莄):  | 
+8386 (莆): 伝説の木の種類 | kind of legendary tree
+838D (莍):  | 
+8392 (莒): 麻のような植物,里芋,ハーブ | hemp-like plant,taro,herb
+8394 (莔):  | 
+8395 (莕):  | 
+8398 (莘): 長いです,多数の,そのルートの薬のために使用されている湿地の植物 | long,numerous,marsh plant whose root is used for medicine
+8399 (莙): 水植物の種 | species of water plant
+839B (莛): 草の茎,等 | stalks of grasses, etc.
+839C (莜): カラスムギ無触手綱 | avena nuda
+839D (莝): 動物のためのわら罰金をチョップします | to chop straw fine for animals
+83A6 (莦):  | 
+83A7 (莧): 食用野菜,アマランス | edible greens,amaranth
+83A9 (莩): リードの内側の膜ライニング,非常に薄いです | membrane lining inside reed,very thin
+83AC (莬):  | 
+83BE (莾):  | 
+83BF (莿): とげ | thorn
+83C0 (菀): 成長の豊かさ | luxuriance of growth
+83C7 (菇): キノコ | mushrooms
+83C9 (菉): 青竹,緑がかった竹 | the green bamboo,greenish bamboo
+83CF (菏): 山東省の川 | river in Shandong province
+83D0 (菐):  | 
+83D1 (菑): 雑草草へ,耕作地 | to weed grass,land under cultivation
+83D4 (菔): カブ | turnip
+83DD (菝):  | 
+8353 (荓):  | 
+83E8 (菨):  | 
+83EA (菪):  | 
+83F6 (菶): 水植物の種,花 | species of water plant,flower
+83F8 (菸): 煙,すす,タバコ,タバコ | smoke,soot,tobacco,cigarettes
+83F9 (菹): 塩漬けや酢漬け野菜 | salted or pickled vegetables
+83FC (菼): ラッシュやスゲ | rush or sedge
+8401 (萁): 草の種類,豆の銘柄＆＃038; ポッド | kind of grasses,bean stocks &amp; pods
+8406 (萆): （また、他の植物のために使用される）トウゴマ | the castor-oil plant (also used for other plants)
+840A (萊): アカザ,雑草,休耕田 | goosefoot,weed,fallow field
+840F (萏):  | 
+8411 (萑): マットを作製するために使用される草,黄浦,強盗のための有名な場所 | grass used for making mats,Huanpu,place famous for robbers
+8415 (萕): 水、栗,ハマビシ | water-chestnuts,caltrop
+8419 (萙):  | 
+83AD (莭):  | 
+842F (萯):  | 
+8439 (萹): 草 | grass
+8445 (葅):  | 
+8447 (葇):  | 
+8448 (葈):  | 
+844A (葊): コテージ | cottage
+844D (葍): 工場 | plant
+844F (葏):  | 
+8451 (葑): レイプ、カブ | the rape-turnip
+8452 (葒): ハーブ | herb
+8456 (葖):  | 
+8458 (葘):  | 
+8459 (葙):  | 
+845A (葚): 桑の実 | mulberry fruit
+845C (葜): サルトリイバラ | smilax china
+8460 (葠): 人参 | ginseng
+8464 (葤):  | 
+8465 (葥):  | 
+8467 (葧):  | 
+846A (葪):  | 
+8470 (葰):  | 
+8473 (葳): 華麗な,繁栄しています,様々な植物のために使用されます | luxuriant,flourishing,used for various plants
+8474 (葴):  | 
+8476 (葶):  | 
