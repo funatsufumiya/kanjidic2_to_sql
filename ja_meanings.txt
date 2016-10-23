@@ -340,7 +340,7 @@
 984D (額): 額,タブレット,プラーク,額装画像,和,量,ボリューム | forehead,tablet,plaque,framed picture,sum,amount,volume
 984E (顎): 顎,顎,えら | jaw,chin,gill
 639B (掛): ハング,サスペンド,左右される,到着する,税金,注ぐ | hang,suspend,depend,arrive at,tax,pour
-7B20 (笠): 笠,1 \ 'sの影響 | bamboo hat,one\'s influence
+7B20 (笠): 笠 | bamboo hat,one\'s influence
 6A2B (樫): 樫 | evergreen oak,(kokuji)
 6A7F (橿): オーク | oak
 68B6 (梶): スカリングオール | sculling oar
@@ -1361,7 +1361,7 @@
 79F0 (称): 名称,賞賛,感心する,名,タイトル,名声 | appellation,praise,admire,name,title,fame
 7AE0 (章): バッジ,章,組成,詩,設計 | badge,chapter,composition,poem,design
 7B11 (笑): 笑い | laugh
-7CA7 (粧): 化粧品,飾る（1 \ 'sの人） | cosmetics,adorn (one\'s person)
+7CA7 (粧): 化粧,化粧する | cosmetics,adorn (one\'s person)
 7D39 (紹): 紹介する,受け継ぐ,助けて | introduce,inherit,help
 8096 (肖): 類似 | resemblance
 83D6 (菖): 虹彩 | iris
@@ -2034,7 +2034,7 @@
 51AC (冬): 冬 | winter
 51CD (凍): フローズン,凍らせる,冷蔵する | frozen,congeal,refrigerate
 5200 (刀): 剣,サーベル,ナイフ | sword,saber,knife
-5510 (唐): T \ 'ANG,中国,外国の | T\'ang,China,foreign
+5510 (唐): 中国,外国の | T\'ang,China,foreign
 5854 (塔): パゴダ,タワー,尖塔 | pagoda,tower,steeple
 5858 (塘): 堤防,堤防 | dike,embankment
 5957 (套): 蓄積する,大きくて長い,陳腐な | accumulate,big and long,hackneyed
@@ -2450,7 +2450,7 @@
 4ECF (仏): 仏,死んだ,フランス | Buddha,the dead,France
 7269 (物): 事,オブジェクト,問題 | thing,object,matter
 9B92 (鮒): 鯉 | carp
-5206 (分): 部,時間の分,セグメント,シェア,度,1 \ 'スロット,義務,わかる,知っている,レート,1％,チャンス,尺/ 100 | part,minute of time,segment,share,degree,one\'s lot,duty,understand,know,rate,1%,chances,shaku/100
+5206 (分): 部,時間の分,セグメント,シェア,度,スロット,義務,わかる,知っている,レート,1％,チャンス,尺/ 100 | part,minute of time,segment,share,degree,one\'s lot,duty,understand,know,rate,1%,chances,shaku/100
 543B (吻): 吻 | proboscis
 5674 (噴): 噴火する,注ぎ口,発する,追い出する | erupt,spout,emit,flush out
 58B3 (墳): 墓,マウンド | tomb,mound
@@ -3283,7 +3283,7 @@
 5614 (嘔): 嘔吐,吐き気 | vomit,nauseated
 55F7 (嗷): うるさい | noisy
 5616 (嘖): 叱る,苦しめる,懲らしめる | scold,torment,chastise
-55FE (嗾): SIC \ '日,卵の上,扇動する | sic\'em,egg on,instigate
+55FE (嗾): 卵の上,扇動する | sic\'em,egg on,instigate
 55FD (嗽): リンス,ウォッシュ,うがい | rinse,wash,gargle
 561B (嘛): 小麦 | wheat
 55F9 (嗹): バリュアブル,とりとめのない | voluble,garrulous
@@ -3301,7 +3301,7 @@
 566A (噪): うるさいこと | be noisy
 5686 (嚆): コール | call
 5680 (嚀): 親切 | kindness
-568A (嚊): 鼻から呼吸,鼻息,妻,1 \ 'sの老婦人 | breathing through the nose,snorting,wife,one\'s old lady
+568A (嚊): 鼻から呼吸,鼻息,妻,老婦人 | breathing through the nose,snorting,wife,one\'s old lady
 56A0 (嚠): クリアな音声 | a clear sound
 5694 (嚔): くしゃみ | sneeze
 568F (嚏): くしゃみ | sneeze
@@ -3619,7 +3619,7 @@
 5F5D (彝): 道徳的原則 | moral principle
 5F5C (彜): 道徳的原則 | moral principle
 5F0B (弋): 杭打ち | piling,ceremony radical (no. 56)
-5F11 (弑): 殺人1 \ 'sの領主や父親 | murder one\'s lord or father
+5F11 (弑): 領主や父親を殺す | murder one\'s lord or father
 5F16 (弖): 音素のみ | phoneme only,(kokuji)
 5F29 (弩): 弓（矢印） | bow (arrow)
 5F2D (弭): やめる,やめる,巾着は弓に取り付けられている。ノッチ | stop,cease,notches where drawstring is attached to the bow
@@ -3971,7 +3971,7 @@
 66C1 (曁): そして,に加えて,リーチ,にまで及ぶ | and,along with,reach,extend to
 66B9 (暹): 日の出 | sunrise
 66C9 (曉): 夜明け,夜明け,クリア,明確な | dawn,daybreak,clear,explicit
-66BE (暾): 日の出,日\ 'sの光線 | sunrise,sun\'s rays
+66BE (暾): 日の出,太陽光線 | sunrise,sun\'s rays
 66BC (暼): 夕日 | setting sun
 66C4 (曄): 輝き,繁栄している | shine,flourishing
 66B8 (暸): クリア | clear
@@ -5476,7 +5476,7 @@
 895E (襞): プリーツ,折り畳む,タック,折り目 | pleat,fold,tuck,crease
 8966 (襦): 下着 | underwear
 8964 (襤): 古着 | rags
-896D (襭): 1 \ 'sの帯にタック | tuck into one\'s obi
+896D (襭): つまばさむ | tuck into one\'s obi
 896A (襪): 靴下 | socks
 896F (襯): 下着 | underwear
 8974 (襴): 布の種類 | a kind of cloth
@@ -6021,7 +6021,7 @@
 9F4F (齏): 酢や味噌で味付けし料理 | dishes seasoned with vinegar or miso
 97F2 (韲): ドレス（サラダ）野菜 | dress (salad) vegetables
 7ADF (竟): 終わり,最後に | end,finally
-97F6 (韶): 綺麗な,舜\ 'sの音楽 | beautiful,emperor Shun\'s music
+97F6 (韶): 綺麗な | beautiful,emperor Shun\'s music
 97F5 (韵): 韻,母音 | rhyme,vowel
 980F (頏): 降る,土地,喉,ネック | alight,land,throat,neck
 980C (頌): 追悼 | eulogy
@@ -6949,7 +6949,7 @@
 56A6 (嚦): 擬音式で使用される | used in onomatopoeic expression
 56A7 (嚧):  | 
 56A8 (嚨): 喉 | throat
-56A9 (嚩): サンスクリット\ 'オムニバス\'を音訳するために使用 | used to transliterate Sanskrit \'va\'
+56A9 (嚩): サンスクリットの'va'を音訳するために使用 | used to transliterate Sanskrit \'va\'
 56AB (嚫):  | 
 56AC (嚬): 渋面,顔をしかめる | frown,scowl
 56AD (嚭): マウンド,塊,こっそり | mound,lump,stealthily
@@ -6969,7 +6969,7 @@
 56DC (囜):  | 
 56DD (囝): 赤ちゃん,幼児 | baby,infant
 56DF (囟): 頭頂,頭蓋骨 | top of the head,skull
-56E1 (囡): 1 \ 'sの娘,ちょろまかすする,分泌する | one\'s daughter,to filch,to secrete
+56E1 (囡): 娘,ちょろまかすする,分泌する | one\'s daughter,to filch,to secrete
 56E4 (囤): 穀物バスケット,穀物のためのビン | grain basket,bin for grain
 56E5 (囥): 隠す | hide
 56E6 (囦):  | 
@@ -7032,7 +7032,7 @@
 5781 (垁):  | 
 5783 (垃): ごみ,ごみ,廃棄物 | garbage,refuse,waste
 578C (垌):  | 
-5794 (垔): 拘束する,ストリームダムとその方向を変更するには,マウンド | to restrain,to dam a stream and change its direction,mound
+5794 (垔): 拘束する,流れをせき止めて方向を変える,盛り土 | to restrain,to dam a stream and change its direction,mound
 5797 (垗): 犠牲 | sacrifice
 5799 (垙):  | 
 579A (垚): マウンド,丸みを帯びた質量 | mound,roundish mass
@@ -7184,7 +7184,7 @@
 59A7 (妧):  | 
 59AD (妭):  | 
 59AE (妮): メイド,下婢,かわいい女の子 | maid,servant girl,cute girl
-59AF (妯): 1 \ 'sの兄弟の妻,義理の姉妹 | wives of one\'s brothers,sister-in-law
+59AF (妯): 兄弟の妻,義理の姉妹 | wives of one\'s brothers,sister-in-law
 59B0 (妰):  | 
 59B3 (妳): あなた（F） | you (f)
 59B7 (妷):  | 
@@ -7211,7 +7211,7 @@
 59F7 (姷):  | 
 5A00 (娀): ディ区の側室の名前,神話八尾の父 | name of a concubine of Di Ku,father of the mythical Yao
 5A04 (娄): 姓,星座,着用する | surname,constellation,to wear
-5A0C (娌): 兄\ 'sの妻 | brother\'s wife
+5A0C (娌): 兄弟の妻 | brother\'s wife
 5A0D (娍): 細い,美しい体 | slender, beautiful body
 5A0E (娎):  | 
 5A12 (娒): 寮母 | matron
@@ -7260,7 +7260,7 @@
 5ABA (媺): 綺麗な | beautiful
 5ABB (媻): 移動する | to move
 5ABF (媿): 恥ずかしい,良心、被災 | ashamed,conscience-stricken
-5AC4 (嫄): 古代の天皇\ 'sの母\' sの名前,強元,区へのコンソート | an ancient emperor\'s mother\'s name,Qiang Yuan, consort to Gu
+5AC4 (嫄): 古代の天皇の母の名前,強元,区へのコンソート | an ancient emperor\'s mother\'s name,Qiang Yuan, consort to Gu
 5AC6 (嫆):  | 
 5AC8 (嫈): レディ | lady
 5ACF (嫏): 至高の存在が彼の本を保存する場所,ライブラリ | the place where the Supreme Being stores his books,library
@@ -7882,7 +7882,7 @@
 643F (搿):  | 
 644B (摋):  | 
 644F (摏): ポンド,反対ストライキ,RAM | pound,strike against,ram
-6451 (摑): Xboxの1 \ 'sの耳,平手打ち | box one\'s ears,slap
+6451 (摑): 耳を打つ,平手打ち | box one\'s ears,slap
 6452 (摒): 追い出する,脱ぎ捨てる,アレンジ | expel,cast off,arrange
 6453 (摓):  | 
 6454 (摔): 地面に落つ,つまずく,旅行 | fall ground,stumble,trip
@@ -8750,7 +8750,7 @@
 7131 (焱): 炎,炎 | flames,blaze
 7138 (焸):  | 
 7141 (煁): 健康 | hearth
-7145 (煅): 金属を築く,完璧な1 \ 'sのスキル | forge metal,perfect one\'s skill
+7145 (煅): 金属を築く,完璧なスキル | forge metal,perfect one\'s skill
 7146 (煆): 烈火 | raging fire
 7147 (煇): 溶接,半田 | weld,solder
 714A (煊): 暖かい | warm
@@ -9378,7 +9378,7 @@
 794B (祋):  | 
 794F (祏): 神社 | shrine
 7951 (祑):  | 
-7954 (祔): 礼拝1 \ 'sの祖先,葬る | worship one\'s ancestors,entomb
+7954 (祔): 祖先を崇拝する,葬る | worship one\'s ancestors,entomb
 7958 (祘): 計算する | to calculate
 795B (祛): 追い出する,分散させる,追い払う | expel,disperse,exorcise
 795C (祜): 祝福,幸福,繁栄 | blessing,happiness,prosperity
@@ -10547,7 +10547,7 @@
 8975 (襵): スカートプリーツ | pleat in a skirt
 897A (襺):  | 
 897B (襻): ループ,ベルトやバンド | loop,belt or band
-897C (襼): \ '着物\'スリーブ | \'kimono\' sleeve
+897C (襼): 着物の袖 | \'kimono\' sleeve
 897D (襽):  | 
 8989 (覉):  | 
 898D (覍):  | 
@@ -11039,7 +11039,7 @@
 9100 (鄀): 河南省の状態 | state in Henan province
 9104 (鄄):  | 
 9105 (鄅):  | 
-9106 (鄆): 姓,古代の町\ 'sの名前 | surname,an ancient town\'s name
+9106 (鄆): 姓,古代の町の名前 | surname,an ancient town\'s name
 9108 (鄈): スリッパ,サンダル,ダンスシューズ | slippers,sandals,dance shoes
 910D (鄍): 山東省にある町 | town in Shandong province
 9110 (鄐): 河南省の町 | town in Henan province
@@ -11107,7 +11107,7 @@
 91B3 (醳):  | 
 91B6 (醶):  | 
 91BB (醻):  | 
-91BC (醼): オファー料理とワイン1 \ 'sのゲスト | offer food and wine one\'s guests
+91BC (醼): さかもり | offer food and wine one\'s guests
 91BD (醽): ワインの種類 | kind of wine
 91BF (醿):  | 
 91C2 (釂): ドレイン | drain
@@ -11697,7 +11697,7 @@
 9A03 (騃): 愚か,愚かな | stupid,foolish
 9A04 (騄): 伝説の迅速な馬の名前 | name of a legendary swift horse
 9A0B (騋): 背の高い（7カイ）馬 | tall (7 chi) horse
-9A0C (騌): 馬\ 'sのたてがみ,剛毛 | horse\'s mane,bristles
+9A0C (騌): 馬のたてがみ,剛毛 | horse\'s mane,bristles
 9A10 (騐): 真実へ,満たすため,検討する,審問を保持する | to verity,to fulfill,to examine,to hold an inquest
 9A11 (騑): うま,ラン | horse,run
 9A16 (騖): ギャロップ,約急ぐ,追求する,ラン | gallop,rush about,pursue,run
@@ -11773,7 +11773,7 @@
 9B0C (鬌):  | 
 9B0D (鬍): 髭,口ひげ,髭 | beard,mustache,whiskers
 9B0E (鬎): 黄癬,疥癬 | favus,scabies
-9B10 (鬐): 馬\ 'sのたてがみ,フィン | horse\'s mane,fins
+9B10 (鬐): 馬のたてがみ,フィン | horse\'s mane,fins
 9B12 (鬒): 黒,光沢のある髪 | black,glossy hair
 9B16 (鬖): 乱れた髪 | wild hair
 9B19 (鬙): もつれた髪 | matted hair
@@ -11875,7 +11875,7 @@
 9C1C (鰜): ビッグ口のカレイ | big-mouthed flounder
 9C1E (鰞): イカ | squid
 9C22 (鰢):  | 
-9C23 (鰣): リーブス\ 'シャッド,hilsaニシン | Reeves\' shad,hilsa herring
+9C23 (鰣): リーブスシャッド,hilsaニシン | Reeves\' shad,hilsa herring
 9C26 (鰦):  | 
 9C27 (鰧):  | 
 9C28 (鰨): 唯一 | sole
@@ -12670,7 +12670,7 @@
 5DD7 (巗):  | 
 5DE2 (巢): ネスト,ツリー内の生活四半期 | nest,living quarter in tree
 5E77 (幷): コンバイン | combine
-5EB9 (庹): 1 \ 'sの2両腕を広げの長さ | the length of one\'s two outstretched arms
+5EB9 (庹): 両腕を広げた長さ | the length of one\'s two outstretched arms
 5ED9 (廙):  | 
 5EF9 (廹): 迫害する,困難に圧迫する,恥ずかしい | to persecute,to oppress in difficulties,embarrassed
 5EFD (廽): リターン,振り向く,時間 | return,turn around,a time
@@ -12936,7 +12936,7 @@
 93F1 (鏱):  | 
 93F5 (鏵): スペード,シャベル,すきの刃 | spade,shovel,plowshare
 9586 (閆): 村のゲート | village gate
-9634 (阴): \ '女性\'の原則,ダーク,秘密 | \'female\' principle,dark,secret
+9634 (阴): 女性の原則,ダーク,秘密 | \'female\' principle,dark,secret
 96BD (隽): 優れた,傑出した,才能のある | superior,outstanding,talented
 9714 (霔):  | 
 9736 (霶): 雨のdownpouring | downpouring of rain
