@@ -55,6 +55,5 @@ lineReader.on('line', line => {
     return res.replace(/\n/g, '');
   });
   let mean_ja = means_ja.join(',');
-  console.error(`[${line_num}] ${utf} (${kanji}): ${mean_ja} | ${means}`);
   console.log(`${utf} (${kanji}): ${mean_ja} | ${means}`);
 });
