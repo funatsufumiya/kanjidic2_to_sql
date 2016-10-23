@@ -1,0 +1,100 @@
+9798 (鞘): シース,場合,マージン,差,（豆の）シェル | sheath,case,margin,difference,shells (of beans)
+4E0A (上): 上記の,アップ | above,up
+4E08 (丈): 長さ,10尺,測定,氏,ミズ,高さ,身長,すべて（1つは持っています）,のみ,それで全部です,単に | length,ten shaku,measure,Mr.,Ms.,height,stature,all (one has),only,that\'s all,merely
+4E1E (丞): 助けて | help
+4E57 (乗): ライド,パワー,乗算,記録,車のためのカウンタ,ボード,マウント,参加します | ride,power,multiplication,record,counter for vehicles,board,mount,join
+5197 (冗): 余分な,無駄 | superfluous,uselessness
+5270 (剰): 余剰,ほかに | surplus,besides
+57CE (城): 城 | castle
+5834 (場): ロケーション,場所 | location,place
+58CC (壌): たくさん,地球,土壌 | lot,earth,soil
+5B22 (嬢): 小娘,女の子,ミス,娘 | lass,girl,Miss,daughter
+5E38 (常): いつもの,一般,ノーマル,レギュラー | usual,ordinary,normal,regular
+60C5 (情): 感情,感情,情熱,同情,状況,事実 | feelings,emotion,passion,sympathy,circumstances,facts
+64FE (擾): ディスターブ,混乱に投げます | disturb,throw into confusion
+6761 (条): 記事,句,項目,ストライプ,ストリーク | article,clause,item,stripe,streak
+6756 (杖): スタッフ,杖 | staff,cane
+6D44 (浄): クリーン,浄化します,清めます,追い払います,満州王朝 | clean,purify,cleanse,exorcise,Manchu Dynasty
+72B6 (状): 現状,条件,状況,形,外観 | status quo,conditions,circumstances,form,appearance
+7573 (畳): 畳,畳用カウンタ,折り畳みます,黙れ,廃止する | tatami mat,counter for tatami mats,fold,shut up,do away with
+7A63 (穣): 良い作物,繁栄,10 ** 28 | good crops,prosperity,10**28
+84B8 (蒸): 蒸気,熱,蒸し暑い,煽ります,かび臭い取得 | steam,heat,sultry,foment,get musty
+8B72 (譲): 延期します,売上高,移転,伝える | defer,turnover,transfer,convey
+91B8 (醸): 醸造,原因 | brew,cause
+9320 (錠): ロック,足枷,束縛 | lock,fetters,shackles
+5631 (嘱): 委託します,要求,メッセージを送ります | entrust,request,send a message
+57F4 (埴): 粘土 | clay
+98FE (飾): 飾る,オーナメント,飾る,飾る | decorate,ornament,adorn,embellish
+62ED (拭): ワイプ,モップ,綿棒 | wipe,mop,swab
+690D (植): 工場 | plant
+6B96 (殖): 増強,増加する,かける,レイズ | augment,increase,multiply,raise
+71ED (燭): 光,燭光 | light,candlepower
+7E54 (織): ウィーブ,ファブリック | weave,fabric
+8077 (職): 役職,雇用,作業 | post,employment,work
+8272 (色): 色 | color
+89E6 (触): 接触,タッチ,感じます,ヒット,宣言する,アナウンス,紛争 | contact,touch,feel,hit,proclaim,announce,conflict
+98DF (食): 食べる,フード | eat,food
+8755 (蝕): 日食,掩蔽,欠陥があります | eclipse,occultation,be defective
+8FB1 (辱): 困らせます,屈辱を与えます,恥 | embarrass,humiliate,shame
+5C3B (尻): 臀部,ヒップ,尻,リア | buttocks,hips,butt,rear
+4F38 (伸): 拡大します,ストレッチ,延長する,延ばします,増加する | expand,stretch,extend,lengthen,increase
+4FE1 (信): 信仰,真実,忠実,信頼 | faith,truth,fidelity,trust
+4FB5 (侵): 侵害します,侵入します,襲撃,不法侵入,違反します | encroach,invade,raid,trespass,violate
+5507 (唇): 唇 | lips
+5A20 (娠): 子供と,妊娠 | with child,pregnancy
+5BDD (寝): 横になる,睡眠,残り,ベッド,売れ残ります | lie down,sleep,rest,bed,remain unsold
+5BE9 (審): 聴覚,裁判官,トライアル | hearing,judge,trial
+5FC3 (心): ハート,マインド,精神,心ラジカル（NO。61） | heart,mind,spirit,heart radical (no. 61)
+614E (慎): 謙虚,注意してください,個別の,慎重な | humility,be careful,discreet,prudent
+632F (振): 振ります,波,振ります,スイング | shake,wave,wag,swing
+65B0 (新): 新しい | new
+664B (晋): 前進 | advance
+68EE (森): 森林,森 | forest,woods
+699B (榛): ヘーゼルナッツ,ハシバミ | hazelnut,filbert
+6D78 (浸): 浸漬,ソーク,浸漬,急な,潤します,ぬれました,液体に浸します | immersed,soak,dip,steep,moisten,wet,dunk
+6DF1 (深): 深い,高めます,激化します,強化する | deep,heighten,intensify,strengthen
+7533 (申): への名誉を持っています,猿の兆候,3-5PM,干支の第九の兆候 | have the honor to,sign of the monkey,3-5PM,ninth sign of Chinese zodiac
+75B9 (疹): 麻疹,病気 | measles,sickness
+771F (真): 真,現実,倶者 | true,reality,Buddhist sect
+795E (神): 神々,マインド,魂 | gods,mind,soul
+79E6 (秦): 満州王朝,帰化外国人に与えられた名前 | Manchu dynasty,name given to naturalized foreigners
+7D33 (紳): 種馬,良いベルト,紳士 | sire,good belt,gentleman
+81E3 (臣): リテーナ,テーマ | retainer,subject
+82AF (芯): 芯 | wick
+85AA (薪): 燃料,薪,発火 | fuel,firewood,kindling
+89AA (親): 親,親密,相対,親しみやすさ,ディーラー（カード） | parent,intimacy,relative,familiarity,dealer (cards)
+8A3A (診): 調べる,見ること,診断します,調べます | checkup,seeing,diagnose,examine
+8EAB (身): 誰か,人,人生の駅 | somebody,person,one\'s station in life
+8F9B (辛): スパイシー,苦い,ホット,鼻を突きます | spicy,bitter,hot,acrid
+9032 (進): 前進,進みます,進捗,推進します | advance,proceed,progress,promote
+91DD (針): 針,ピン,ステープル,スティンガー | needle,pin,staple,stinger
+9707 (震): 地震,振ります,震える,矢筒,震える | quake,shake,tremble,quiver,shiver
+4EBA (人): 人 | person
+4EC1 (仁): 人類,美徳,慈悲,慈善,おとこ,カーネル | humanity,virtue,benevolence,charity,man,kernel
+5203 (刃): 刃,剣,エッジ | blade,sword,edge
+5875 (塵): ほこり,ゴミ,ごみ | dust,trash,garbage
+58EC (壬): 第九カレンダーの記号 | 9th calendar sign
+5C0B (尋): 問い合わせます,尋,探す | inquire,fathom,look for
+751A (甚): 途方もなく,非常に,すばらしいです,極めて | tremendously,very,great,exceedingly
+5C3D (尽): 排気,使い切ります,使い果たします,使い果たします,仲良くなります,サーブ | exhaust,use up,run out of,deplete,befriend,serve
+814E (腎): 腎臓 | kidney
+8A0A (訊): 要求,質問,調査する | request,question,investigate
+8FC5 (迅): 迅速,速いです | swift,fast
+9663 (陣): キャンプ,陣容,ランク,ポジション,突然,短い時間 | camp,battle array,ranks,position,sudden,brief time
+976D (靭): 柔らかい,柔軟な,矢筒 | soft,pliable,quiver
+7B25 (笥): 弁当箱,服の胸 | lunch box,clothes chest
+8ACF (諏): 相談します | consult
+9808 (須): はずです,すべての手段によって,必ずしも | ought,by all means,necessarily
+9162 (酢): 酢,サワー,酸,タルト | vinegar,sour,acid,tart
+56F3 (図): 地図,お絵かき,計画,非凡な,大胆な | map,drawing,plan,extraordinary,audacious
+53A8 (厨): キッチン | kitchen
+9017 (逗): やめる | stop
+5439 (吹): ブロー,呼吸します,パフ,発します,煙 | blow,breathe,puff,emit,smoke
+5782 (垂): ドループ,サスペンド,ハング,前かがみ | droop,suspend,hang,slouch
+5E25 (帥): 司令官,大手軍,知事 | commander,leading troops,governor
+63A8 (推): 推測,推論します,推測,仮定する,サポート,（用）プッシュ | conjecture,infer,guess,suppose,support,push (for)
+6C34 (水): 水 | water
+708A (炊): クック,沸騰 | cook,boil
+7761 (睡): 眠そうな,睡眠,死にます | drowsy,sleep,die
+7C8B (粋): シック,スタイル,純度,エッセンス,髄,クリーム,エリート,選択 | chic,style,purity,essence,pith,cream,elite,choice
+7FE0 (翠): 緑,カワセミ | green,kingfisher

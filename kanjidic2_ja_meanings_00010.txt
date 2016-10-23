@@ -1,0 +1,100 @@
+6247 (扇): ファン,扇子 | fan,folding fan
+64B0 (撰): 構成します,編集,コンパイル,選択 | composing,editing,compiling,selecting
+6813 (栓): プラグ,ボルト,コルク,チーン,ストッパー | plug,bolt,cork,bung,stopper
+6834 (栴): カエデ,カラフルな紅葉 | maple tree,colorful autumn foliage
+6CC9 (泉): 春,噴水 | spring,fountain
+6D45 (浅): 浅い,表面的な,軽薄,悲惨な,恥ずべき | shallow,superficial,frivolous,wretched,shameful
+6D17 (洗): ウォッシュ,調査します,プローブ | wash,inquire into,probe
+67D3 (染): 染料,色,ペイント,染色,印刷 | dye,color,paint,stain,print
+6F5C (潜): 水没,隠す,隠す,下（声）,ハッシュ | submerge,conceal,hide,lower (voice),hush
+714E (煎): 焼きます,パッチ,ロースト,沸騰 | broil,parch,roast,boil
+717D (煽): ファン,フラップ,扇動します,かき混ぜます,アップ強化,ガブガブ飲みます | fan,flap,instigate,agitate,bolster up,gulp down
+65CB (旋): 回転,行き渡る | rotation,go around
+7A7F (穿): （フィート）上に置きます,掘る,ピアス,ドリル | put on (to the feet),dig,pierce,drill
+7BAD (箭): 矢印 | arrow
+7DDA (線): ライン,トラック | line,track
+7E4A (繊): 細い,罰金,薄い着物 | slender,fine,thin kimono
+7FA8 (羨): うらやましいです,うらやみます,切望します | envious,be jealous,covet
+817A (腺): 腺 | gland
+821B (舛): ラジカルダンス（なし。136） | dancing radical (no. 136)
+8239 (船): 船,ボート | ship,boat
+85A6 (薦): 推奨します,マット,アドバイス,奨励します,提供 | recommend,mat,advise,encourage,offer
+8A6E (詮): 討論,以下のために呼び出されたメソッド,選択,結果 | discussion,methods called for,selection,result
+8CCE (賎): 軽蔑します,低ライフ,貧困 | despise,low-life,poverty
+8DF5 (践): トレッド,踏む,トランプル,練習,やり遂げます | tread,step on,trample,practice,carry through
+9078 (選): 選民,選択します,選ぶ,好む | elect,select,choose,prefer
+9077 (遷): 遷移,移動,変化する | transition,move,change
+92AD (銭): コイン,0.01円,お金 | coin,.01 yen,money
+9291 (銑): 銑鉄 | pig iron
+9583 (閃): フラッシュ,振り回す | flash,brandish
+9BAE (鮮): 新鮮な,鮮やか,クリア,ブリリアント,韓国 | fresh,vivid,clear,brilliant,Korea
+524D (前): 前に,前 | in front,before
+5584 (善): 高潔な,良い,善 | virtuous,good,goodness
+6F38 (漸): 着実に,徐々に高度,最後に,かろうじて | steadily,gradually advancing,finally,barely
+7136 (然): 事の並べ替え,そう,もしそうなら,その場合には,よく | sort of thing,so,if so,in that case,well
+5168 (全): 全体,全体,すべて,コンプリート,満たす | whole,entire,all,complete,fulfill
+7985 (禅): 禅,黙想 | Zen,silent meditation
+7E55 (繕): 穴かがり,修復,修理,トリム,片付ける,調整します | darning,repair,mend,trim,tidy up,adjust
+81B3 (膳): 小さなローテーブル,トレイ | small low table,tray
+7CCE (糎): センチメートル,（kokuji） | centimeter,(kokuji)
+564C (噌): 騒々しいです | boisterous
+5851 (塑): モデル,モールディング | model,molding
+5CA8 (岨): 岩山 | a rocky mountain
+63AA (措): 取っておきます,あきらめる,サスペンド,中止します,棚上げにします,除きます | set aside,give up,suspend,discontinue,lay aside,except
+66FE (曾): かつて,前,以前は,これまで,決して,EX- | once,before,formerly,ever,never,ex-
+66FD (曽): 以前は,かつて,前,これまで,決して,EX- | formerly,once,before,ever,never,ex-
+695A (楚): ホイップ,杖 | whip,cane
+72D9 (狙): 目指します,視力,影,茎 | aim at,sight,shadow,stalk
+758F (疏): 通過します,注意,解説,疎遠,まばら,ネグレクト,浸透します | pass through,note,commentary,estrangement,sparseness,neglect,penetrate
+758E (疎): 遠ざけます,ラフ,ネグレクト,避けます,まばらな,浸透します | alienate,rough,neglect,shun,sparse,penetrate
+790E (礎): 礎石,礎石 | cornerstone,foundation stone
+7956 (祖): 祖先,パイオニア,創業者 | ancestor,pioneer,founder
+79DF (租): 関税,コープ税,借り入れ | tariff,crop tax,borrowing
+7C97 (粗): 粗い,ラフ,険しいです | coarse,rough,rugged
+7D20 (素): エレメンタリー,原理,裸,発見 | elementary,principle,naked,uncovered
+7D44 (組): 協会,組紐,ひだ,構築します,アセンブル,団結させます,協力します,取り組みます | association,braid,plait,construct,assemble,unite,cooperate,grapple
+8607 (蘇): 蘇ります,復活 | be resuscitated,revived
+8A34 (訴): 告発,訴える,痛みを訴えます,訴える | accusation,sue,complain of pain,appeal to
+963B (阻): 阻止します,とは別の,防ぐ,妨害します,抑止します,妨げます | thwart,separate from,prevent,obstruct,deter,impede
+9061 (遡): 遡ります,過去をたどります | go upstream,retrace the past
+9F20 (鼠): ラット,マウス,暗灰色 | rat,mouse,dark gray
+50E7 (僧): 坊さん,モンク | Buddhist priest,monk
+5275 (創): ジェネシス,創傷,損傷,傷つけます,開始,始まります | genesis,wound,injury,hurt,start,originate
+53CC (双): ペア,セット,比較,ペアのためのカウンタ | pair,set,comparison,counter for pairs
+53E2 (叢): 叢,草叢,茂み | plexus,clump of bushes,thicket
+5009 (倉): 倉庫,倉庫,倉庫,セラー,国庫 | godown,warehouse,storehouse,cellar,treasury
+55AA (喪): ミス,喪 | miss,mourning
+58EE (壮): 堅牢な,男らしさ,繁栄 | robust,manhood,prosperity
+594F (奏): 音楽を再生,ルーラーに話します,コンプリート | play music,speak to a ruler,complete
+723D (爽): 爽やか,ブレーシング,共振,甘い,クリア | refreshing,bracing,resonant,sweet,clear
+5B8B (宋): ドエル,宋王朝 | dwell,Sung dynasty
+5C64 (層): 地層,ソーシャルクラス,層,ストーリー,床 | stratum,social class,layer,story,floor
+531D (匝): 行き渡る | go around
+60E3 (惣): すべて | all
+60F3 (想): 概念,考えます,アイディア,思想 | concept,think,idea,thought
+635C (捜): サーチ,探す,検索します | search,look for,locate
+6383 (掃): スイープ,みがきます | sweep,brush
+633F (挿): インサート,入れます,グラフト,摩耗（剣） | insert,put in,graft,wear (sword)
+63BB (掻): スクラッチ,レーキ,櫛,パドル,首を切ります | scratch,rake,comb,paddle,behead
+64CD (操): 機動,操作します,操作します,舵を取る,貞操,純潔,忠実 | maneuver,manipulate,operate,steer,chastity,virginity,fidelity
+65E9 (早): 早く,速いです | early,fast
+66F9 (曹): オフィス,公式,同志,仲間 | office,official,comrade,fellow
+5DE3 (巣): ネスト,巣,ハイブ,クモの巣,デン | nest,rookery,hive,cobweb,den
+69CD (槍): 槍,ランス,ジャベリン | spear,lance,javelin
+69FD (槽): バット,バスタブ,タンク | vat,tub,tank
+6F15 (漕): ローイング,頭蓋骨,パドル | rowing,scull,paddle
+71E5 (燥): パッチ,干上がります | parch,dry up
+4E89 (争): 争います,紛争,主張します | contend,dispute,argue
+75E9 (痩): 痩せます | get thin
+76F8 (相): 間,相互,一緒に,お互い,国務大臣,評議員,アスペクト,段階,人相 | inter-,mutual,together,each other,minister of state,councillor,aspect,phase,physiognomy
+7A93 (窓): 窓,ペイン | window,pane
+7CDF (糟): 滓,堆積物,敷地 | dregs,sediment,grounds
+7DCF (総): 一般的な,全体,すべて,フル,合計 | general,whole,all,full,total
+7D9C (綜): ルール,合成します | rule,synthesize
+8061 (聡): 賢いです,物覚えがいい | wise,fast learner
+8349 (草): 草,雑草,ハーブ,牧草地,書きます,ドラフト | grass,weeds,herbs,pasture,write,draft
+8358 (荘): 別荘,宿,コテージ,封建領主,厳粛な,威厳のあります | villa,inn,cottage,feudal manor,solemn,dignified
+846C (葬): 埋葬,埋め込む,棚 | interment,bury,shelve
+84BC (蒼): 青,淡いです | blue,pale
+85FB (藻): 海藻,ウキクサ | seaweed,duckweed
+88C5 (装): 衣装,ドレス,装います,変装,公言します | attire,dress,pretend,disguise,profess

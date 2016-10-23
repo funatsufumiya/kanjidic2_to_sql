@@ -1,0 +1,100 @@
+7A3F (稿): ドラフト,コピー,原稿,ストロー | draft,copy,manuscript,straw
+7CE0 (糠): 米ぬか | rice bran
+7D05 (紅): 真紅,深い赤色 | crimson,deep red
+7D18 (紘): 大 | large
+7D5E (絞): 絞め殺します,締め付けます,絞ります | strangle,constrict,wring
+7DB1 (綱): 大綱,クラス（属）,ロープ,コード,ケーブル | hawser,class (genus),rope,cord,cable
+8015 (耕): 迄,プラウ,耕す | till,plow,cultivate
+8003 (考): 考えます,熟考します | consider,think over
+80AF (肯): 契約,同意,に適応 | agreement,consent,comply with
+80B1 (肱): 能力,才能,肘,腕 | ability,talent,elbow,arm
+8154 (腔): 体腔 | body cavity
+818F (膏): 脂肪,グリース,ラード,ペースト,軟膏,石膏 | fat,grease,lard,paste,ointment,plaster
+822A (航): ナビゲート,帆,クルーズ,飛ぶ | navigate,sail,cruise,fly
+8352 (荒): 敷設廃棄物,ラフ,無礼な,野生 | laid waste,rough,rude,wild
+884C (行): 行き,旅,実施する,行動,行為,ライン,行,バンク | going,journey,carry out,conduct,act,line,row,bank
+8861 (衡): 平衡,物差し,規模 | equilibrium,measuring rod,scale
+8B1B (講): 講義,クラブ,協会 | lecture,club,association
+8CA2 (貢): 賛辞,サポート,ファイナンス | tribute,support,finance
+8CFC (購): サブスクリプション,購入 | subscription,buy
+90CA (郊): 周辺,郊外,農村地域 | outskirts,suburbs,rural area
+9175 (酵): 発酵 | fermentation
+9271 (鉱): ミネラル,鉱石 | mineral,ore
+783F (砿): 鉱石 | ore
+92FC (鋼): 鋼 | steel
+95A4 (閤): 小さなサイドゲート | small side gate
+964D (降): 下ります,沈殿させます,秋,降伏 | descend,precipitate,fall,surrender
+9805 (項): 段落,襟首,句,項目,用語（表現） | paragraph,nape of neck,clause,item,term (expression)
+9999 (香): 香,香り,香水 | incense,smell,perfume
+9AD8 (高): 背の高いです,高い,高価な | tall,high,expensive
+9D3B (鴻): 大型の鳥,雁,大,すばらしいです,強力な,豊かな | large bird,wild goose,large,great,powerful,prosperous
+525B (剛): 頑丈,力 | sturdy,strength
+52AB (劫): 脅威,長い年齢 | threat,long ages
+53F7 (号): ニックネーム,数,項目,タイトル,仮名,名,コール | nickname,number,item,title,pseudonym,name,call
+5408 (合): フィット,スーツ,参加します,0.1 | fit,suit,join,0.1
+58D5 (壕): 溝,ダッグアウト,防空壕 | trench,dugout,air raid shelter
+62F7 (拷): 拷問,ビート | torture,beat
+6FE0 (濠): 堀,溝,運河,オーストラリア | moat,ditch,canal,Australia
+8C6A (豪): 強烈な,すばらしいです,強力な,優れ,オーストラリア | overpowering,great,powerful,excelling,Australia
+8F5F (轟): とどろき,サンダー,ブーム響きます | roar,thunder,boom resound
+9EB9 (麹): 麦芽,酵母 | malt,yeast
+514B (克): 克服します,親切に,巧みに | overcome,kindly,skillfully
+523B (刻): 刻みます,みじん切りにします,チョップ,ハッシュ,ミンチ,時間,彫刻 | engrave,cut fine,chop,hash,mince,time,carving
+544A (告): 啓示,伝えます,知らせます,アナウンス | revelation,tell,inform,announce
+56FD (国): 国 | country
+7A40 (穀): コーンフレーク,粒 | cereals,grain
+9177 (酷): 残酷な,厳しいです,凶悪な,不当な | cruel,severe,atrocious,unjust
+9D60 (鵠): 白鳥 | swan
+9ED2 (黒): 黒 | black
+7344 (獄): 刑務所,刑務所 | prison,jail
+6F09 (漉): 紙を製造,薄く広がります,歪み,浸透します | manufacture paper,spread out thin,strain,percolate
+8170 (腰): 腰,ヒップ,ウエスト,低羽目板 | loins,hips,waist,low wainscoting
+7511 (甑): 米蒸しポット | rice-steaming pot
+5FFD (忽): 瞬時に,瞬時に,突然,ネグレクト,無視 | in a moment,instantly,all of a sudden,neglect,disregard
+60DA (惚): と恋に落ちる,感心します,惚けます | fall in love with,admire,grow senile
+9AA8 (骨): スケルトン,骨,遺跡,フレーム | skeleton,bone,remains,frame
+72DB (狛): 韓国の古風な部分,ライオンドッグ神社ガード | archaic part of Korea,lion-dog shrine guards
+8FBC (込): 混雑しました,混合,まとめて,含まれました,（kokuji） | crowded,mixture,in bulk,included,(kokuji)
+6B64 (此): この,現在,次,到来,最終,過去 | this,current,next,coming,last,past
+9803 (頃): 時間,約,向かって | time,about,toward
+4ECA (今): 今 | now
+56F0 (困): 苦境,困窮になります,イライラして | quandary,become distressed,annoyed
+5764 (坤): 占いの兆候,土地,地球 | divination sign,land,earth
+58BE (墾): 画期的な,農地を開きます | ground-breaking,open up farmland
+5A5A (婚): 結婚 | marriage
+6068 (恨): 後悔,恨みを抱きます,恨み,悪意,憎しみ | regret,bear a grudge,resentment,malice,hatred
+61C7 (懇): 社交的な,種類,丁寧,手厚いです,心のこもった | sociable,kind,courteous,hospitable,cordial
+660F (昏): ダーク,イブニング,夕暮れ | dark,evening,dusk
+6606 (昆): 子孫,兄貴,昆虫 | descendants,elder brother,insect
+6839 (根): ルート,ラジカル,ヘッド（にきび） | root,radical,head (pimple)
+68B1 (梱): パック,タイアップ,俵 | pack,tie up,bale
+6DF7 (混): ミックス,ブレンド,混乱させる | mix,blend,confuse
+75D5 (痕): マーク,フットプリント | mark,foot print
+7D3A (紺): 濃紺,海軍 | dark blue,navy
+826E (艮): 北東（オリエンタル干支）,停止,良いラジカル（NO。138） | northeast (Oriental zodiac),stopping,good radical (no. 138)
+9B42 (魂): 魂,精神 | soul,spirit
+4E9B (些): 若干,時々 | a little bit,sometimes
+4F50 (佐): アシスタント,助けて | assistant,help
+53C9 (叉): 道路の分岐点,股 | fork in road,crotch
+5506 (唆): 誘惑します,誘惑します,扇動します,推進します | tempt,seduce,instigate,promote
+5D6F (嵯): 急な,ゴツゴツしました,険しいです | steep,craggy,rugged
+5DE6 (左): 左 | left
+5DEE (差): 区別,差,変化,不一致,マージン,バランス | distinction,difference,variation,discrepancy,margin,balance
+67FB (査): 調査する | investigate
+6C99 (沙): 砂 | sand
+7473 (瑳): 研磨,宝石の華麗な白い光沢,巧妙な笑顔 | polish,brilliant white luster of a gem,artful smile
+7802 (砂): 砂 | sand
+8A50 (詐): うそ,虚偽,欺く,装います | lie,falsehood,deceive,pretend
+9396 (鎖): 鎖,アイアン,接続 | chain,irons,connection
+88DF (裟): 仏教サープリス | Buddhist surplice
+5750 (坐): 座ります | sit
+5EA7 (座): スクワット,シート,クッション,集会,座ります | squat,seat,cushion,gathering,sit
+632B (挫): クラッシュ,ブレーク,捻挫,思いとどまらせます | crush,break,sprain,discourage
+50B5 (債): ボンド,ローン,債務 | bond,loan,debt
+50AC (催): スポンサー,ホールド（会議）,（夕食）を得 | sponsor,hold (a meeting),give (a dinner)
+518D (再): 再び,2回,2回目 | again,twice,second time
+6700 (最): 最大限,最も,極端な | utmost,most,extreme
+54C9 (哉): どうやって,何,悲しいかな,クエッションマーク,エクスクラメーション・マーク | how,what,alas,question mark,exclamation mark
+585E (塞): 閉じる,シャット,カバー,ブロック,妨害します | close,shut,cover,block,obstruct
+59BB (妻): 妻,配偶者 | wife,spouse
+5BB0 (宰): 監督します,マネージャー,ルール | superintend,manager,rule

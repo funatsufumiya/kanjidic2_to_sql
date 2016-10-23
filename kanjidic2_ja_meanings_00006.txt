@@ -1,0 +1,100 @@
+86C7 (蛇): ヘビ,蛇,酒豪 | snake,serpent,hard drinker
+90AA (邪): 邪悪,不正,違う | wicked,injustice,wrong
+501F (借): かりて,家賃 | borrow,rent
+52FA (勺): ひしゃく,外出先での10分の1,浸漬 | ladle,one tenth of a go,dip
+5C3A (尺): 尺,曲尺,測定,規模,ルール | shaku,Japanese foot,measure,scale,rule
+6753 (杓): ひしゃく,スクープ | ladle,scoop
+707C (灼): 奇跡的 | miraculous
+7235 (爵): 男爵,貴族,爵位 | baron,peerage,court rank
+914C (酌): バーテンダー,サービング酒,ザ・ホスト,ドロー（水）,ひしゃく,スクープ,ポンプ | bar-tending,serving sake,the host,draw (water),ladle,scoop,pump
+91C8 (釈): 説明 | explanation
+932B (錫): 銅,錫 | copper,tin
+82E5 (若): 若い,もし,たぶん,たぶん,低い数字,未熟 | young,if,perhaps,possibly,low number,immature
+5BC2 (寂): 孤独,静かに,メロウ,成熟しました,入寂 | loneliness,quietly,mellow,mature,death of a priest
+5F31 (弱): 弱い,虚弱な | weak,frail
+60F9 (惹): 引き付けます,魅了する | attract,captivate
+4E3B (主): 主,チーフ,マスター,主なもの,主要な | lord,chief,master,main thing,principal
+53D6 (取): 取る,フェッチ,取り上げる | take,fetch,take up
+5B88 (守): ガード,守ります,守る,従う | guard,protect,defend,obey
+624B (手): ハンド | hand
+6731 (朱): 朱色,辰砂,スカーレット,赤,血まみれの | vermilion,cinnabar,scarlet,red,bloody
+6B8A (殊): 特に,特に,例外的に | particularly,especially,exceptionally
+72E9 (狩): ハント,襲撃,ギャザー | hunt,raid,gather
+73E0 (珠): パール,宝石,宝石 | pearl,gem,jewel
+7A2E (種): 種,種類,クラス,多様,シード | species,kind,class,variety,seed
+816B (腫): 腫瘍,腫れ | tumor,swelling
+8DA3 (趣): 旨,要旨,優雅,関心,に進んでください,傾向があります,なります | purport,gist,elegance,interest,proceed to,tend,become
+9152 (酒): 日本酒,アルコール | sake,alcohol
+9996 (首): ネック,歌や詩のカウンター | neck,counter for songs and poems
+5112 (儒): 儒教の | Confucian
+53D7 (受): 受け入れます,受けます,答えは（電話）,取る,取得する,キャッチ,受け取ります | accept,undergo,answer (phone),take,get,catch,receive
+546A (呪): スペル,呪い,チャーム,のろいです | spell,curse,charm,malediction
+5BFF (寿): 長寿,おめでとうございます,1 \ 'sの自然な生活 | longevity,congratulations,one\'s natural life
+6388 (授): 伝えます,指示します,付与,与える | impart,instruct,grant,confer
+6A39 (樹): 木材,木,木材,確立します,セットアップ | timber,trees,wood,establish,set up
+7DAC (綬): リボン | ribbon
+9700 (需): デマンド,要求,必要 | demand,request,need
+56DA (囚): 捕捉しました,犯罪者,逮捕,キャッチ | captured,criminal,arrest,catch
+53CE (収): 所得,入手します,刈り取ります,支払う,供給,格納 | income,obtain,reap,pay,supply,store
+5468 (周): 周,回路,ラップ | circumference,circuit,lap
+5B97 (宗): 宗教,宗派,宗派,主なポイント,原点,エッセンス | religion,sect,denomination,main point,origin,essence
+5C31 (就): について,落ち着きます,立場を取ります,出発する,調査,あたり | concerning,settle,take position,depart,study,per
+5DDE (州): 状態,州 | state,province
+4FEE (修): 規律,修まります,調査,マスター | discipline,conduct oneself well,study,master
+6101 (愁): 苦痛,悲しみます,嘆く,案じます | distress,grieve,lament,be anxious
+62FE (拾): 拾う,ギャザー,見つけます,歩いていく,十 | pick up,gather,find,go on foot,ten
+6D32 (洲): 大陸,砂州,島,国 | continent,sandbar,island,country
+79C0 (秀): エクセル,優秀,美しさ,しのぎます | excel,excellence,beauty,surpass
+79CB (秋): 秋 | autumn
+7D42 (終): 終わり,仕上げ | end,finish
+7E4D (繍): 縫う,紋織物 | sew,figured cloth
+7FD2 (習): 学びます | learn
+81ED (臭): 臭い,消臭,胡乱,臭気,味わいます,香り,香ります,悪臭,グロー,光ります | stinking,ill-smelling,suspicious looking,odor,savor,fragrance,be fragrant,stink,glow,be bright
+821F (舟): ボート,船 | boat,ship
+8490 (蒐): ギャザー | gather
+8846 (衆): 大衆,偉大な数字,多数,民衆 | masses,great numbers,multitude,populace
+8972 (襲): 攻撃,進出,後を継ぎます,パイル,ヒープ | attack,advance on,succeed to,pile,heap
+8B90 (讐): 敵,復讐 | enemy,revenge
+8E74 (蹴): キック | kick
+8F2F (輯): ギャザー,収集します,コンパイル | gather,collect,compile
+9031 (週): 週間 | week
+914B (酋): 族長 | chieftain
+916C (酬): 返済します,褒賞,報復 | repay,reward,retribution
+96C6 (集): ギャザー,大会,集まります,群れ,群れ | gather,meet,congregate,swarm,flock
+919C (醜): 醜い,汚れました,恥,探し悪いです | ugly,unclean,shame,bad looking
+4EC0 (什): 器具,事,十 | utensil,thing,ten
+4F4F (住): ドエル,住む,ライブ,住みます | dwell,reside,live,inhabit
+5145 (充): 割り当てる,埋めます | allot,fill
+5341 (十): 十 | ten
+5F93 (従): 同行します,従う,提出する,従います,続きます,二次,偶発,下位 | accompany,obey,submit to,comply,follow,secondary,incidental,subordinate
+620E (戎): 戦士,武器,野蛮人,アイヌ | warrior,arms,barbarian,Ainu
+67D4 (柔): 入札,弱点,優しさ,柔軟性 | tender,weakness,gentleness,softness
+6C41 (汁): スープ,ジュース,ブロス,樹液,グレービー,膿 | soup,juice,broth,sap,gravy,pus
+6E0B (渋): 渋いです,ためらいます,気が進みません,下痢をします | astringent,hesitate,reluctant,have diarrhea
+7363 (獣): 動物,獣 | animal,beast
+7E26 (縦): 垂直,長さ,高さ,自己中心的な,わがままな | vertical,length,height,self-indulgent,wayward
+91CD (重): ヘビー,盛り上げます,積み上げます,重箱,倍 | heavy,heap up,pile up,nest of boxes,-fold
+9283 (銃): 銃,武器 | gun,arms
+53D4 (叔): 叔父,若者 | uncle,youth
+5919 (夙): 夙に,ずっと前に,若年期に | bright and early,long ago,early in life
+5BBF (宿): 宿,宿泊,中継局,ドエル,ロッジ,宿ります,ホーム,住居 | inn,lodging,relay station,dwell,lodge,be pregnant,home,dwelling
+6DD1 (淑): 優美な,穏やか,ピュア | graceful,gentle,pure
+795D (祝): 祝う,祝います | celebrate,congratulate
+7E2E (縮): シュリンク,契約する,しぼみます,しわ,減らします | shrink,contract,shrivel,wrinkle,reduce
+7C9B (粛): 厳粛な,静かに,そっと | solemn,quietly,softly
+587E (塾): 塾,私立学校 | cram school,private school
+719F (熟): メロウ,熟します,成熟しました,スキルを取得 | mellow,ripen,mature,acquire skill
+51FA (出): 出口,残します,外出する,出てくる,出す,突き出します | exit,leave,go out,come out,put out,protrude
+8853 (術): アート,技術,技能,手段,トリック,リソース,マジック | art,technique,skill,means,trick,resources,magic
+8FF0 (述): 言及,状態,話す,関連します | mention,state,speak,relate
+4FCA (俊): 聡明な,天才,優秀 | sagacious,genius,excellence
+5CFB (峻): 高い,急な | high,steep
+6625 (春): 春,春（シーズン） | springtime,spring (season)
+77AC (瞬): ウィンク,点滅します,きらめき | wink,blink,twinkle
+7AE3 (竣): 終わり,仕上げ | end,finish
+821C (舜): 朝顔の種類,ムクゲ,アルテア | type of morning glory,rose of Sharon,althea
+99FF (駿): 良い馬,速度,速い人 | a good horse,speed,a fast person
+51C6 (准): 疑似-,半,仲間 | quasi-,semi-,associate
+5FAA (循): シーケンシャル,続きます | sequential,follow
+65EC (旬): デカメロン,旬日,シーズン（特定の製品の場合） | decameron,ten-day period,season (for specific products)
+696F (楯): シールド,盾,口実 | shield,buckler,pretext
