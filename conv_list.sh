@@ -1,5 +1,3 @@
-time ./to_ja_parallel.js -f 2000 -t 2099
-for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00014.txt; done
 time ./to_ja_parallel.js -f 2100 -t 2199
 for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00015.txt; done
 time ./to_ja_parallel.js -f 2200 -t 2299

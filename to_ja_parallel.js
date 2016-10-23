@@ -22,12 +22,19 @@ argv.option([
     short: 'e',
     type: 'int',
     description: '一ファイルあたりの行数を指定します'
+  },
+  {
+    name: 'prefix',
+    short: 'p',
+    type: 'string',
   }
+
 ]);
 
 const args = argv.run();
 const line_from = (typeof args.options.from === 'undefined')? null: args.options.from;
 const line_to = (typeof args.options.to === 'undefined')? null: args.options.to;
+const prefix = (typeof args.options.prefix === 'undefined')? 'mean': args.options.prefix;
 
 if(line_from === null || line_to === null){
   console.error('引数が足りません');
@@ -42,7 +49,7 @@ while(line <= line_to){
   ++count;
   let from = line;
   let to = (line_to - line >= once)? line + (once): line_to;
-  let command = `./kanjidic2_sql_to_ja_meanings.js -f ${from} -t ${to} > /tmp/mean-${count}.txt`;
+  let command = `./kanjidic2_sql_to_ja_meanings.js -f ${from} -t ${to} > /tmp/${prefix}-${count}.txt`;
   console.log('[exec] ' + command);
   exec(command, function(){ console.log(`done: ${from}-${to}`); });
   line += (once + 1);
