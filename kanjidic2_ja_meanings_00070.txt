@@ -1,0 +1,100 @@
+5F7D (彽): 低いです,謙虚な | low,humble
+5F7E (彾):  | 
+5F89 (徉): ワンダー,さまよいます,ストレイ,ためらいます | wonder,rove,stray,hesitating
+5F8D (徍):  | 
+5F8F (徏):  | 
+5F96 (徖):  | 
+5F9C (徜): 歩くとあちこち,残ります,さまよいます | walking and fro,lingering,wander
+5F9D (徝):  | 
+5FA2 (徢):  | 
+5FA7 (徧): どこにでも,いたるところ,全体的に,回転します | everywhere,all over,all around,revolve
+5FAB (徫):  | 
+5FA4 (徤):  | 
+5FAC (徬): 約さまよいます,のと一緒に歩きます | wander about,walk along side of
+5FAF (徯): を待つ,待つ,期待します,希望 | wait for,await,expect,hope
+5FB0 (徰):  | 
+5FB1 (徱):  | 
+5FB8 (徸):  | 
+5FC4 (忄): ハート,立って心ラジカルバリアント（なし。61） | heart,standing heart radical variant (no. 61)
+5FC7 (忇): 偉大な業績 | great achievement
+5FC8 (忈):  | 
+5FC9 (忉): 悲しみます,心の中で悩んで | grieved,distressed in mind
+5FCB (忋): 頼る,尊敬します | to rely on,look up to
+5FD0 (忐): 臆病な,神経質な | timorous,nervous
+5FD1 (忑): 恐ろしいです,神経質な,臆病な | fearful,nervous,timid
+5FD2 (忒): 過度の,あまりに,非常に-通常は不快なものの,誤るします,ミスへ,可変 | excessive,too,very-usually of objectionable things,to err,to mistake,changeable
+5FD3 (忓): を懸念 | concerned about
+5FD4 (忔): 喜んでします,嫌いします,必要としないために | to be delighted,to dislike,to have no need for
+5FDE (忞): 勤めます,落ち着きのありません,自分の気持ちに気付いていません | exert oneself,restless,unaware of one\'s feelings
+5FE1 (忡): 不安な,行き詰まりました | ill at ease,distressed
+5FE2 (忢): 啓発,気付きます,識別する,実現します,わかる | enlightenment,perceive,discern,realize,understand
+5FE8 (忨):  | 
+5FE9 (忩): ラッシュ,急ぎます,慌てふためきます | rush,hurry,be flustered
+5FEA (忪): 静か,穏やかな,静かな,穏やかな | quiet,calm,tranquil,peaceful
+5FEC (忬):  | 
+5FED (忭): 喜んで,喜んで | delighted,pleased
+5FEE (忮): 頑固な,ひねくれました,積極的な | stubborn,perverse,aggressive
+5FEF (忯): 好きであることを,愛する,を尊重することが | to be fond of,to love,to be respectful of
+5FF2 (忲): ぜいたくな | extravagant
+5FF3 (忳): 苦悩,悲しみます,無知な,愚かな | anguish,grieve,ignorant,foolish
+5FF6 (忶):  | 
+5FFA (忺):  | 
+5FFC (忼): 泣きます,悲しみます | weep,grieve
+6007 (怇):  | 
+600A (怊): 悲しみます,悲しいです | grieve,sorrowful
+600D (怍): 恥じるします | to be ashamed
+6013 (怓):  | 
+6014 (怔): 病気似神経症 | disease resembling neurosis
+6017 (怗): 注意深いです,穏やかな,従順な | observant,peaceful,submissive
+6018 (怘): 守ります,守ります | protect,safeguard
+601A (怚): 鈍い,愚か,疑わしい | dull,stupid,suspicious
+601F (怟):  | 
+6024 (怤): 考えます,楽しみにする | think,look forward to
+602D (怭): 無礼な | rude
+6033 (怳): 野生,怒って,慌て | wild,mad,flurried
+6035 (怵): 恐れ,怖がる,シャイ,臆病な | fear,be afraid,shy,timid
+6040 (恀):  | 
+6047 (恇): 恐れ | fear
+6048 (恈):  | 
+6049 (恉): 意味,旨,ドリフト | meaning,purport,drift
+604C (恌): 心配する,軽薄 | to worry,frivolous
+6051 (恑): 変化へ,変更します,に身を収容します | to change,to alter,to accommodate oneself to
+6054 (恔): 陽気な,鮮やか,聡明な | cheerful,bright,sagacious
+6056 (恖):  | 
+6057 (恗):  | 
+605D (恝): 気楽な,無関心な方法 | carefree,indifferent manner
+6061 (恡): けちな,の温存,勘定高いです | stingy,sparing of,close-fisted
+6067 (恧): 恥ずかしい,恥ずかしい | ashamed,embarrassed
+6071 (恱):  | 
+607E (恾):  | 
+607F (恿): 扇動します,駆り立てます,アラームに | instigate,incite,to alarm
+6082 (悂):  | 
+6086 (悆): ハッピー | happy
+6088 (悈):  | 
+608A (悊): 賢いです,直感的に知っています | wise,to know intuitively
+608E (悎):  | 
+6091 (悑): 恐ろしい,ギョッとします,恐ろしいです | dreadful,be frightened,fearful
+6093 (悓):  | 
+6095 (悕): 本格的に祈ります,悲しいこと,嘆く | pray in earnest,be sorrowful,lament
+6098 (悘):  | 
+609D (悝): 笑うします,同情します,苦しめ,悲しい | to laugh at,to pity,afflicted,sad
+609E (悞): 妨げます,ネグレクト,ディレイ | impede,neglect,delay
+60A2 (悢):  | 
+60A4 (悤): 攪拌,落ち着きのありません,慌しいです | agitated,restless,hurried
+60A5 (悥):  | 
+60A8 (您): あなたのための敬語 | honorific for "you"
+60B0 (悰): 楽しみます,アミューズ,お願いします,喜び | enjoy,amuse,please,joy
+60B1 (悱): スピーキングを望むことにします | to be desirous of speaking
+60B7 (悷):  | 
+60BB (悻): 怒り,悩みの種,怒って,憤慨しました | anger,vexation,angry,indignant
+60BE (悾): 素朴な,あどけないです,うぶな | naive,guileless,simple-minded
+60C2 (惂):  | 
+60C4 (惄): 以下のための長いです,飢えました | long for,hungry
+60C8 (惈): 断固たる,決定 | resolute,determined
+60C9 (惉):  | 
+60CA (惊): 怖がらせます,驚き,驚き | frighten,surprise,startle
+60CB (惋): 後悔,残念です,驚いて | regret,be sorry,alarmed
+60CE (惎): 傷つけます,害,殺人 | injure,harm,murder
+60CF (惏): 強欲な,貪欲,コールド | avaricious,greedy,cold
+60D4 (惔): 陽気な | cheerful
+60D5 (惕): 慎重です,注意深いです,アラート | be cautious,careful,alert

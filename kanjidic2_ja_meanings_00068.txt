@@ -1,0 +1,100 @@
+5C5C (屜): 引き出し,トレイ,パッド,画面 | drawer,tray,pad,screen
+5C62 (屢): 頻繁に,しばしば,再び＆; 再び | frequently,often,again &amp; again
+5C63 (屣): 何のヒールバックを持っていないわらじやスリッパ | straw sandals or slippers that have no heel-backs
+5C67 (屧): 木製の靴,履物 | wooden shoes,clogs
+5C68 (屨): 草鞋,踏みます | straw sandals,tread on
+5C69 (屩): 草鞋 | straw sandals
+5C6D (屭): 巨大な強さ,ヘラクレス | gigantic strength,Hercules
+5C70 (屰): 反抗的な | disobedient
+5C74 (屴): 高尚な | lofty
+5C75 (屵):  | 
+5C7A (屺): 木や草丘（一部は反対の意味を与えます） | hill with trees or grass (some give the opposite meaning)
+5C7B (屻):  | 
+5C7C (屼): 山,裸の丘 | mountain,bare hill
+5C7D (屽):  | 
+5C87 (岇):  | 
+5C88 (岈):  | 
+5C8A (岊): フットヒル | foothill
+5C8F (岏):  | 
+5C92 (岒):  | 
+5C9D (岝): 山東省にある山の名前 | name of mountain in Shandong
+5C9F (岟):  | 
+5CA0 (岠):  | 
+5CA2 (岢):  | 
+5CA3 (岣): 湖南省の丘 | hill in Hunan
+5CA6 (岦):  | 
+5CAA (岪):  | 
+5CB2 (岲):  | 
+5CB4 (岴):  | 
+5CB5 (岵): 丘 | hill
+5CBA (岺): 尾根,山頂 | mountain ridge,mountain peak
+5CC9 (峉):  | 
+5CCB (峋): 丘の範囲は、他の不規則なピークを越えて上のストレッチ | ranges of hills stretching on beyond another irregular peaks
+5CD2 (峒): 甘粛省の山 | mountain in Gansu province
+5CDD (峝): 甘粛省の山 | Mountain in Gansu province
+5CD7 (峗):  | 
+5CEE (峮):  | 
+5CF1 (峱): 山の名前 | name of a mountain
+5CF2 (峲):  | 
+5CF4 (峴): 急な丘,湖北省で山 | steep hill,mountain in Hubei
+5D01 (崁): 台湾の場所 | place in Taiwan
+5D06 (崆): Kongtong山 | Kongtong mountain
+5D0D (崍): 四川省の山 | mountain in Sichuan province
+5D12 (崒): 岩のピーク,高尚な、危険な | rocky peaks,lofty and dangerous
+5D2B (崫):  | 
+5D23 (崣):  | 
+5D24 (崤): 河南省の山 | mountain in Henan
+5D26 (崦): 甘粛省での山,ここで、太陽が夜に沈むと言われているに洞窟があります | mountain in Kansu, where there is a cave into which the sun is said to sink at night
+5D27 (崧): 高山,高尚な,著名な | high mountain,lofty,eminent
+5D31 (崱): 高尚な | lofty
+5D34 (崴): 高い,高尚な,険しいです | high,lofty,precipitous
+5D39 (崹):  | 
+5D3D (崽): 子,サーバント,ちっぽけな | child,servant,diminutive
+5D3F (崿): 崖 | cliffs
+5D42 (嵂): 高尚な | lofty
+5D43 (嵃):  | 
+5D46 (嵆): 河南省の山,姓 | mountain in Henan,surname
+5D48 (嵈):  | 
+5D55 (嵕):  | 
+5D51 (嵑):  | 
+5D59 (嵙): 地名 | place name
+5D4A (嵊): Shaohsing中地区,Chekiang | district in Shaohsing,Chekiang
+5D5F (嵟):  | 
+5D60 (嵠): その中の流れと谷,渓谷 | valley with a stream in it,gorge
+5D61 (嵡):  | 
+5D62 (嵢):  | 
+5D64 (嵤):  | 
+5D6A (嵪):  | 
+5D6D (嵭):  | 
+5D70 (嵰):  | 
+5D79 (嵹):  | 
+5D7A (嵺):  | 
+5D7E (嵾): 平らでありません | uneven
+5D7F (嵿):  | 
+5D81 (嶁): 湖南省のGoulou山のピーク | Goulou mountain peak in Hunan
+5D83 (嶃):  | 
+5D88 (嶈):  | 
+5D8A (嶊):  | 
+5D92 (嶒): そびえ立ちます,高尚な,急な | towering,lofty,steep
+5D93 (嶓): Boshan,陝西省の山 | Boshan,mountain in Shaanxi
+5D94 (嶔): 高尚な,そびえ立ちます | lofty,towering
+5D95 (嶕):  | 
+5D99 (嶙): 険しいです | precipitous
+5D9B (嶛):  | 
+5D9F (嶟):  | 
+5DA0 (嶠): 高尖った山 | high pointed mountain
+5DA7 (嶧): ピークの範囲,山の名前 | range of peaks,name of mountain
+5DAB (嶫):  | 
+5DB0 (嶰): 渓谷 | gorge
+5DB4 (嶴): 島 | island
+5DB8 (嶸): 高い,急な,高尚な,そびえ立ちます | high,steep,lofty,towering
+5DB9 (嶹):  | 
+5DC3 (巃): 高尚な | lofty
+5DC7 (巇): 亀裂,危険な,急な | crack,hazardous,steep
+5DCB (巋): 壮大な,風格のあります,確保します,持続的な | grand,stately,secure,lasting
+5DD0 (巐):  | 
+5DCE (巎):  | 
+5DD8 (巘): サミット,ピーク | summit,peak
+5DD9 (巙):  | 
+5DE0 (巠): 地下の実行の流れ,流水 | streams running underground,flowing water
+5DE4 (巤): たてがみ,剛毛,豚上と,背びれ | mane,bristles, as on a hog,dorsal fins

@@ -1,0 +1,100 @@
+5DE9 (巩): バインド,当社,確保します,強い | bind,firm,secure,strong
+5DF8 (巸):  | 
+5DF9 (巹):  | 
+5E00 (帀): ラウンド行きます,回路を作るために,革命を作るために,ラウンドオンにします | to go round,to make a circuit,to make a revolution,to turn round
+5E07 (帇):  | 
+5E0D (帍):  | 
+5E12 (帒): バッグ,袋,場合,ポケット,ポーチ | bag,sack,case,pocket,pouch
+5E14 (帔): スカート,女性のための長いローブ,何の袖を持っていないとフロントのダウン留めます | skirt,long robe for women, having no sleeves and fasten down the front
+5E15 (帕): ターバン,ハンカチ,ベール,ラップ | turban,kerchief,veil,wrap
+5E18 (帘): 居酒屋のフラグ記号 | flag-sign of a tavern
+5E1F (帟): テント | tent
+5E20 (帠):  | 
+5E2E (帮): 助けて,支援する,守る,靴のアッパー | help,assist,defend,shoe upper
+5E28 (帨): ハンカチ,ハンカチ,ショール | handkerchief,kerchief,shawl
+5E32 (帲): シェルター | shelter
+5E35 (帵): 残党,テーラーカッティング | remnants,tailor\'s cutting
+5E3E (帾):  | 
+5E4B (幋): ベルト | belt
+5E50 (幐):  | 
+5E49 (幉):  | 
+5E51 (幑):  | 
+5E56 (幖):  | 
+5E58 (幘): ターバン,円錐形のキャップ | turban,conical cap
+5E5B (幛): 絹のスクロール,布提示 | scroll of silk,cloth presented
+5E5C (幜):  | 
+5E5E (幞): ターバン | turban
+5E68 (幨): カーテン | curtain
+5E6A (幪): カバー,シェルター,画面,守ります | cover,shelter,screen,protect
+5E6B (幫): 助けて,支援する,守る,靴のアッパー | help,assist,defend,shoe upper
+5E6C (幬): 隠ぺいする,カーテン | cover up,curtain
+5E6D (幭): カバー | cover
+5E6E (幮): カーテン | curtain
+5E70 (幰): キャリッジの正面に幕 | curtain at front of carriage
+5E80 (庀): 準備する,調整します,アップ手にします | to prepare,to regulate,to hand up
+5E8B (庋): 食器棚,パントリー,ストアへ | cupboard,pantry,to store
+5E8E (庎):  | 
+5EA2 (庢):  | 
+5EA4 (庤): 準備します | prepare
+5EA5 (庥): シェード,シェルター,保護 | shade,shelter,protection
+5EA8 (庨):  | 
+5EAA (庪):  | 
+5EAC (庬): 豊富な,ミックス | abundant,mixed
+5EB1 (庱):  | 
+5EB3 (庳): 低建てた家 | low-built house
+5EBD (庽):  | 
+5EBE (庾): 穀倉,倉庫 | granary,storehouse
+5EBF (庿):  | 
+5EC6 (廆): ルーム,家の壁,男の名前 | room,the wall of a house,man\'s name
+5ECC (廌): ユニコーン | unicorn
+5ECB (廋): 隠す,隠す,検索する,シーク | conceal,hide,search for,seek
+5ECE (廎): ルーム | room
+5ED1 (廑): 小屋,注意深いです | hut,careful
+5ED2 (廒):  | 
+5ED4 (廔):  | 
+5ED5 (廕): シェード,守ります,カバー | shade,protect,cover
+5EDC (廜):  | 
+5EDE (廞): 戦闘用の馬と戦車を作製しました | to prepare horses and chariots for battle
+5EE5 (廥):  | 
+5EEB (廫):  | 
+5F02 (异): 異なります,珍しいです,奇妙な | different,unusual,strange
+5F06 (弆):  | 
+5F07 (弇): 覆い隠します,隠す,狭い首 | cover over,hide,narrow-necked
+5F08 (弈): 中国将棋 | Chinese chess
+5F0E (弎): 三 | three
+5F19 (弙):  | 
+5F1C (弜):  | 
+5F1D (弝): 撮影時の弓の一部を把握しました | the part of a bow grasped when shooting
+5F21 (弡):  | 
+5F22 (弢): ケース弓,鞘,鞘に収めます | bow case,scabbard,sheathe
+5F23 (弣): 中間 | middle
+5F24 (弤): 弓 | bow
+5F28 (弨): 弓 | bow
+5F2B (弫):  | 
+5F2C (弬):  | 
+5F2E (弮): クロスボウ連続して放電いくつかのボルト | cross-bow which discharged several bolts in succession
+5F30 (弰): 弓の両端 | ends of bow
+5F34 (弴): 赤いラッカーボウル | red lacquer bow
+5F36 (弶):  | 
+5F3B (弻):  | 
+5F3D (弽):  | 
+5F3F (弿):  | 
+5F40 (彀): 十分な,十分な完全に,かなり | enough,adequate fully,quite
+5F44 (彄): 弓の終わりにニック,ストレッチ | nock at end of bow,stretch
+5F45 (彅):  | 
+5F47 (彇):  | 
+5F4D (彍): 完全に弓を描画します | to draw a bow to the full
+5F50 (彐): 吻,ラジカル豚の頭（なし。58） | snout,pig\'s head radical (no. 58)
+5F54 (彔): 木を彫るします | to carve wood
+5F58 (彘): 豚 | swine
+5F5B (彛): YI,三脚,ワインの容器,ルール | yi,tripod,wine vessel,rule
+5F60 (彠):  | 
+5F63 (彣):  | 
+5F64 (彤): 赤,朱色,古代の名前 | red,vermilion,name of ancient
+5F67 (彧): 洗練されました,培養されました,洗練されました | refined,cultured,polished
+5F6F (彯):  | 
+5F72 (彲): 黄色のドラゴン | yellow dragon
+5F74 (彴): ブリッジ | bridge
+5F75 (彵):  | 
+5F78 (彸): 落ち着きのありません,攪拌 | restless,agitated
+5F7A (彺):  | 

@@ -1,0 +1,100 @@
+60D9 (惙): 悲しい,憂鬱,嘆き,悼みます | sad,melancholy,grieving,mourn
+60DB (惛): 混乱しました,愚か,鈍い,老人性 | confused,stupid,dull,senile
+60DD (惝): 落胆しました,意気消沈しました,漠然としました,かすかな,壮大な | dejected,dispirited,vague,faint,grand
+60DE (惞):  | 
+60E2 (惢):  | 
+60E5 (惥):  | 
+60F2 (惲): 考案します,計画,意図的な,領事 | devise,plan,deliberate,consul
+60F5 (惵): 恐れ,揉みます,埋めます,満たす,穏やかな,安心して,静かな | fear,worry over,fill,satisfy,calm,at ease,tranquil
+60F8 (惸): 問題を抱えました,心配して,行き詰まりました | troubled,worried,distressed
+60FC (惼): 心の狭い | narrow-minded
+60FD (惽): 混乱しました | confused
+6102 (愂):  | 
+6107 (愇):  | 
+610A (愊): 誠実,正直な,押し下げられました | sincere,honest,depressed
+610C (愌):  | 
+6110 (愐): 恥ずかしがり屋の,検討する | bashful,to consider
+6111 (愑):  | 
+6112 (愒): 残り,やめる,カバー | rest,stop,cover
+6113 (愓): 放蕩な | profligate
+6114 (愔): 快適,満足しました,穏やかな | comfortable,contented,peaceful
+6116 (愖):  | 
+6117 (愗):  | 
+6119 (愙):  | 
+611C (愜): 満足すること,快適に | be satisfied,be comfortable
+611E (愞): 臆病な,不安 | timid,apprehensive
+6122 (愢):  | 
+612A (愪): 悲しむべき,悲しい | to be grieved,sad
+612B (愫): あどけないです,誠実,正直な | guileless,sincere,honest
+6130 (愰): 心の鮮明,疑わしい,不確か | clearness of mind,doubtful,uncertain
+6131 (愱):  | 
+6135 (愵):  | 
+6136 (愶):  | 
+6137 (愷): 楽しみます,安んじる,楽しいです | enjoy,be contented,joyful
+6139 (愹):  | 
+6141 (慁): 不名誉,背きます,侮辱 | dishonor,disobey,insult
+6145 (慅): 攪拌 | agitated
+6146 (慆): 過度の,自堕落な,喜んで | excessive,dissolute,delighted
+6149 (慉): 育てるため,調達します | to bring up,to raise
+615E (慞):  | 
+6160 (慠):  | 
+616C (慬): 勇敢な,用心深いです,悲しい | brave,cautious,sad
+6172 (慲):  | 
+6178 (慸):  | 
+617B (慻):  | 
+617C (慼): 悲しいです,悲しげな,悲しみ,悲しみます | sorrowful,mournful,sorrow,grieve
+617F (慿):  | 
+6180 (憀): 頼る | to rely on
+6181 (憁): 無知と愚か,あてもなく走り回ります,自分の意志を果たすことができません | ignorant and foolish,run around aimlessly,unable to fulfill one\'s will
+6183 (憃): 愚かな,愚か,鈍い,愚かな | foolish,stupid,dull,silly
+6184 (憄):  | 
+618B (憋): 内側感を抑制するために、,性急な | to suppress inner feeling,hasty
+618D (憍): いたずらであること,誇りに思う,傲慢な | be haughty,proud,arrogant
+6192 (憒): 混乱しました,問題を抱えました,混乱の頭 | confused,troubled,muddle-headed
+6193 (憓): 素直に従ってください,祝福,好意 | follow obediently,blessing,favour
+6197 (憗):  | 
+6198 (憘): 以下のような,愛,楽しみます,うれしそうな事 | like,love,enjoy,joyful thing
+619C (憜): 怠惰な,怠惰 | lazy,lazines
+619D (憝): 嫌いします,憎悪します,嫌いに | to dislike,to abhor,to hate
+619F (憟):  | 
+61A0 (憠):  | 
+61A5 (憥):  | 
+61A8 (憨): 愚かな,愚かな,コケティッシュ | foolish,silly,coquettish
+61AA (憪): 構成,満足しました | composed,contented
+61AD (憭): クリア,分かりやすいです,厳しいです,コールド | clear,intelligible,severe,cold
+61B8 (憸): 平坦,狡猾な,もっともらしい持ちます | flatter,crafty,having specious
+61B9 (憹): 心配して,心配して,振とう | worried,anxious,shaken
+61BC (憼):  | 
+61C0 (懀):  | 
+61C1 (懁):  | 
+61C2 (懂): わかる,理解します | understand,comprehend
+61CE (懎):  | 
+61CF (懏):  | 
+61D5 (懕): 飽き飽きし,満足しました | satiated,contented
+61DC (懜): 鈍い,愚か,あほな | dull,stupid,doltish
+61DD (懝): の無知,疑念,割り込み,やめる | ignorant of,misgivings,interrupt,stop
+61DE (懞):  | 
+61DF (懟): 嫌い,忌み嫌います,憎しみ,恨み | hate,abhor,hatred,resentment
+61E1 (懡):  | 
+61E2 (懢):  | 
+61E7 (懧):  | 
+61E9 (懩):  | 
+61E5 (懥): 怒って,激怒しました,憤慨して,嫌い | angry,enraged,resentful,hate
+61EC (懬):  | 
+61ED (懭):  | 
+61EF (懯):  | 
+6201 (戁): 恐れ | fear
+6203 (戃):  | 
+6204 (戄): の畏敬の念であることが,を恐れ | to be in awe of,to fear
+6207 (戇): 愚か,シンプル,うぶな | stupid,simple,simple-minded
+6213 (戓):  | 
+6215 (戕): 殺します,殺す,創傷,傷つけます,傷つけます | kill,slay,wound,injure,hurt
+621C (戜): こすりします,有利 | to scrape,advantageous
+6220 (戠): 剣,陶土,収集します | sword,potter\'s clay,to gather
+6222 (戢): 離れて置くために,中止します,蓄積します | to put away,to cease,store up
+6223 (戣): ランス | lance
+6227 (戧): サポート | support
+6229 (戩): 根絶します,破壊する,祝福 | exterminate,destroy,blessing
+622B (戫):  | 
+6239 (戹): 引き摺ります | drag along
+623D (戽): ベールアウト水 | to bale out water

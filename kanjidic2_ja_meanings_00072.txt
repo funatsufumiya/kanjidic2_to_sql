@@ -1,0 +1,100 @@
+6242 (扂): ロック,ラッチ,バー,ボルト | lock,latch,bar,bolt
+6243 (扃): ドアの外に配置されたドアバー | door bar placed outside a door
+6244 (扄): ノッカーとして使用するフロントドアに大きなリング | large ring on a front door used as a knocker
+6246 (扆): 画面 | screen
+624C (扌): ハンド,手ラジカル（NO。64） | hand,hand radical (no. 64)
+6250 (扐): 神 | divine
+6251 (扑): ポンド,ビート,ストライク,攻撃 | pound,beat,strike,attack
+6252 (扒): スクラッチ,掘り出す,クロール,しゃがみます | scratch,dig up,crawl,crouch
+6254 (扔): スロー,投げます,捨てる,キャスト | throw,hurl,throw away,cast
+6256 (扖):  | 
+625A (扚):  | 
+625C (扜):  | 
+6264 (扤): 移動 | move
+626D (扭): 順番,ねじれ,レンチ,つかみます,把握 | turn,twist,wrench,seize,grasp
+626F (扯): ビリビリ裂きます,取り壊す,レイズ,ホール | rip up,tear down,raise,haul
+6273 (扳): 引く,ドラッグ,右自体 | pull,drag,right itself
+627A (扺):  | 
+627D (扽): 移動します,振る | to move,to shake
+628D (抍):  | 
+628E (抎):  | 
+628F (抏):  | 
+6290 (抐):  | 
+62A6 (抦):  | 
+62A8 (抨): 弾劾します,酷評,攻撃 | impeach,censure,attack
+62B3 (抳):  | 
+62B6 (抶): ビート | beat
+62B7 (抷):  | 
+62BA (抺):  | 
+62BE (抾):  | 
+62BF (抿): 笑顔で唇をすぼめます,押す | pucker up lips in smile,press
+62C4 (拄): 寄り掛かります,役職,突きます,冷やかし | lean on,post,prod,ridicule
+62CE (拎): 牽引します,リフトへ,取ります | to haul,to lift,to take
+62D5 (拕): 後にドラッグします,アウトドラッグします,関与する,遅延に,巻き込むします | to drag after,to drag out,to involve,to delay,to implicate
+62D6 (拖): ドラッグ,牽引,ホール,ディレイ,延ばします | drag,tow,haul,delay,prolong
+62DA (拚): リスク,無視,以下のためにすべてのアウトを行きます | risk,disregard,go all out for
+62EA (拪):  | 
+62F2 (拲):  | 
+62F4 (拴): ロープで結合します,留めます | bind with rope,fasten
+62FC (拼): 合流します,リンク,組み込みます | join together,link,incorporate
+62FD (拽): ドラッグ,牽引,スロー,ねじれ | drag,tow,throw,twist
+6303 (挃):  | 
+6304 (挄):  | 
+630A (挊):  | 
+630B (挋):  | 
+630D (挍): 照合します | collate
+6310 (挐): ドラッグ | drag
+6313 (挓): アウト開きます,拡大するために | to open out,to expand
+6316 (挖): 掘る,掘り出す,くりぬきます,スクープ | dig,dig out,gouge out,scoop
+6318 (挘): 摘みます,選ぶ,涙,（kokuji） | pluck,pick,tear,(kokuji)
+6329 (挩):  | 
+632A (挪): 移動,一方の側にシフト | move,shift on one side
+632D (挭): 魚の骨,のどに固執するもの,不屈の,スピーチの鈍 | fish bones,things that stick in the throat,unyielding,blunt of speech
+6335 (挵): と遊ぶ,物事を処理 | play with,handle things
+6336 (挶): 手で握ります | hold in hands
+6339 (挹): ベールにアウト,液体をデカントします | to bale out,to decant liquids
+633C (挼): こする,手でストローク,しわくちゃになります | rub,stroke with hands,crumple
+6341 (捁):  | 
+6342 (捂): 抵抗します | resist
+6343 (捃):  | 
+6344 (捄): 長いです | long
+6346 (捆): タイアップ,バインド,アップトラス,バンドル | tie up,bind,truss up,bundle
+634A (捊):  | 
+634B (捋): むしるします,指で収集します,こする,削り取るします,馬の運動領域 | to pluck,to gather in the fingers,to rub,to scrape off,horse exercise area
+634E (捎): 選ぶ,取ります,持ち運びに | to select,to take,to carry
+6352 (捒):  | 
+6353 (捓): 努力します,努力 | strive,endeavor
+6354 (捔):  | 
+6358 (捘): 押す | push
+635B (捛):  | 
+6365 (捥): 手首を曲げ,落ちる,壊れます | to bend the wrist,come off,be broken
+6366 (捦): つかむために,クラッチへ,逮捕します,キャプチャします | to seize,to clutch,to arrest,to capture
+636C (捬): 手で重く押し下げ | press down heavily with hands
+636D (捭): 開く,広がるします | to open,to spread out
+6371 (捱): 延期する,先延ばしにします,耐える | put off,procrastinate,endure
+6374 (捴):  | 
+6375 (捵):  | 
+6378 (捸):  | 
+637C (捼): こする,もみくちゃに | to rub,to crumple
+637D (捽): クラッチ,把握,引き上げます,反します | clutch,grasp,pull up,contradict
+637F (捿): パーチ,ねぐら,滞在 | perch,roost,stay
+6382 (掂): 重さへ,手のひらに保持したり計量します | to heft,to hold or weigh in the palm
+6384 (掄): スイング,振り回す,栄えます | swing,brandish,flourish
+6387 (掇): 収集します,集める,拾う | collect,gather up,pick up
+638A (掊): 抽出します,傷つけます | to extract,injure
+6390 (掐): ホールド,手で集めます,チョーク | hold,gather with hand,choke
+6394 (掔): 頑丈 | sturdy
+6395 (掕):  | 
+6399 (掙): 努力します,努力,闘争 | strive,endeavor,struggle
+639A (掚):  | 
+639E (掞): 簡単に,スムーズ,静か,上品さ | easy,smooth,quiet,suave
+63A4 (掤): 矢筒 | quiver
+63A6 (掦):  | 
+63AD (掭): 操作します,ランプの芯のためのとげ | to manipulate,pricker for a lamp wick
+63AE (掮): 肩に負担します | to bear on the shoulders
+63AF (掯): 虐げます,強要します,奪い取ります | oppress,extort,take by force
+63BD (掽): 衝突します,予想外に会います | collide,meet unexpectedly
+63C1 (揁): 琴のセットアップの音 | sound of setting up a koto
+63C5 (揅): グラインド,こする,調査,研究 | grind,rub,study,research
+63C8 (揈):  | 
+63CE (揎): 袖をプルアップし、腕を伸ばしします,裸の拳で打つこと | to pull up the sleeves and stretch out the arms,to strike with bare fists
