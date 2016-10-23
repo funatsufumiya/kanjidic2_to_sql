@@ -1,0 +1,100 @@
+50FB (僻): 偏見,バイアス,農村地域 | prejudice,bias,rural area
+58C1 (壁): 壁,ライニング（胃）,フェンス | wall,lining (stomach),fence
+7656 (癖): マンネリ,習慣,バイス,トレイト,障害,よじれ | mannerism,habit,vice,trait,fault,kink
+78A7 (碧): 青,緑 | blue,green
+5225 (別): 別,分岐します,発散します,フォーク,別の,余分な,特に | separate,branch off,diverge,fork,another,extra,specially
+77A5 (瞥): チラッと見ます | glance at
+8511 (蔑): 無視します,軽蔑します,ネグレクト,冷やかし | ignore,despise,neglect,ridicule
+7B86 (箆): へら,矢印シャフト | spatula,arrow shaft
+504F (偏): 部分的,側,左サイドラジカル,傾斜,バイアスされました | partial,side,left-side radical,inclining,biased
+5909 (変): 珍しいです,変化する,奇妙な | unusual,change,strange
+7247 (片): 一方的な,葉,シート,右側カタラジカル（NO。91） | one-sided,leaf,sheet,right-side kata radical (no. 91)
+7BC7 (篇): ボリューム,章,本,編集,コンピレーション | volume,chapter,book,editing,compilation
+7DE8 (編): コンピレーション,ニット,ひだ,組紐,ねじれ,編集,編,本の一部 | compilation,knit,plait,braid,twist,editing,completed poem,part of a book
+8FBA (辺): 環境,境界,境界,近傍 | environs,boundary,border,vicinity
+8FD4 (返): リターン,回答,フェード,返済します | return,answer,fade,repay
+904D (遍): どこにでも,回,広く,一般に | everywhere,times,widely,generally
+4FBF (便): 利便性,施設,糞,糞便,文字,チャンス | convenience,facility,excrement,feces,letter,chance
+52C9 (勉): 努力,努力,奨励します,努力します,努力します,勤勉な | exertion,endeavour,encourage,strive,make effort,diligent
+5A29 (娩): クマ（子供） | bear (children)
+5F01 (弁): バルブ,花弁,組紐,スピーチ,方言,差別,処分します,区別する,円錐形のキャップ | valve,petal,braid,speech,dialect,discrimination,dispose of,distinguish,conical cap
+97AD (鞭): ホイップ,ロッド,whippingsためのカウンタ | whip,rod,counter for whippings
+4FDD (保): 守ります,保証,キープ,保存します,サスティーン,サポート | protect,guarantee,keep,preserve,sustain,support
+8217 (舗): ショップ,格納,舗装 | shop,store,pave
+92EA (鋪): ショップ,格納 | shop,store
+5703 (圃): 庭園,フィールド | garden,field
+6355 (捕): キャッチ,キャプチャー | catch,capture
+6B69 (歩): 歩く,手順については、カウンタ | walk,counter for steps
+752B (甫): 初めて,ないまで | for the first time,not until
+88DC (補): 補足,供給,良くする,オフセット,補います,アシスタント,学習者 | supplement,supply,make good,offset,compensate,assistant,learner
+8F14 (輔): 助けて | help
+7A42 (穂): 耳,耳（穀物）,頭,クレスト（波） | ear,ear (grain),head,crest (wave)
+52DF (募): リクルート,キャンペーン,ギャザー（貢献）,入隊します,暴力的な成長 | recruit,campaign,gather (contributions),enlist,grow violent
+5893 (墓): 墓,墓 | grave,tomb
+6155 (慕): 喪中,憧れます,慕います,崇拝します | pining,yearn for,love dearly,adore
+620A (戊): 第五カレンダーの記号 | 5th calendar sign
+66AE (暮): イブニング,トワイライト,シーズンの終わり,生活,生計を立てる,時を過ごす | evening,twilight,season\'s end,livelihood,make a living,spend time
+6BCD (母): 母 | mother
+7C3F (簿): 登録,記録簿 | register,record book
+83E9 (菩): 草の種類,神木 | kind of grass,sacred tree
+5023 (倣): エミュレート,模倣します | emulate,imitate
+4FF8 (俸): 奨学金,給料 | stipend,salary
+5305 (包): ラップ,荷造りする,カバー,隠す | wrap,pack up,cover,conceal
+5446 (呆): 驚かれること,うんざりします,ショックを受けて | be amazed,disgusted,shocked
+5831 (報): 報告する,ニュース,褒賞,報復 | report,news,reward,retribution
+5949 (奉): 遵守,提供,現在,ささげます | observance,offer,present,dedicate
+5B9D (宝): 宝,富,貴重品 | treasure,wealth,valuables
+5CF0 (峰): サミット,ピーク | summit,peak
+5CEF (峯): ピーク,サミット | peak,summit
+5D29 (崩): 崩れます,死にます,取り壊します,レベル | crumble,die,demolish,level
+5E96 (庖): キッチン | kitchen
+62B1 (抱): 擁する,抱擁,抱えます | embrace,hug,hold in arms
+6367 (捧): 持ち上げる,与える,提供,奉献します,犠牲,ささげます | lift up,give,offer,consecrate,sacrifice,dedicate
+653E (放): 自由に設定,リリース,火災,シュート,発します,払いのけます,解放します | set free,release,fire,shoot,emit,banish,liberate
+65B9 (方): 方向,人,代替案 | direction,person,alternative
+670B (朋): コンパニオン,友人 | companion,friend
+6CD5 (法): 方法,法律,ルール,原理,モデル,システム | method,law,rule,principle,model,system
+6CE1 (泡): 泡,フォーム,泡,泡 | bubbles,foam,suds,froth
+70F9 (烹): 沸騰,クック | boil,cook
+7832 (砲): カノン,銃 | cannon,gun
+7E2B (縫): 縫う,ステッチ,潤色します | sew,stitch,embroider
+80DE (胞): 胎盤,嚢,シース | placenta,sac,sheath
+82B3 (芳): 香水,さわやかな,好調,香り高いです | perfume,balmy,favorable,fragrant
+840C (萌): のショーの症状,もやし,芽,麦芽 | show symptoms of,sprout,bud,malt
+84EC (蓬): ヤマヨモギ,ヨモギ,ヨモギ | sagebrush,wormwood,mugwort
+8702 (蜂): 蜂,ワスプ,スズメバチ | bee,wasp,hornet
+8912 (褒): 賞賛,褒めそやします | praise,extol
+8A2A (訪): 上の呼び出し,訪問,見上げる,オファー同情 | call on,visit,look up,offer sympathy
+8C4A (豊): 豊富な,優れた,リッチ | bountiful,excellent,rich
+90A6 (邦): 本国,国,日本 | home country,country,Japan
+92D2 (鋒): 短剣,剣のポイント,山車,浮く | dagger,sword\'s point,festival car,float
+98FD (飽): 十分に満足しました,にうんざりする,うんざりしました,満腹します | sated,tired of,bored,satiate
+9CF3 (鳳): 男性の神話上の鳥 | male mythical bird
+9D6C (鵬): フェニックス | phoenix
+4E4F (乏): 貧困,乏しいです,限られました | destitution,scarce,limited
+4EA1 (亡): 故人,遅く,死にかけています,滅びる | deceased,the late,dying,perish
+508D (傍): 傍観者,側,ほかに,同時に,近所の,第三者 | bystander,side,besides,while,nearby,third person
+5256 (剖): 分割 | divide
+574A (坊): 男の子,司祭の住居,祭司 | boy,priest\'s residence,priest
+59A8 (妨): ディスターブ,防ぐ,妨げます,妨害します | disturb,prevent,hamper,obstruct
+5E3D (帽): キャップ,ヘッドギア | cap,headgear
+5FD8 (忘): 忘れる | forget
+5FD9 (忙): 忙しい,占領下,落ち着きのありません | busy,occupied,restless
+623F (房): タッセル,房,フリンジ,束,ロック（髪）,セグメント（オレンジ）,家,ルーム | tassel,tuft,fringe,bunch,lock (hair),segment (orange),house,room
+66B4 (暴): 爆発,レイブ,フレット,力,暴力,残酷さ,激怒 | outburst,rave,fret,force,violence,cruelty,outrage
+671B (望): 野心,満月,希望,慾望,を熱望,期待します | ambition,full moon,hope,desire,aspire to,expect
+67D0 (某): まだまだ,1,一定,あの人 | so-and-so,one,a certain,that person
+68D2 (棒): ロッド,スティック,杖,ポール,クラブ,ライン | rod,stick,cane,pole,club,line
+5192 (冒): リスク,面,無視します,挑戦,損傷,（名）を想定 | risk,face,defy,dare,damage,assume (a name)
+7D21 (紡): 紡糸 | spinning
+80AA (肪): 肥満しました,脂肪 | obese,fat
+81A8 (膨): うねり,太ります,厚いです | swell,get fat,thick
+8B00 (謀): 共謀します,カンニング,付け入ります,計画,考案します,スキーム,思っている,欺く | conspire,cheat,impose on,plan,devise,scheme,have in mind,deceive
+8C8C (貌): 形,外観,表情 | form,appearance,countenance
+8CBF (貿): トレード,交換 | trade,exchange
+927E (鉾): 薙刀,武器,フェスティバルフロート | halberd,arms,festival float
+9632 (防): 追い払います,守る,守ります,抵抗します | ward off,defend,protect,resist
+5420 (吠): 樹皮,遠ぼえ,泣く | bark,howl,cry
+982C (頬): 頬,顎 | cheeks,jaw
+5317 (北): 北 | north
+50D5 (僕): 私に,I（オス）,サーバント,下男 | me,I (male),servant,manservant
