@@ -1,100 +1,124 @@
-78FE (磾):  | 
-791B (礛):  | 
-792E (礮): 重い石を大砲を投げる古代のバリスタ,銃 | ancient ballista for throwing heavy stones a cannon,a gun
-7930 (礰):  | 
-79CC (秌):  | 
-79CD (种): シード,レース,繁殖,植える | seed,race,breed,to plant
-7ABE (窾): 穴,ホロー,空の | hole,hallow,empty
-7AE7 (竧):  | 
-7B12 (笒):  | 
-7B3B (笻):  | 
-7B79 (筹): チップ,タリー,トークン,資金を調達します | chip,tally,token,raise money
-7B7F (筿):  | 
-7BF0 (篰): ざる | a bamboo basket
-7C1E (簞): 保持するための小さな竹かご | small bamboo basket for holding
-7C45 (籅):  | 
-7C57 (籗):  | 
-7C6F (籯): 竹のチェスト,筒状の竹ケース | bamboo chest,tubular bamboo case
-7DA0 (綠): 緑,塩素 | green,chlorine
-7DC0 (緀):  | 
-7DD6 (緖): スレッドの終了,糸,手掛かり | end of thread,thread,clue
-7DE3 (緣): 裾,マージン,理由,原因,カルマ,運命 | hem,margin,reason,cause,karma,fate
-7E75 (繵):  | 
-8002 (耂): ラジカル125の変種 | variant of radical 125
-8043 (聃): リムなしの耳,個人名 | ears without rims,a personal name
-807B (聻):  | 
-8099 (肙): 小さなワーム,ねじっします,サラウンドへ,空の | a small worm,to twist,to surround,empty
-80A4 (肤): 肌,表面的な,浅い | skin,superficial,shallow
-80C5 (胅):  | 
-80CA (胊): ヨーク | yoke
-80E6 (胦): へそ | the navel
-80F5 (胵):  | 
-80FB (胻):  | 
-810D (脍): ミンチ肉または魚 | minced meat or fish
-813D (脽):  | 
-81C1 (臁): カーフ | calf
-81D6 (臖):  | 
-8204 (舄): 靴,靴のソール,カササギ | a shoe,the sole of a shoe,magpie
-823C (舼):  | 
-8249 (艉):  | 
-8257 (艗): ジャンクの弓 | bow of junk
-8279 (艹): 草,ラジカル数140 | grass,radical number 140
-8293 (芓):  | 
-830C (茌):  | 
-8362 (荢):  | 
-8363 (荣): 栄光,名誉,栄えます,栄えます | glory,honor,flourish,prosper
-83E1 (菡): つぼみ,蓮のつぼみ | buds,lotus buds
-83E5 (菥):  | 
-8417 (萗):  | 
-845F (葟):  | 
-8497 (蒗):  | 
-84CE (蓎):  | 
-851B (蔛): それは白い花にデンドロビウムを担う小蘭のような植物 | a small orchid-like plant it bears white flowers a dendrobium
-853E (蔾): いばらの種類 | kind of bramble
-85B0 (薰): 薬草,焼灼します | a medicinal herb,to cauterize
-85D9 (藙): ハナミズキ | dogwood
-85E1 (藡):  | 
-8624 (蘤): 花,花 | flower,blossoms
-8639 (蘹):  | 
-865B (虛): 偽,価値のない,空の,ホロー | false,worthless,empty,hollow
-8687 (蚇):  | 
-8689 (蚉):  | 
-869D (蚝): 毛深いと有毒毛虫 | hairy and poisonous caterpillars
-86E6 (蛦):  | 
-8751 (蝑):  | 
-877C (蝼): ケラ,Gryllotalpaアフリカーナ | a mole cricket,Gryllotalpa africana
-87E5 (蟥): リーチ | leech
-87E6 (蟦):  | 
-87EC (蟬): 蝉,連続的な | cicada,continuous
-87F5 (蟵):  | 
-886F (衯):  | 
-88BC (袼):  | 
-8937 (褷):  | 
-8980 (覀): ラジカル146の変種 | variant of radical 146
-8A21 (訡): 聖歌へ,うめき声へ,ため息します | to chant,to moan,to sigh
-8AD0 (諐): 障害 | fault
-8B0D (謍):  | 
-8B51 (譑):  | 
-8B69 (譩):  | 
-8B7F (譿):  | 
-8B9D (讝):  | 
-8CF1 (賱):  | 
-8CF4 (賴): 頼ります,頼ります,誣います | rely,depend on,accuse falsely
-8D0E (贎):  | 
-8E0C (踌): ためらいます,つまずきます,独り善がりの,自己満足の | hesitate,falter,smug,self-satisfied
-8E98 (躘):  | 
-8EB6 (躶): 裸,ヌード,ふだん着,ストリップ | bare,nude,undress,strip
-8F2B (輫):  | 
-8F4A (轊): 車軸先端 | axle-tip
-8FB4 (辴):  | 
-90DE (郞): 紳士 | gentleman
-90F2 (郲):  | 
-9115 (鄕): 国,農村,村 | country,rural,village
-9146 (酆): 周期間の状態の名前 | name of Zhou period state
-91C4 (釄): 二度目のワイン醸造 | wine brew for the second time
-9217 (鈗):  | 
-9256 (鉖):  | 
-92F7 (鋷):  | 
-9304 (錄): コピー,書き留めます,記録 | copy,write down,record
-934A (鍊): ワカサギの金属,フォージ,リファイン | smelt metals,forge,refine
-936B (鍫): シャベル | shovel
+93F1 (鏱):  | 
+93F5 (鏵): スペード,シャベル,すきの刃 | spade,shovel,plowshare
+9586 (閆): 村のゲート | village gate
+9634 (阴): \ '女性\'の原則,ダーク,秘密 | \'female\' principle,dark,secret
+96BD (隽): 優れました,傑出した,才能のあります | superior,outstanding,talented
+9714 (霔):  | 
+9736 (霶): 雨のdownpouring | downpouring of rain
+973B (霻):  | 
+9747 (靇):  | 
+974D (靍):  | 
+9804 (頄): 頬骨 | cheekbone
+98BC (颼): 天籟,肌寒い吹きます | sound of wind,blow chilly
+98C7 (飇): 旋風,嵐の強風 | whirlwind,stormy gale
+98CB (飋):  | 
+98E0 (飠): 食べる,フード,ラジカル数184 | eat,food,radical number 184
+98F0 (飰):  | 
+98F1 (飱): 夕飯 | evening meal
+999E (馞):  | 
+99A3 (馣):  | 
+99FC (駼):  | 
+9A0A (騊):  | 
+9A1A (騚):  | 
+9A31 (騱):  | 
+9A52 (驒): まだら模様の | dappled
+9A58 (驘): ラバ | mule
+9AB7 (骷): スケルトン | skeleton
+9B72 (魲): 魚の名前 | fish name
+9B76 (魶):  | 
+9BEE (鯮):  | 
+9C1D (鰝):  | 
+9C65 (鱥):  | 
+9C6D (鱭): アンチョビ | anchovy
+9C7A (鱺): ウナギ | eel
+9D52 (鵒): 九官鳥鳥 | mynah bird
+9D73 (鵳):  | 
+9D99 (鶙):  | 
+9DBD (鶽): 鷹 | a hawk
+9DC0 (鷀): 釣りの鵜 | the fishing cormorant
+9DE3 (鷣):  | 
+9E0D (鸍):  | 
+9EBD (麽): 疑問最終粒子,取るに足りません,小さい,小さな | interrogative final particle,insignificant,small,tiny
+9EC3 (黃): 黄,姓 | yellow,surname
+9ED1 (黑): 黒,ダーク,悪の,不吉な | black,dark,evil,sinister
+F91D (欄): 手すり,手すり,動物パン | railing,balustrade,animal pan
+F928 (廊): 廊下,ポーチ,ベランダ | corridor,porch,veranda
+F929 (朗): クリア,鮮やか,異なります | clear,bright,distinct
+F936 (虜): キャプチャー,投獄します,つかみます,刑務所 | capture,imprison,seize,prison
+F970 (殺): 殺します,虐殺,殺人,傷つけます | kill,slaughter,murder,hurt
+F9D0 (類): クラス,グループ,種類,カテゴリー | class,group,kind,category
+F9DC (隆): 豊かな,豊富な,豊富な | prosperous,plentiful,abundant
+FA0F (﨏):  | 
+FA10 (塚): 墓地,墓 | cemetery,tomb
+FA11 (﨑):  | 
+FA13 (﨓):  | 
+FA14 (﨔):  | 
+FA15 (凞): 鮮やか | bright
+FA16 (猪): 豚 | pig
+FA19 (神): 精神 | spirit
+FA1A (祥): がんばろう | good luck
+FA1B (福): 幸福 | happiness
+FA1F (﨟):  | 
+FA20 (蘒):  | 
+FA21 (﨡):  | 
+FA22 (諸): いくつかの | several
+FA24 (﨤):  | 
+FA26 (都):  | 
+FA30 (侮):  | 
+FA31 (僧):  | 
+FA32 (免):  | 
+FA33 (勉):  | 
+FA34 (勤):  | 
+FA35 (卑):  | 
+FA36 (喝):  | 
+FA37 (嘆):  | 
+FA38 (器):  | 
+FA39 (塀):  | 
+FA3A (墨):  | 
+FA3B (層):  | 
+FA3C (屮):  | 
+FA3D (悔):  | 
+FA3E (慨):  | 
+FA3F (憎):  | 
+FA40 (懲):  | 
+FA41 (敏):  | 
+FA42 (既):  | 
+FA43 (暑):  | 
+FA44 (梅):  | 
+FA45 (海):  | 
+FA46 (渚):  | 
+FA47 (漢):  | 
+FA48 (煮):  | 
+FA49 (爫):  | 
+FA4A (琢):  | 
+FA4B (碑):  | 
+FA4C (社):  | 
+FA4D (祉):  | 
+FA4E (祈):  | 
+FA4F (祐):  | 
+FA50 (祖):  | 
+FA51 (祝):  | 
+FA52 (禍):  | 
+FA53 (禎):  | 
+FA54 (穀):  | 
+FA55 (突):  | 
+FA56 (節):  | 
+FA57 (練):  | 
+FA58 (縉):  | 
+FA59 (繁):  | 
+FA5A (署):  | 
+FA5B (者):  | 
+FA5C (臭):  | 
+FA5D (艹):  | 
+FA5E (艹):  | 
+FA5F (著):  | 
+FA60 (褐):  | 
+FA61 (視):  | 
+FA62 (謁):  | 
+FA63 (謹):  | 
+FA64 (賓):  | 
+FA65 (贈):  | 
+FA66 (辶):  | 
+FA67 (逸):  | 
+FA68 (難):  | 
+FA69 (響):  | 
