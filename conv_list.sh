@@ -160,7 +160,7 @@ time ./to_ja_parallel.js -f 10000 -t 10099
 for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00094.txt; done
 time ./to_ja_parallel.js -f 10100 -t 10199
 for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00095.txt; done
-time ./to_ja_parallel.js -f 10009600 -t 10299
+time ./to_ja_parallel.js -f 10200 -t 10299
 for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00096.txt; done
 time ./to_ja_parallel.js -f 10300 -t 10399
 for i in {1..10}; do cat "/tmp/mean-$i.txt" >> kanjidic2_ja_meanings_00097.txt; done
