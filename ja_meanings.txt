@@ -2270,7 +2270,7 @@
 9AEA (髪): 頭髪 | hair of the head
 4F10 (伐): 落ちた,ストライク,攻撃,罰する | fell,strike,attack,punish
 7F70 (罰): ペナルティ,罰 | penalty,punishment
-629C (抜): 抜く,抜ける| slip out,extract,pull out,pilfer,quote,remove,omit
+629C (抜): 抜く,抜ける | slip out,extract,pull out,pilfer,quote,remove,omit
 7B4F (筏): ラフト | raft
 95A5 (閥): 徒党,系統,血統,派,一族 | clique,lineage,pedigree,faction,clan
 9CE9 (鳩): 鳩,鳩 | pigeon,dove
