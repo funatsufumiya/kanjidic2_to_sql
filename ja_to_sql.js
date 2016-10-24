@@ -18,7 +18,7 @@ CREATE TABLE ${table} (
   kanji varchar(2) NOT NULL,
   meanings TEXT,
   UNIQUE KEY utf (utf),
-  KEY kanji (kanji),
+  KEY kanji (kanji)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 `);
 
@@ -31,7 +31,7 @@ lineReader.on('line', line => {
     let utf = m[1];
     let kanji = m[2];
     let mean = m[3];
-    let sql = `INSERT INTO ${table} (utf, kanji, meanings) VALUES ('${utf}', '${kanji}', '${mean}')`;
+    let sql = `INSERT INTO ${table} (utf, kanji, meanings) VALUES ('${utf}', '${kanji}', '${mean}');`;
     console.log(sql);
   }else{
     console.error('[ERROR] Not match');
