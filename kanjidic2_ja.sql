@@ -6960,7 +6960,7 @@ INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('569F', '嚟', '');
 INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('56A6', '嚦', '擬音式で使用される');
 INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('56A7', '嚧', '');
 INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('56A8', '嚨', '喉');
-INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('56A9', '嚩', 'サンスクリットの'va'を音訳するために使用');
+INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('56A9', '嚩', 'サンスクリットの\'va\'を音訳するために使用');
 INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('56AB', '嚫', '');
 INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('56AC', '嚬', '渋面,顔をしかめる');
 INSERT INTO kanjidic2_ja (utf, kanji, meanings) VALUES ('56AD', '嚭', 'マウンド,塊,こっそり');
