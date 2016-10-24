@@ -1893,7 +1893,7 @@
 8074 (聴): 聴く,頑固な,いたずらな,慎重に調査 | listen,headstrong,naughty,careful inquiry
 8139 (脹): 拡張させる,膨張させる,膨らみ,記入する,うねり | dilate,distend,bulge,fill out,swell
 8178 (腸): 腸,ガッツ,腸,内臓 | intestines,guts,bowels,viscera
-8776 (蝶): バタフライ | butterfly
+8776 (蝶): 蝶 | butterfly
 8ABF (調): 曲,トーン,メーター,キー（音楽）,文体,準備する,追い払う,調査する,ハーモナイズ,介在する | tune,tone,meter,key (music),writing style,prepare,exorcise,investigate,harmonize,mediate
 8ADC (諜): 探り出する,偵察 | spy out,reconnoiter
 8D85 (超): 超越する,スーパー-,ウルトラ- | transcend,super-,ultra-
@@ -2042,7 +2042,7 @@
 5CF6 (島): 島 | island
 5D8B (嶋): 島 | island
 60BC (悼): 嘆く,嘆く | lament,grieve over
-6295 (投): スロー,捨てる,放棄する,起動,参加する,投資する,投げる,あきらめる,損失で売る | throw,discard,abandon,launch into,join,invest in,hurl,give up,sell at a loss
+6295 (投): 投げる,捨てる,放棄する,起動,参加する,投資する,あきらめる,損失で売る | throw,discard,abandon,launch into,join,invest in,hurl,give up,sell at a loss
 642D (搭): ボード,負荷（車両）,ライド | board,load (a vehicle),ride
 6771 (東): 東 | east
 6843 (桃): 桃 | peach
@@ -2057,7 +2057,7 @@
 5F53 (当): ヒット,右,適切な,彼自身 | hit,right,appropriate,himself
 75D8 (痘): 痘,天然痘 | pox,smallpox
 7977 (祷): 祈る | pray
-7B49 (等): 等,など,クラス（最初の）,品質,等しい,同様の | etc.,and so forth,class (first),quality,equal,similar
+7B49 (等): 等,など,等級,品質,等しい,同様の | etc.,and so forth,class (first),quality,equal,similar
 7B54 (答): 溶液,回答 | solution,answer
 7B52 (筒): シリンダー,パイプ,チューブ,砲身,スリーブ | cylinder,pipe,tube,gun barrel,sleeve
 7CD6 (糖): シュガー | sugar
@@ -2099,15 +2099,15 @@
 6D9C (涜): 汚する,冒とくする,溝 | defile,blaspheme,ditch
 7279 (特): 特別 | special
 7763 (督): コーチ,コマンド,衝動,鉛,監督する | coach,command,urge,lead,supervise
-79BF (禿): はげになる,裸,すり減らする,浪費する,売春宿で​​使用少女 | become bald,bare,wear out,waste away,little girl employed at a brothel
+79BF (禿): はげになる,裸,すり減らす,浪費する,売春宿で​​雇われた少女 | become bald,bare,wear out,waste away,little girl employed at a brothel
 7BE4 (篤): 熱烈な,種類,心のこもった,深刻,意図的な | fervent,kind,cordial,serious,deliberate
 6BD2 (毒): 毒,ウイルス,毒,胚芽,害,損傷,にもかかわらず | poison,virus,venom,germ,harm,injury,spite
 72EC (独): シングル,一人で,自発的に,ドイツ | single,alone,spontaneously,Germany
 8AAD (読): 読む | read
 6803 (栃): マロニエ | horse chestnut,(kokuji)
 6A61 (橡): マロニエ | horse chestnut
-51F8 (凸): 凸面,カブトムシ眉,平らでない | convex,beetle brow,uneven
-7A81 (突): 刺する,突き出た,推力,ピアス,刺する,衝突,突然 | stab,protruding,thrust,pierce,prick,collision,sudden
+51F8 (凸): 凸面,平らでない | convex,beetle brow,uneven
+7A81 (突): 突き出た,推力,衝突,突然 | stab,protruding,thrust,pierce,prick,collision,sudden
 6934 (椴): モミ | fir
 5C4A (届): 届ける,リーチ,到着する,報告する,通知する,フォワード | deliver,reach,arrive,report,notify,forward
 9CF6 (鳶): トビ,消防士,フック | black kite,fireman,hook
@@ -2685,7 +2685,7 @@
 8499 (蒙): 無知,闇,取得する,受け取る,に供すること,サスティーン,モンゴル | ignorance,darkness,get,receive,be subjected to,sustain,Mongolia
 5132 (儲): 収益性,収量利益 | be profitable,yield profit
 6728 (木): 木,木材 | tree,wood
-9ED9 (黙): 沈黙,沈黙する,話す停止,そのまま残する | silence,become silent,stop speaking,leave as is
+9ED9 (黙): 沈黙,沈黙する,話すのを止める,そのまま残す | silence,become silent,stop speaking,leave as is
 76EE (目): 眼,クラス,見る,洞察,経験,お手入れ,好意 | eye,class,look,insight,experience,care,favor
 6762 (杢): 木工機械 | woodworker,(kokuji)
 52FF (勿): してはいけない,しない | not,must not,do not,be not
@@ -2693,13 +2693,13 @@
 5C24 (尤): リーズナブル,ただ,ナチュラル,素晴らしい,傑出した,もっともらしい | reasonable,just,natural,superb,outstanding,plausible
 623B (戻): 再び,リターン,戻する,履歴書,リストア,後方に行く | re-,return,revert,resume,restore,go backwards
 7C7E (籾): 籾 | unhulled rice,(kokuji)
-8CB0 (貰): 取得する,持ってる,入手する | get,have,obtain
+8CB0 (貰): 取得する,持っている,入手する | get,have,obtain
 554F (問): 質問,頼む,問題 | question,ask,problem
 60B6 (悶): 悶える,心配 | be in agony,worry
 7D0B (紋): 家紋,統計 | family crest,figures
 9580 (門): ゲート,大砲のためのカウンタ | gate,counter for cannons
 5301 (匁): 匁,3.75グラム | monme,3.75 grams,(kokuji)
-4E5F (也): （古典的）であることが | to be (classical)
+4E5F (也): （古典的）である | to be (classical)
 51B6 (冶): 溶融,精錬 | melting,smelting
 591C (夜): 夜,イブニング | night,evening
 723A (爺): 老人,おじいちゃん | old man,grampa
@@ -2720,7 +2720,7 @@
 6109 (愉): 喜び,ハッピー,喜ぶ | pleasure,happy,rejoice
 6108 (愈): 優れていること,癒する,だんだん,ますます,最後に,疑う余地なく | be superior,heal,more and more,increasingly,finally,beyond doubt
 6CB9 (油): 油,脂肪 | oil,fat
-7652 (癒): ヒーリング,治す,クエンチ（渇き）,もたらする | healing,cure,quench (thirst),wreak
+7652 (癒): ヒーリング,治す,クエンチ（渇き）,もたらす | healing,cure,quench (thirst),wreak
 8AED (諭): 叱責,戒める,電荷,警告する,説得する | rebuke,admonish,charge,warn,persuade
 8F38 (輸): 輸送,送信,劣る | transport,send,be inferior
 552F (唯): もっぱら,のみ,単に,単に | solely,only,merely,simply
@@ -7144,7 +7144,7 @@
 8641 (虁):  | 
 591D (夝):  | 
 5921 (夡):  | 
-5923 (夣): 夢,夢へ,先見の明のある,愚か | dream,to dream,visionary,stupid
+5923 (夣): 夢 | dream,to dream,visionary,stupid
 5924 (夤): 遠方,リモート,深い | distant place,remote,deep
 5928 (夨):  | 
 592F (夯): 重荷重,重荷,持ち上げる | heavy load,burden,lift up
@@ -7281,7 +7281,7 @@
 5B19 (嬙): レディ | lady
 5B1B (嬛): 適切な,賢い,ごますり,おべっか使い | apt,clever,sycophant,flatterer
 5B1D (嬝): 繊細な,優美な | delicate,graceful
-5B21 (嬡): （あなたの娘 | (your) daughter
+5B21 (嬡): 娘 | (your) daughter
 5B25 (嬥): スリム,よく釣り合いのとれた,美しい体,魅力的な,魅惑的な,古代中国の遊び | slim, well proportioned, beautiful body,charming,captivating,ancient Chinese play
 5B2D (嬭): ミルク,乳を飲む,おっぱい | milk,suckle,breasts
 5B38 (嬸): 父の弟の妻 | wife of father\'s younger brother
@@ -7317,7 +7317,7 @@
 5BB2 (宲):  | 
 5BB7 (宷):  | 
 5BBA (宺):  | 
-5BBC (宼): 専制的な,残酷な,奪い取ること,略奪する,山賊,泥棒,highwaymanの複数形 | tyrannical,cruel,to rob,to plunder,bandits,thieves,highwaymen
+5BBC (宼): 専制的な,残酷な,奪い取ること,略奪する,山賊,泥棒 | tyrannical,cruel,to rob,to plunder,bandits,thieves,highwaymen
 5BC0 (寀): 封建不動産 | feudal estate
 5BC1 (寁): クイック,速い | quick,fast
 5BCD (寍): 比較の用語として使用される | used as a term of comparison
@@ -7332,7 +7332,7 @@
 5BF1 (寱):  | 
 5BF4 (寴):  | 
 5BFD (寽): 一握り,ピンチ | handful,pinch
-5C0C (尌): （何かを）立っ | standing (something) up
+5C0C (尌): （何かを）立ちあげる | standing (something) up
 5C17 (尗): 兄弟の若い,父の弟,夫の弟 | younger of brothers,father\'s younger brother,younger brother of a husband
 5C1E (尞): 犠牲のために使用される燃料 | fuel used for sacrifices
 5C1F (尟): 姓,新鮮な | surname,fresh
